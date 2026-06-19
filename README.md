@@ -1,4 +1,4 @@
-# Vibe Coding for Simple Web Apps: an Introduction
+# Vibe Coding for Simple Web Apps: An Introduction
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/genai-vibe-code-intro/
