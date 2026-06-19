@@ -20,11 +20,25 @@ nav_order: 1
 
 This workshop is not an endorsement of Taguette; there are many options for qualitative analysis and coding and other software may be better in other contexts.
 
-## Learning objectives - UPDATE FOR THE NEW TOOL
+## Learning objectives
 
 At the end of this workshop, you will be able to:
 
-1. Identify the differences between manual coding and coding with qualitative coding software
-2. **MORE OBJECTIVES**
+1. Explain the main benefits and drawbacks of vibe coding
+2. Security issues
+3. Create a flappy bird game
+4. **MORE OBJECTIVES**
+
+## Hands on Activities
+
+1. Flappy Orca: Auto-Run
+   - Avoid flappy bird style gates
+   - Eat fish
+   - Avoid plastic
+3. Sound board (Portuguese...)
+4. Portuguese Defender (mather blaster clone)
+5. TdV training app
+   - with completely insecure data storage on Github
+6. Other ideas?
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
