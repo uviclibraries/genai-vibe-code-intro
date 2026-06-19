@@ -11,13 +11,11 @@ nav_order: 1
 - Introductory presentation: 15 min
 - Hands-on activities: 50-70 min
 
-## Why TOOL NAME HERE? 
+## Why Should I Learn to Vibe Code? 
 
-**Why Vibe Coding? Story about Lang Revitalization games**...
+**Story about Lang Revitalization games**...
 
 [Taguette](https://taguette.org/){:target="_blank"} a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
-
-This workshop is not an endorsement of Taguette; there are many options for qualitative analysis and coding and other software may be better in other contexts.
 
 ## Learning objectives
 
@@ -26,7 +24,7 @@ At the end of this workshop, you will be able to:
 1. Explain the main benefits and drawbacks of vibe coding
 2. Security issues
 3. Create a flappy bird game
-4. **MORE OBJECTIVES**
+4. **MORE OBJECTIVES**...
 
 ## Hands on Activities
 
