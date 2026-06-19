@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 1
 ---
 **UPDATE PHOTO**
-<img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
+<img src="images/vibe-code-logo.png" style="float:right;width:180px;" alt="decorative">
 
 # Vibe Coding for Simple Web Apps: An Introduction
 
