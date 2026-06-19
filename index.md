@@ -28,14 +28,22 @@ At the end of this workshop, you will be able to:
 
 ## Hands on Activities
 
-1. Flappy Orca: Auto-Run
+1. Flappy Orca: Auto-Run style game: https://richmccue.github.io/papertowel/
    - Avoid flappy bird style gates
    - Eat fish
    - Avoid plastic
-3. Sound board (Portuguese...)
-4. Portuguese Defender (mather blaster clone)
-5. TdV training app
+3. Sound board Portuguese:
+   - https://richmccue.github.io/brasil-letters/portuguese.html
+   - https://richmccue.github.io/likwala/likwala-soundboard.html
+5. Portuguese Defender (mather blaster inspired): https://richmccue.github.io/likwala/likwala-defender.html 
+7. Quiz game w/ downloadable badge: https://richmccue.github.io/learning-games/phone_listening_quiz.html 
+8. Jeapordy game
+   - Start w/ dosument or topic in NotebookLM and create categories & questions
+   - Feed into Claude or Gemini to create the game
+9. Tour de Victoria training app
+   - Stand alone with data store in browser, on device
    - with completely insecure data storage on Github
-6. Other ideas?
+10. Volcanic erruption simulator: https://richmccue.github.io/learning-games/volcano-phases.html 
+11. Other ideas?
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
