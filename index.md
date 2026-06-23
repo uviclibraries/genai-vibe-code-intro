@@ -21,11 +21,9 @@ nav_order: 1
 
 At the end of this workshop, you will be able to:
 
-1. Explain the main benefits and drawbacks of vibe coding
-2. Security issues...
-3. Game mechanics...
-4. Use Desing Thinking techniques to help design an educational game
-5. Create one or more of the following style of games:
+1. Explain the main benefits of vibe coding to a friend
+2. Explain common security issues that arise from vibe coding
+6. Create one or more of the following style of games:
    - Create a endless runner style of game like Flappy Birds or Orca Run for learning
    - Create a sound board game for language revitalization or language learning
    - Create a missle command style game for language revitalization
@@ -38,7 +36,8 @@ At the end of this workshop, you will be able to:
    - Create a Pandemic style game for learning **???**
 12. Make one or more games playable on mobile devices in addition to laptops
 13. Make one or more games playable offline (no internet connection)
-14. **MORE Learning OBJECTIVES?**
+4. Demonstrate the use of effective game mechanics in one or more games
+5. Use Desing Thinking techniques to help design an effective educational game
 
 ## Hands on Activities
 
