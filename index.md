@@ -22,9 +22,16 @@ nav_order: 1
 At the end of this workshop, you will be able to:
 
 1. Explain the main benefits and drawbacks of vibe coding
-2. Security issues
-3. Create a flappy bird game
-4. **MORE OBJECTIVES**...
+2. Security issues...
+3. Game mechanics...
+4. Use Desing Thinking techniques to help design an educational game
+5. Create one or more of the following style of games:
+   - Create a flappy bird game
+   - Create a sound board game for language revitalization
+   - reate a missle command style game for language revitalization
+   - Create a game runner style game for learning
+   - Craete a frogger style game for learning
+12. **MORE Learning OBJECTIVES?**
 
 ## Hands on Activities
 
