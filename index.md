@@ -26,12 +26,19 @@ At the end of this workshop, you will be able to:
 3. Game mechanics...
 4. Use Desing Thinking techniques to help design an educational game
 5. Create one or more of the following style of games:
-   - Create a flappy bird game
-   - Create a sound board game for language revitalization
-   - reate a missle command style game for language revitalization
-   - Create a game runner style game for learning
+   - Create a endless runner style of game like Flappy Birds or Orca Run for learning
+   - Create a sound board game for language revitalization or language learning
+   - Create a missle command style game for language revitalization
    - Craete a frogger style game for learning
-12. **MORE Learning OBJECTIVES?**
+   - Create a simulation for learning about things like Volcao erruptions & **???**
+   - Create a quize game for reviewing unit information
+   - Create a jeapordy style game for playing in a group setting
+   - Create a training app for preparing for an upcoming event like a half marathon or grand fondo bike ride
+   - Create a Super Mario style game for learning
+   - Create a Pandemic style game for learning **???**
+12. Make one or more games playable on mobile devices in addition to laptops
+13. Make one or more games playable offline (no internet connection)
+14. **MORE Learning OBJECTIVES?**
 
 ## Hands on Activities
 
@@ -39,18 +46,20 @@ At the end of this workshop, you will be able to:
    - Avoid flappy bird style gates
    - Eat fish
    - Avoid plastic
-3. Sound board Portuguese:
-   - https://richmccue.github.io/brasil-letters/portuguese.html
+3. Sound board game:
+   - https://richmccue.github.io/brasil-letters/portuguese.html (add score?)
    - https://richmccue.github.io/likwala/likwala-soundboard.html
-5. Portuguese Defender (mather blaster inspired): https://richmccue.github.io/likwala/likwala-defender.html 
-7. Quiz game w/ downloadable badge: https://richmccue.github.io/learning-games/phone_listening_quiz.html 
-8. Jeapordy game
+5. Lik'wala Defender (mather blaster inspired): https://richmccue.github.io/likwala/likwala-defender.html
+6. Frogger Style game: **update...**
+7. Volcanic erruption simulator: https://richmccue.github.io/learning-games/volcano-phases.html
+8. Quiz game w/ downloadable badge: https://richmccue.github.io/learning-games/phone_listening_quiz.html 
+9. Jeapordy game: https://richmccue.github.io/learning-games/jeopardy.html
    - Start w/ dosument or topic in NotebookLM and create categories & questions
    - Feed into Claude or Gemini to create the game
-9. Tour de Victoria training app
+10. Tour de Victoria training app: https://richmccue.github.io/
    - Stand alone with data store in browser, on device
    - with completely insecure data storage on Github
-10. Volcanic erruption simulator: https://richmccue.github.io/learning-games/volcano-phases.html 
-11. Other ideas?
+11. Super Mario Learning game:
+12. Pandemic Style game: 
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
