@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1-First Activity
+title: 1-Sound Board
 nav_order: 3
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
