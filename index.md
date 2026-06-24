@@ -13,9 +13,9 @@ nav_order: 1
 
 ## Why Should I Learn to Vibe Code? 
 
-**Story about Lang Revitalization games**...
+Imagine bringing your ideas for custom apps and learning games to life without ever writing a single line of code. This hands-on workshop introduces you to the world of "vibe coding, "a modern software development technique where your natural language descriptions are transformed into fully functional web applications using generative AI tools. Vibe coding allows you can shift your focus entirely to creative design and rapid prototyping. Whether you are an educator aiming to build custom learning resources or a student looking to develop a personal project, this workshop lowers the barriers software creation, giving you the digital agency to build tailor-made web tools from scratch in a matter of minutes.
 
-[Taguette](https://taguette.org/){:target="_blank"} a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
+Beyond creating web applications, participating fully in this workshop will help you begin to develop critical, highly transferable digital AI-literacy skills. You will start to learn the art of iterative prompt engineering, learn how to effectively collaborate with Large Language Models to debug and refine your creations, and navigate important considerations regarding AI security, privacy and ethics. While vibe coding provides the ultimate sandbox for zero-barrier experimentation and creative innovation. Join us to transition from a consumer of digital technology to an active creator, and walk away with the practical skills and confidence to turn your conceptual visions into reality.
 
 ## Learning objectives
 
@@ -23,21 +23,21 @@ At the end of this workshop, you will be able to:
 
 1. Explain the main benefits of vibe coding to a friend
 2. Explain common security issues that arise from vibe coding
-6. Create one or more of the following style of games:
+3. Create one or more of the following games or web applications:
    - Create a endless runner style of game like Flappy Birds or Orca Run for learning
    - Create a sound board game for language revitalization or language learning
    - Create a missle command style game for language revitalization
    - Craete a frogger style game for learning
    - Create a simulation for learning about things like Volcao erruptions
    - Create a quize game for reviewing unit information
-   - Create a jeapordy style game for playing in a group setting
-   - Create a training app for preparing for an upcoming event like a half marathon or grand fondo bike ride
+   - Create a jeapordy style game for playing in group settings
+   - Create a training app for preparing for an upcoming sporting event like a bike ride or marathon
    - Create a Super Mario style game for learning
    - Create a Pandemic style game for learning about epedemiology
-12. Make one or more games playable on mobile devices in addition to laptops
-13. Make one or more games playable offline (no internet connection)
-4. Demonstrate the use of effective game mechanics in one or more games
-5. Use Desing Thinking techniques to help design an effective educational game
+4. Make one or more web apps usable on mobile devices in addition to laptops
+5. Make one or more games usable offline (with no internet connection)
+6. Demonstrate the use of effective game mechanics in one or more games
+7. Use Desing Thinking techniques to help design an effective educational game or web application
 
 ## Hands on Activities
 
