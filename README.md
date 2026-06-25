@@ -1,4 +1,4 @@
-# Vibe Coding for Simple Web Apps: An Introduction
+# From Idea to App: Create Learning Games & Apps Using Generative AI
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://lib.uvic.ca/vibe-code-intro
