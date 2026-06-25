@@ -1,4 +1,4 @@
-# From Ideas to Apps: Create Learning Games & Apps With Generative AI
+# From Ideas to Apps: Create Learning Games & Apps with Generative AI
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://lib.uvic.ca/vibe-code-intro
