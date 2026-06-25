@@ -5,13 +5,13 @@ nav_order: 1
 ---
 <img src="images/vibe-code-logo.png" style="float:right;width:180px;" alt="decorative">
 
-# Vibe Coding for Simple Web Apps: An Introduction
+# From Idea to App: Create Learning Games & Apps Using Generative AI
 
 - Pre-workshop activities: 10 min 
 - Introductory presentation: 15 min
 - Hands-on activities: 50-70 min
 
-## Why Should I Learn to Vibe Code? 
+## Why Should I Learn to Create Apps with GenAI? 
 
 Imagine bringing your ideas for custom apps and learning games to life without ever writing a single line of code. This hands-on workshop introduces you to the world of "vibe coding, "a modern software development technique where your natural language descriptions are transformed into fully functional web applications using generative AI tools. Vibe coding allows you can shift your focus entirely to creative design and rapid prototyping. Whether you are an educator aiming to build custom learning resources or a student looking to develop a personal project, this workshop lowers the barriers software creation, giving you the digital agency to build tailor-made web tools from scratch in a matter of minutes.
 
