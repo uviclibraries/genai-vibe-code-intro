@@ -5,7 +5,7 @@ nav_order: 1
 ---
 <img src="images/vibe-code-logo.png" style="float:right;width:180px;" alt="decorative">
 
-# From Idea to App: Create Learning Games & Apps Using Generative AI
+# From Ideas to Apps: Create Learning Games & Apps With Generative AI
 
 - Pre-workshop activities: 10 min 
 - Introductory presentation: 15 min
