@@ -16,7 +16,7 @@ nav_order: 1
 
 Imagine bringing your ideas for custom apps and learning games to life without ever writing a single line of code. This hands-on workshop introduces you to the world of "vibe coding, "a modern software development technique where your natural language descriptions are transformed into fully functional web applications using generative AI tools. Vibe coding allows you can shift your focus entirely to creative design and rapid prototyping. Whether you are an educator aiming to build custom learning resources or a student looking to develop a personal project, this workshop lowers the barriers software creation, giving you the digital agency to build tailor-made web tools from scratch in a matter of minutes.
 
-Beyond creating web applications, participating fully in this workshop will help you begin to develop critical, highly transferable digital AI-literacy skills. You will start to learn the art of iterative prompt engineering, learn how to effectively collaborate with Large Language Models to debug and refine your creations, and navigate important considerations regarding AI security, privacy and ethics. Vibe coding simple web applications provides a safe sandbox for zero-barrier experimentation and creative innovation. Join us in moving from a consumer of digital technology to an active creator, and walk away with the practical skills and confidence to turn your conceptual visions into reality.
+Join us in moving from a consumer of digital technology to an active creator, and walk away with the practical skills and confidence to turn your ideas into reality.
 
 ## Learning objectives
 
