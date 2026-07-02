@@ -9,7 +9,9 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # Make an Alphabet Soundboard in 5-Minutes! 
 
-Sound boards can be very helpful for people learning a new laguages begin to learn the sounds of letters at their own pace with as much or as little repitition as needed. Feel free to create a soundboard for ay language you want during this activity. That said, the audio files the activity are for a Portuguese soundboard, so if you choose to create a soundboard for a different languge, you can use the Portugues files as places holders until you are able record mp3 audio files for the language you chose.  
+Sound boards can be very helpful for people learning a new laguages begin to learn the sounds of letters at their own pace with as much or as little repitition as needed. Here's an example of a soundboard app crated for Language Revitalization purposes: [LiK'wala Soundboard for language learners](https://richmccue.github.io/likwala/likwala-soundboard.html){:target="_blank"}.
+
+Feel free to create a soundboard for any language you want during this activity. That said, the audio files the activity are for a Portuguese alphabet soundboard, so if you choose to create a soundboard for a different languge, you can use the Portugues files as places holders until you are able record audio files for the language you choose.  
 
 If you get stuck, please ask your instructor for assistance, and don't forget to have fun!
 
@@ -64,10 +66,6 @@ Change the letter mapping to the letter files with the letters that have a glott
 that for example the c' file name is: c_glottal.mp3
 ```
 
-  <details>
-    <summary>Show/Hide Animation</summary><br>
-    <img src="images/tinkercad-keychain-10.gif">
-  </details>
-
+Congratulations on completing this Alphabet Soundboard vibe code project! Here's an example of a soundboard app crated for Language Revitalization purposes: [LiK'wala Soundboard for language learners](https://richmccue.github.io/likwala/likwala-soundboard.html){:target="_blank"}.
 
 [NEXT STEP: Cellphone Keychain Stand](2-keychain-stand.html){: .btn .btn-blue }
