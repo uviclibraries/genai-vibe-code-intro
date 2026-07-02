@@ -68,4 +68,4 @@ that for example the c' file name is: c_glottal.mp3
 
 Congratulations on completing this Alphabet Soundboard vibe code project! Here's an example of a soundboard app crated for Language Revitalization purposes: [LiK'wala Soundboard for language learners](https://richmccue.github.io/likwala/likwala-soundboard.html){:target="_blank"}.
 
-[NEXT STEP: Cellphone Keychain Stand](2-keychain-stand.html){: .btn .btn-blue }
+[NEXT STEP: Super Maria](2-super-maria.html){: .btn .btn-blue }
