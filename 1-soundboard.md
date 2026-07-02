@@ -9,7 +9,9 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # Make an Alphabet Soundboard in 5-Minutes! 
 
-Sound boards can be very helpful for people learning a new laguages begin to learn the sounds of letters at their own pace with as much or as little repitition as needed. Feel free to create a soundboard for ay language you want during this activity. That said, the audio files the activity are for a Portuguese soundboard, so if you choose to create a soundboard for a different languge, you can use the Portugues files as places holders until you are able record mp3 audio files for the language you chose.  If you get stuck, please ask your instructor for assistance, and don't forget to have fun!
+Sound boards can be very helpful for people learning a new laguages begin to learn the sounds of letters at their own pace with as much or as little repitition as needed. Feel free to create a soundboard for ay language you want during this activity. That said, the audio files the activity are for a Portuguese soundboard, so if you choose to create a soundboard for a different languge, you can use the Portugues files as places holders until you are able record mp3 audio files for the language you chose.  
+
+If you get stuck, please ask your instructor for assistance, and don't forget to have fun!
 
 Step 1
 {: .label .label-step}
@@ -18,9 +20,8 @@ Step 1
 
 Step 2
 {: .label .label-step}
-- Click **Create new design**. If the TinkerCad tutorial pane is up on the right-hand side, you will need to get out of it before proceeding.
-- Click on the TinkerCad logo at the top to bring you back to your main page.
-- From there you should see the “Create new design” button. 
+- Copy and paste the following prompt into your GenAI tool (feel free to change the language of course) and then press Enter on your keyboard:
+- ```I’d like to create a HTML web application, to help people learn to say the letter of the Brazilian Portuguese alphabet properly. When a user clicks on a letter the web app will use the computer speaker to correctly pronounce the letter. I will provide the sound files for each Portuguese letter, and put them in a directory called “assets” and the filenames will be all lowercase. Put a phonetic pronunciation for English language speakers under each letter. Here is an example of what I would like for the alphabet of a different language: https://dom-aya.github.io/ayajuthem-soundboard/ ```
 {: .step}
 
 Step 3
