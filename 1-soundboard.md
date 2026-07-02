@@ -54,7 +54,7 @@ Step 7
 
   <details>
     <summary>Show/Hide Animation</summary><br>
-    - <img src="images/tinkercad-keychain-10.gif">
+    <img src="images/tinkercad-keychain-10.gif">
   </details>
 
 
