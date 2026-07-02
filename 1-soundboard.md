@@ -34,13 +34,14 @@ different language: https://dom-aya.github.io/ayajuthem-soundboard/
 
 Step 3
 {: .label .label-step}
-- On the right side of the TinkerCad open a drop-down menu by clicking on **Basic Shapes**, and then select the **Design Starters** option, then the **"A" Letter Icon**. 
-This will display a list of 3D letters that you can scroll down through to find the whole alphabet, plus numbers 1 through 9. 
+- Next we need wait a minute or two for Claude to create the HTML file for you. Once you see the **Download** button, click on it and make note of where you saved it on your laptop. 
 {: .step}
 
 Step 4
 {: .label .label-step}
-- Drag and drop all the individual letters from a name or word you want to use onto the workplane. 
+- Download the zip file that contains all the MP3 audio files for each Portuguese letter to the same folder where you downloaded the HTML file Claude created for you:
+  - Download the Portuguese audio for each letter in the zip file called: [assets.zip](assets/assets.zip)
+  - Find the assets.zip file on your laptop and unzip it. On a Mac you simply **double-click** on the file and it will unzip. On Windows you **right mouse click** on the file and select **Extract All…** 
 {: .step}
 
 Step 5
