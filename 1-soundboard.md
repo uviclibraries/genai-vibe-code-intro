@@ -13,32 +13,36 @@ If you or your group have any questions or get stuck as you work through this in
 
 Step 1
 {: .label .label-step}
-- If you haven’t already, please go to [the TinkerCad website and create an account](http://tinkercad.com){:target="_blank"} for yourself. If you find yourself in a tutorial, click on the Tinkercad logo in the top left of the screen to exit to the home page.
+- If you haven’t already, please go to [the TinkerCad website and create an account](http://tinkercad.com){:target="_blank"} for yourself.
+- If you find yourself in a tutorial, click on the Tinkercad logo in the top left of the screen to exit to the home page.
 {: .step}
 
 Step 2
 {: .label .label-step}
-- Click **Create new design**. If the TinkerCad tutorial pane is up on the right-hand side, you will need to get out of it before proceeding. Click on the TinkerCad logo at the top to bring you back to your main page. From there you should see the “Create new design” button. 
+- Click **Create new design**. If the TinkerCad tutorial pane is up on the right-hand side, you will need to get out of it before proceeding.
+- Click on the TinkerCad logo at the top to bring you back to your main page.
+- From there you should see the “Create new design” button. 
 {: .step}
 
 Step 3
 {: .label .label-step}
-On the right side of the TinkerCad open a drop-down menu by clicking on **Basic Shapes**, and then select the **Design Starters** option, then the **"A" Letter Icon**. This will display a list of 3D letters that you can scroll down through to find the whole alphabet, plus numbers 1 through 9. 
+- On the right side of the TinkerCad open a drop-down menu by clicking on **Basic Shapes**, and then select the **Design Starters** option, then the **"A" Letter Icon**. 
+This will display a list of 3D letters that you can scroll down through to find the whole alphabet, plus numbers 1 through 9. 
 {: .step}
 
 Step 4
 {: .label .label-step}
-Drag and drop all the individual letters from a name or word you want to use onto the workplane. 
+- Drag and drop all the individual letters from a name or word you want to use onto the workplane. 
 {: .step}
 
 Step 5
 {: .label .label-step}
-Select all the letters and then click on the **Align Button**.
+- Select all the letters and then click on the **Align Button**.
 {: .step}
 
 Step 6
 {: .label .label-step}
-Now move the letter closer together so that they overlap a significant amount so that when your keychain is printed it will stay together when some stress is put on it. See my example below:
+- Now move the letter closer together so that they overlap a significant amount so that when your keychain is printed it will stay together when some stress is put on it. See my example below:
 {: .step}
 
 Step 7
@@ -48,17 +52,18 @@ Step 7
   - Click on the **4.00** and change the number to “6” and then press the enter key, and the first letter will stand higher than all the rest. Raise every second letter so that your name looks something similar to this:
 {: .step}
 
-    <button onclick="toggle('gif3')">Show/Hide Animation</button>
-    <div id="gif3">
-    <img src="images/tinkercad-keychain-10.gif">
-    </div>
+<details>
+  <summary>This is the dropdown title</summary>
+  <br>
+  <img src="images/tinkercad-keychain-10.gif">
+</details>
 
 9. <img src="images/tinkercad-keychain-11.png" style="float:right;width:220px;height:220px;" alt="Drop down menu"> Now we’ll group all the letters together by selecting them all, and then clicking on the **Group** button. All the letters will change to the same colour and you can now select all the letters as one object.
 
-    <button onclick="toggle('gif4')">Show/Hide Animation</button>
-    <div id="gif4">
-    <img src="images/tinkercad-keychain-13.gif">
-    </div>
+<button onclick="toggle('gif4')">Show/Hide Animation</button>
+<div id="gif4">
+<img src="images/tinkercad-keychain-13.gif">
+</div>
 
 10. <img src="images/tinkercad-keychain-14.png" style="float:right;width:250px" alt="Group icon"> The last thing we need to do is to add a loop to your text so you can more easily hang your new design on your key ring. Start by clicking on **Text and Numbers** in the right panel, and then select **Basic Shapes**. This will display basic geometric shapes for us again.  Select the orange cylinder and drag and drop it into the workplane.
 
