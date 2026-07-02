@@ -5,7 +5,7 @@ nav_order: 3
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-<img src="images/sound-board-logo.jpg" style="float:right;width:200px;" alt="decorative"> 
+<img src="images/sound-board-logo.jpg" style="float:right;width:250px;" alt="decorative"> 
 
 # Make an Alphabet Soundboard in 5-Minutes! 
 
@@ -31,20 +31,15 @@ Step 4
 Drag and drop all the individual letters from a name or word you want to use onto the workplane. 
 {: .step}
 
-    <button onclick="toggle('gif1')">Show/Hide Animation</button>
-    <div id="gif1">
-    <img src="images/tinkercad-keychain-04.gif">
-    </div>
-
 Step 5
 {: .label .label-step}
 Select all the letters and then click on the **Align Button**.
 {: .step}
 
-6. Then click on the black handle on the bottom left of the text to align the text along the bottom.
-
-
-7. Now move the letter closer together so that they overlap a significant amount so that when your keychain is printed it will stay together when some stress is put on it. See my example below:
+Step 6
+{: .label .label-step}
+Now move the letter closer together so that they overlap a significant amount so that when your keychain is printed it will stay together when some stress is put on it. See my example below:
+{: .step}
 
     <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
