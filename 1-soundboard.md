@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1-Sound Board
+title: 1-Alphabet Sound Board
 nav_order: 3
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
@@ -41,12 +41,7 @@ Step 6
 Now move the letter closer together so that they overlap a significant amount so that when your keychain is printed it will stay together when some stress is put on it. See my example below:
 {: .step}
 
-    <button onclick="toggle('gif2')">Show/Hide Animation</button>
-    <div id="gif2">
-    <img src="images/tinkercad-keychain-07.gif">
-    </div>
-
-8. <img src="images/tinkercad-keychain-08.png" style="float:right;width:200px" alt="Clicking on the white dot and writing in A.B values"> To make the lettering a bit more interesting we are going to raise every other letter by 2mm from the current 4mm.  To start doing this click on the first letter, and then (A) click on the **white dot** near the middle of the letter (which will then turn red). (B) click on the **4.00** and change the number to “6” and then press the enter key, and the first letter will stand higher than all the rest. Raise every second letter so that your name looks something similar to this:
+8. To make the lettering a bit more interesting we are going to raise every other letter by 2mm from the current 4mm.  To start doing this click on the first letter, and then (A) click on the **white dot** near the middle of the letter (which will then turn red). (B) click on the **4.00** and change the number to “6” and then press the enter key, and the first letter will stand higher than all the rest. Raise every second letter so that your name looks something similar to this:
 
     <button onclick="toggle('gif3')">Show/Hide Animation</button>
     <div id="gif3">
