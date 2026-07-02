@@ -52,21 +52,10 @@ Step 7
   - Click on the **4.00** and change the number to “6” and then press the enter key, and the first letter will stand higher than all the rest. Raise every second letter so that your name looks something similar to this:
 {: .step}
 
-<details>
-  <summary>Show/Hide Animation</summary>
-  <br><img src="images/tinkercad-keychain-10.gif">
-</details>
+  <details>
+    <summary>Show/Hide Animation</summary>
+    <br><img src="images/tinkercad-keychain-10.gif">
+  </details>
 
-<script>  
-
-    function toggle(input) {
-        var x = document.getElementById(input);
-        if (x.style.display === "none") {
-            x.style.display = "block";
-        } else {
-            x.style.display = "none";
-        }
-    }
-</script>
 
 [NEXT STEP: Cellphone Keychain Stand](2-keychain-stand.html){: .btn .btn-blue }
