@@ -51,7 +51,8 @@ Step 5
 
 Step 6
 {: .label .label-step}
-- Now move the letter closer together so that they overlap a significant amount so that when your keychain is printed it will stay together when some stress is put on it. See my example below:
+- If you created your Soundboard in Claude, [it should look something like this](https://richmccue.github.io/brasil-letters/claude.html){:target="_blank"}.
+- Your soundboard should be playing the sounds for letters in the Portugues alphabet now. If you are having any problems, please let your instructor know and they help you get your soundboard up and running!
 {: .step}
 
 Step 7
