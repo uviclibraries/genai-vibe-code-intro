@@ -57,10 +57,12 @@ Step 6
 
 Step 7
 {: .label .label-step}
-- To make the lettering a bit more interesting we are going to raise every other letter by 2mm from the current 4mm. To start doing this click on the first letter, and then
-  - Click on the **white dot** near the middle of the letter (which will then turn red).
-  - Click on the **4.00** and change the number to “6” and then press the enter key, and the first letter will stand higher than all the rest. Raise every second letter so that your name looks something similar to this:
+- If you are creating a soundboard for a language like Hul'q'umi'num, that has letters in it's alphabet with non-English accents like glottal stops, you should follow up with a prompt like this (depending on the types of accents used in the language):
 {: .step}
+```text
+Change the letter mapping to the letter files with the letters that have a glottal stop so
+that for example the c' file name is: c_glottal.mp3
+```
 
   <details>
     <summary>Show/Hide Animation</summary><br>
