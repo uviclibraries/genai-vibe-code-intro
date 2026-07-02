@@ -10,7 +10,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 # Make a Soundboard in 5-Minutes! 
 
 {: .note-title}
-> Step 1
+> Introduction
 > 
 > If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
