@@ -9,10 +9,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # Make a Soundboard in 5-Minutes! 
 
-{: .note-title}
-> Introduction
-> 
-> If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
+If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
 Step 1
 {: .label .label-step}
@@ -33,12 +30,11 @@ On the right side of the TinkerCad open a drop-down menu by clicking on **Basic 
 Step 4
 {: .label .label-step}
 Drag and drop all the individual letters from a name or word you want to use onto the workplane. 
-
+{: .step}
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
     <img src="images/tinkercad-keychain-04.gif">
     </div>
-{: .step}
 
 Step 4
 {: .label .label-step}
