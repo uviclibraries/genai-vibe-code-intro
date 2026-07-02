@@ -25,8 +25,8 @@ At the end of this workshop, you will be able to:
 1. Explain the main benefits of vibe coding to a friend
 2. Explain common security issues that arise from vibe coding
 3. Create one or more of the following games or web applications:
-   - Create a endless runner style of game like Flappy Birds or Orca Run for learning
    - Create a sound board game for language revitalization or language learning
+   - Create a endless runner "Super Maria" style game for learning
    - Create a missle command style game for language revitalization
    - Craete a frogger style game for learning
    - Create a simulation for learning about things like Volcao erruptions
@@ -44,7 +44,7 @@ At the end of this workshop, you will be able to:
 ## Hands on Activities
 
 3. ~~Alphabet Sound board learning game~~
-4. Flappy Orca: Auto-Run style game (eat fish, avoid plastic): https://richmccue.github.io/papertowel/
+4. Super Maria: Auto-Run style game (eat fruits & avoid plastics)
 5. Lik'wala Defender language lerning game: https://richmccue.github.io/likwala/likwala-defender.html
 6. Frogger Style learning game: **create?**
 7. Volcanic erruption simulator: https://richmccue.github.io/learning-games/volcano-phases.html
