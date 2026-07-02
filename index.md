@@ -48,7 +48,7 @@ At the end of this workshop, you will be able to:
    - https://richmccue.github.io/brasil-letters/portuguese.html (add score?)
    - https://richmccue.github.io/likwala/likwala-soundboard.html
 5. Lik'wala Defender language lerning game: https://richmccue.github.io/likwala/likwala-defender.html
-6. Frogger Style learning game: **create**
+6. Frogger Style learning game: **create?**
 7. Volcanic erruption simulator: https://richmccue.github.io/learning-games/volcano-phases.html
 8. Quiz game with a downloadable badge: https://richmccue.github.io/learning-games/phone_listening_quiz.html 
 9. Jeapordy game: https://richmccue.github.io/learning-games/jeopardy.html
@@ -57,7 +57,7 @@ At the end of this workshop, you will be able to:
 10. Tour de Victoria training app: https://richmccue.github.io/
    - Stand alone with data store in browser, on device
    - with completely insecure data storage on Github
-11. Super Mario Learning game:  **create**
-12. Pandemic Style game:  **create**
+11. Super Mario Learning game:  **create?**
+12. Pandemic Style game:  **create?**
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
