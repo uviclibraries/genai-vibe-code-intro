@@ -20,9 +20,9 @@ Step 1
 
 Step 2
 {: .label .label-step}
-- Copy and paste the following prompt into your GenAI tool (feel free to change the language of course) and then press Enter on your keyboard:
+- Copy and paste the following prompt into your GenAI tool (feel free to change the language of course) and then press Enter on your keyboard: <br>
 ```txt
-  > I’d like to create a HTML web application, to help people learn to say the letter of the Brazilian Portuguese alphabet properly. When a user clicks on a letter the web app will use the computer speaker to correctly pronounce the letter. I will provide the sound files for each Portuguese letter, and put them in a directory called “assets” and the filenames will be all lowercase. Put a phonetic pronunciation for English language speakers under each letter. Here is an example of what I would like for the alphabet of a different language: https://dom-aya.github.io/ayajuthem-soundboard/
+I’d like to create a HTML web application, to help people learn to say the letter of the Brazilian Portuguese alphabet properly. When a user clicks on a letter the web app will use the computer speaker to correctly pronounce the letter. I will provide the sound files for each Portuguese letter, and put them in a directory called “assets” and the filenames will be all lowercase. Put a phonetic pronunciation for English language speakers under each letter. Here is an example of what I would like for the alphabet of a different language: https://dom-aya.github.io/ayajuthem-soundboard/
 ```
 {: .step}
 
