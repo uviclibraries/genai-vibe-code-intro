@@ -46,7 +46,7 @@ Step 4
 
 Step 5
 {: .label .label-step}
-- Select all the letters and then click on the **Align Button**.
+- Now that you have the audio files folder in the same place as the HTML file you downloaded, you can open the mp3 audio files in your file manager by **double clicking** on the sound files, and the sounds for each of the letters should play back to you.
 {: .step}
 
 Step 6
