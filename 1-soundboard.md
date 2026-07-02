@@ -9,7 +9,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # Make an Alphabet Soundboard in 5-Minutes! 
 
-Feel free to create a soundboard for a language of your choice during this activity. That said, I will provide audio files for a Portuguese soundboard, so if you choose to create a soundboard for a different languge, you can use the Portugues files as places holders until you are able record mp3 audio files for the language you chose.  Have fun!
+Sound boards can be very helpful for people learning a new laguages begin to learn the sounds of letters at their own pace with as much or as little repitition as needed. Feel free to create a soundboard for ay language you want during this activity. That said, the audio files the activity are for a Portuguese soundboard, so if you choose to create a soundboard for a different languge, you can use the Portugues files as places holders until you are able record mp3 audio files for the language you chose.  If you get stuck, please ask your instructor for assistance, and don't forget to have fun!
 
 Step 1
 {: .label .label-step}
