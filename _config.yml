@@ -1,6 +1,5 @@
 title: From Ideas to Apps with Generative AI
-# remote_theme: just-the-docs/just-the-docs
-remote_theme: ubc-library-rc/rc-theme
+remote_theme: just-the-docs/just-the-docs
 color_scheme: rc
 
 # Footer "Edit this page on GitHub" link text
