@@ -9,12 +9,11 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # Make an Alphabet Soundboard in 5-Minutes! 
 
-If you or your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
+Feel free to create a soundboard for a language of your choice during this activity. That said, I will provide audio files for a Portuguese soundboard, so if you choose to create a soundboard for a different languge, you can use the Portugues files as places holders until you are able record mp3 audio files for the language you chose.  Have fun!
 
 Step 1
 {: .label .label-step}
-- If you haven’t already, please go to [the TinkerCad website and create an account](http://tinkercad.com){:target="_blank"} for yourself.
-- If you find yourself in a tutorial, click on the Tinkercad logo in the top left of the screen to exit to the home page.
+- You can use any Generative AI tool, for this activity but for coding I’d recommend using either [Google Gemini](https://gemini.google.com/){:target="_blank"} (which comes free with Gmail) Claude for this assignment as it currently does as good a job as Google’s Gemini and is much more user friendly for people who do not have a “code editor” already installed on their laptops:
 {: .step}
 
 Step 2
