@@ -7,7 +7,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/sound-board-logo.jpg" style="float:right;width:200px;" alt="decorative"> 
 
-# Make a Soundboard in 5-Minutes! 
+# Make an Alphabet Soundboard in 5-Minutes! 
 
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
@@ -23,13 +23,14 @@ Click **Create new design**. If the TinkerCad tutorial pane is up on the right-h
 
 Step 3
 {: .label .label-step}
-On the right side of the TinkerCad open a drop-down menu by clicking on **Basic Shapes**, and then select the **Design Starters** option, then the **"A" Letter Icon**. This will display a list of 3D letters that you can scroll down through to find the whole alphabet, plus numbers 1 through 9. <img src="images/tinkercad-keychain-03b.png" style="float:right;width:400px" alt="visual example"> 
+On the right side of the TinkerCad open a drop-down menu by clicking on **Basic Shapes**, and then select the **Design Starters** option, then the **"A" Letter Icon**. This will display a list of 3D letters that you can scroll down through to find the whole alphabet, plus numbers 1 through 9. 
 {: .step}
 
 Step 4
 {: .label .label-step}
 Drag and drop all the individual letters from a name or word you want to use onto the workplane. 
 {: .step}
+
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
     <img src="images/tinkercad-keychain-04.gif">
@@ -41,10 +42,9 @@ Select all the letters and then click on the **Align Button**.
 {: .step}
 
 6. Then click on the black handle on the bottom left of the text to align the text along the bottom.
-    ![Image representation of alignment](images/tinkercad-keychain-05.png)
+
 
 7. Now move the letter closer together so that they overlap a significant amount so that when your keychain is printed it will stay together when some stress is put on it. See my example below:
-    ![Image example](images/tinkercad-keychain-06.png)
 
     <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
@@ -52,7 +52,6 @@ Select all the letters and then click on the **Align Button**.
     </div>
 
 8. <img src="images/tinkercad-keychain-08.png" style="float:right;width:200px" alt="Clicking on the white dot and writing in A.B values"> To make the lettering a bit more interesting we are going to raise every other letter by 2mm from the current 4mm.  To start doing this click on the first letter, and then (A) click on the **white dot** near the middle of the letter (which will then turn red). (B) click on the **4.00** and change the number to “6” and then press the enter key, and the first letter will stand higher than all the rest. Raise every second letter so that your name looks something similar to this:
-    ![Image example of raised letters](images/tinkercad-keychain-09.png)
 
     <button onclick="toggle('gif3')">Show/Hide Animation</button>
     <div id="gif3">
@@ -60,7 +59,6 @@ Select all the letters and then click on the **Align Button**.
     </div>
 
 9. <img src="images/tinkercad-keychain-11.png" style="float:right;width:220px;height:220px;" alt="Drop down menu"> Now we’ll group all the letters together by selecting them all, and then clicking on the **Group** button. All the letters will change to the same colour and you can now select all the letters as one object.
-    ![Image example after grouping](images/tinkercad-keychain-12.png)
 
     <button onclick="toggle('gif4')">Show/Hide Animation</button>
     <div id="gif4">
