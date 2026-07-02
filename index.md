@@ -22,7 +22,7 @@ Join us in moving from a consumer of digital technology to an active creator, an
 
 At the end of this workshop, you will be able to:
 
-1. ~~Explain the main benefits of vibe coding to a friend~~
+1. Explain the main benefits of vibe coding to a friend
 2. Explain common security issues that arise from vibe coding
 3. Create one or more of the following games or web applications:
    - Create a endless runner style of game like Flappy Birds or Orca Run for learning
@@ -43,7 +43,7 @@ At the end of this workshop, you will be able to:
 
 ## Hands on Activities
 
-3. Alphabet Sound board learning game
+3. ~~Alphabet Sound board learning game~~
 4. Flappy Orca: Auto-Run style game (eat fish, avoid plastic): https://richmccue.github.io/papertowel/
 5. Lik'wala Defender language lerning game: https://richmccue.github.io/likwala/likwala-defender.html
 6. Frogger Style learning game: **create?**
