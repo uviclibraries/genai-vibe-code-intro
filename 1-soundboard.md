@@ -15,12 +15,12 @@ If you get stuck, please ask your instructor for assistance, and don't forget to
 
 Step 1
 {: .label .label-step}
-- You can use any Generative AI tool, for this activity but for coding I’d recommend using either [Google Gemini](https://gemini.google.com/){:target="_blank"} (which comes free with Gmail) Claude for this assignment as it currently does as good a job as Google’s Gemini and is much more user friendly for people who do not have a “code editor” already installed on their laptops:
+- You can use any Generative AI tool for this activity but for coding I’d recommend using either [Google Gemini](https://gemini.google.com/){:target="_blank"} (which comes free with Gmail), or Claude, as the free version of Claude currently does as good a job as Google’s Gemini, and creates more visually attractive web applications by default.
 {: .step}
 
 Step 2
 {: .label .label-step}
-- Copy and paste the following prompt into your GenAI tool (feel free to change the language of course) and then press Enter on your keyboard: <br>
+- Copy and paste the following prompt into your GenAI tool (feel free to change the language of course) and then press **Enter** on your keyboard: 
 ```text
 I’d like to create a HTML web application, to help people learn to say the letter of the
 Brazilian Portuguese alphabet properly. When a user clicks on a letter the web app will
