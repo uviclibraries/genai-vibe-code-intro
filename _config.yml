@@ -1,6 +1,7 @@
 title: From Ideas to Apps with Generative AI
-remote_theme: just-the-docs/just-the-docs
-color_scheme: light
+# remote_theme: just-the-docs/just-the-docs
+remote_theme: ubc-library-rc/rc-theme
+color_scheme: rc
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_repository: "https://github.com/uviclibraries/genai-vibe-code-intro" # the github URL for your repo
