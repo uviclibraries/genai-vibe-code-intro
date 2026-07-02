@@ -12,11 +12,11 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 {: .note}
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
+
 Step 1
-{: .label .label-step}
+{: .label .label-green}
 If you haven’t already, please go to [the TinkerCad website and create an account](http://tinkercad.com){:target="_blank"} for yourself. If you find yourself in a tutorial, click on the Tinkercad logo in the top left of the screen to exit to the home page.
 <img src="images/tinkercad-keychain-02b.png" style="float:right;width:200px" alt="drop down menu with basic shapes, text and numbers."> 
-{: .step}
 
 * *2*{: .circle .circle-blue} `.circle-blue` Click **Create new design**. If the TinkerCad tutorial pane is up on the right-hand side, you will need to get out of it before proceeding. Click on the TinkerCad logo at the top to bring you back to your main page. From there you should see the “Create new design” button. 
 
