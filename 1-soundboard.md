@@ -11,6 +11,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 {: .note-title}
 > Step 1
+> 
 > If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
 Step 1
