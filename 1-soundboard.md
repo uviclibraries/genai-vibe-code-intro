@@ -53,8 +53,8 @@ Step 7
 {: .step}
 
   <details>
-    <summary>Show/Hide Animation</summary>
-    <br><img src="images/tinkercad-keychain-10.gif">
+    <summary>Show/Hide Animation</summary><br>
+    - <img src="images/tinkercad-keychain-10.gif">
   </details>
 
 
