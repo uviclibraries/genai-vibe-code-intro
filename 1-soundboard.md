@@ -36,7 +36,7 @@ Drag and drop all the individual letters from a name or word you want to use ont
     <img src="images/tinkercad-keychain-04.gif">
     </div>
 
-Step 4
+Step 5
 {: .label .label-step}
 Select all the letters and then click on the **Align Button**.
 {: .step}
