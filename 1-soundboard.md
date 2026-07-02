@@ -25,16 +25,25 @@ Step 2
 Click **Create new design**. If the TinkerCad tutorial pane is up on the right-hand side, you will need to get out of it before proceeding. Click on the TinkerCad logo at the top to bring you back to your main page. From there you should see the “Create new design” button. 
 {: .step}
 
-3. On the right side of the TinkerCad open a drop-down menu by clicking on **Basic Shapes**, and then select the **Design Starters** option, then the **"A" Letter Icon**. This will display a list of 3D letters that you can scroll down through to find the whole alphabet, plus numbers 1 through 9. <img src="images/tinkercad-keychain-03b.png" style="float:right;width:400px" alt="visual example"> 
+Step 3
+{: .label .label-step}
+On the right side of the TinkerCad open a drop-down menu by clicking on **Basic Shapes**, and then select the **Design Starters** option, then the **"A" Letter Icon**. This will display a list of 3D letters that you can scroll down through to find the whole alphabet, plus numbers 1 through 9. <img src="images/tinkercad-keychain-03b.png" style="float:right;width:400px" alt="visual example"> 
+{: .step}
 
-4. Drag and drop all the individual letters from a name or word you want to use onto the workplane. 
+Step 4
+{: .label .label-step}
+Drag and drop all the individual letters from a name or word you want to use onto the workplane. 
 
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
     <img src="images/tinkercad-keychain-04.gif">
     </div>
+{: .step}
 
-5. Select all the letters and then click on the **Align Button**.
+Step 4
+{: .label .label-step}
+Select all the letters and then click on the **Align Button**.
+{: .step}
 
 6. Then click on the black handle on the bottom left of the text to align the text along the bottom.
     ![Image representation of alignment](images/tinkercad-keychain-05.png)
