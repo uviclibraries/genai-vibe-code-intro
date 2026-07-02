@@ -54,18 +54,23 @@ Step 7
 
 <details>
   <summary>Show/Hide Animation</summary>
-  <br>
-  <img src="images/tinkercad-keychain-10.gif">
+  <br><img src="images/tinkercad-keychain-10.gif">
 </details>
 
-9. <img src="images/tinkercad-keychain-11.png" style="float:right;width:220px;height:220px;" alt="Drop down menu"> Now we’ll group all the letters together by selecting them all, and then clicking on the **Group** button. All the letters will change to the same colour and you can now select all the letters as one object.
+Step 9
+{: .label .label-step}
+<img src="images/tinkercad-keychain-11.png" style="float:right;width:220px;height:220px;" alt="Drop down menu"> Now we’ll group all the letters together by selecting them all, and then clicking on the **Group** button. All the letters will change to the same colour and you can now select all the letters as one object.
+{: .step}
 
-<button onclick="toggle('gif4')">Show/Hide Animation</button>
-<div id="gif4">
-<img src="images/tinkercad-keychain-13.gif">
-</div>
+<details>
+  <summary>Show/Hide Animation</summary><br>
+  <img src="images/tinkercad-keychain-13.gif">
+</details>
 
-10. <img src="images/tinkercad-keychain-14.png" style="float:right;width:250px" alt="Group icon"> The last thing we need to do is to add a loop to your text so you can more easily hang your new design on your key ring. Start by clicking on **Text and Numbers** in the right panel, and then select **Basic Shapes**. This will display basic geometric shapes for us again.  Select the orange cylinder and drag and drop it into the workplane.
+Step 10
+{: .label .label-step}
+<img src="images/tinkercad-keychain-14.png" style="float:right;width:250px" alt="Group icon"> The last thing we need to do is to add a loop to your text so you can more easily hang your new design on your key ring. Start by clicking on **Text and Numbers** in the right panel, and then select **Basic Shapes**. This will display basic geometric shapes for us again.  Select the orange cylinder and drag and drop it into the workplane.
+{: .step}
 
     <button onclick="toggle('gif5')">Show/Hide Animation</button>
     <div id="gif5">
@@ -75,10 +80,10 @@ Step 7
 11. Once the cylinder is in the workspace we need to resize. Start by selecting the cylinder, and then (A) clicking on **white handle** at the bottom right which will turn it red. (B) Now click on the **20.00** and change it to **10**. (C) Click on the other **20.00** and change it to **10** as well.  (D) Next select the **white dot** at the top of the cylinder (it will turn red), and then (E) change the **20.00** to **6** and press enter.<br>
     ![Cylinder with measurements of A,B,C](images/tinkercad-keychain-16.png)![Cylinder with measurements of D,E](images/tinkercad-keychain-17.png)
 
-    <button onclick="toggle('gif6')">Show/Hide Animation</button>
-    <div id="gif6">
-    <img src="images/tinkercad-keychain-18.gif">
-    </div>
+<details>
+  <summary>Show/Hide Animation</summary><br>
+  <img src="images/tinkercad-keychain-18.gif">
+</details>
 
 12. <img src="images/tinkercad-keychain-19.png" style="float:right;width:200px;height:250px;" alt="grey stripped cylinder"> Next we need to make a hole in the middle of the cylinder, so we’ll grab a grey striped cylinder and drop it on the workplane.  Now select the bottom right “handle” and change both the width and depth dimensions from **20.00** to **6**.
 
