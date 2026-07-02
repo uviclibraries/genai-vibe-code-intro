@@ -53,7 +53,7 @@ Step 7
 {: .step}
 
 <details>
-  <summary>This is the dropdown title</summary>
+  <summary>Show/Hide Animation</summary>
   <br>
   <img src="images/tinkercad-keychain-10.gif">
 </details>
