@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1-Super Maria
+title: 2-Super Maria
 nav_order: 4
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
