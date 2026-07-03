@@ -15,7 +15,7 @@ This workshop is primarily hands-on practice with Generative AI tools to "vibe c
     - [**Claude**](https://claude.ai){:target="_blank"}. If you'd like your web applications to look pretty, then [Anthropic's Claude](https://claude.ai){:target="_blank"} is one of the best free tools that will allow you do do this without additional prompting.
     - [**Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"}. UVic licenses [Microsoft Copilot](https://copilot.microsoft.com/){:target="_blank"} for all UVic students, faculty, and staff and has the added benifit of making all of the privacy settings sthat are turned off on regular account, being turned on for all UVic users. Note that you need to login to Copilot with your UVic credentials to take advantage of all the privacy setting being on by default.
     - [**ChatGPT**](https://chatgpt.com/){:target="_blank"}. The first and currently the most popular GenAI tool used by the public, [ChatGPT](https://chatgpt.com/){:target="_blank"}. It does a solid job a vibe coding through it's chat interface.
-- **RECOMMENDED READ: [5 Excellent tips for people learning to vibe code!](https://www.businessinsider.com/vibe-coding-takeaways-weekend-class-build-apps-non-technical-people-2026-3){:target="_blank"}** High level summary of the article: 
+- **RECOMMENDED READ: [5 Excellent tips for people learning to vibe code!](https://www.businessinsider.com/vibe-coding-takeaways-weekend-class-build-apps-non-technical-people-2026-3){:target="_blank"}** High level summary of the article:
 
     1. Building multiple apps is better than fixating on a broken one
     2. A successful app knows its users
