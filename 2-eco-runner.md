@@ -5,7 +5,7 @@ nav_order: 4
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-<img src="images/sound-board-logo.jpg" style="float:right;width:250px;" alt="decorative"> 
+<img src="images/eco-runner-logo.png" style="float:right;width:290px;" alt="decorative"> 
 
 # Make an Eco Runner Game! 
 
