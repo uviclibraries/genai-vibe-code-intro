@@ -5,9 +5,9 @@ nav_order: 4
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-<img src="images/eco-runner-logo.png" style="float:right;width:290px;" alt="decorative"> 
 
 # Make an Eco-Runner Game! 
+<img src="images/eco-runner-logo.png" style="float:right;width:290px;" alt="decorative"> 
 
 Sound boards can be very helpful for people learning a new laguages begin to learn the sounds of letters at their own pace with as much or as little repitition as needed. Here's an example of a soundboard app crated for Language Revitalization purposes: [Salish Sea Guardian](https://richmccue.github.io/learning-games/salish-sea-guardian.html){:target="_blank"}.
 
