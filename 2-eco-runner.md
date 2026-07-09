@@ -7,13 +7,15 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/eco-runner-logo.png" style="float:right;width:290px;" alt="decorative"> 
 
-# Make an Eco Runner Game! 
+# Make an Eco-Runner Game! 
 
-Sound boards can be very helpful for people learning a new laguages begin to learn the sounds of letters at their own pace with as much or as little repitition as needed. Here's an example of a soundboard app crated for Language Revitalization purposes: [LiK'wala Soundboard for language learners](https://richmccue.github.io/likwala/likwala-soundboard.html){:target="_blank"}.
+Sound boards can be very helpful for people learning a new laguages begin to learn the sounds of letters at their own pace with as much or as little repitition as needed. Here's an example of a soundboard app crated for Language Revitalization purposes: [Salish Sea Guardian](https://richmccue.github.io/learning-games/salish-sea-guardian.html){:target="_blank"}.
 
 Feel free to create a soundboard for any language you want during this activity. That said, the audio files the activity are for a Portuguese alphabet soundboard, so if you choose to create a soundboard for a different languge, you can use the Portugues files as places holders until you are able record audio files for the language you choose.  
 
 If you get stuck, please ask your instructor for assistance, and don't forget to have fun!
+
+## Planning with some GenAI assistance
 
 Step 1
 {: .label .label-step}
