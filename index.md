@@ -44,7 +44,7 @@ At the end of this workshop, you will be able to:
 ## Hands on Activities
 
 3. ~~Alphabet Sound board learning game~~
-4. Eco Runner: Auto-Run style environmental conservation themed game (pick up garbage & save the environment)
+4. Eco Runner: Super Mario style conservation themed game (pick up garbage & save the environment)
 5. Lik'wala Defender language lerning game: https://richmccue.github.io/likwala/likwala-defender.html
 6. Frogger Style learning game: **create?**
 7. Volcanic erruption simulator: https://richmccue.github.io/learning-games/volcano-phases.html
