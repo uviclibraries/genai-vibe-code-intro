@@ -6,6 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
+# !!!UNDER CONSTRUCTION!!!
 # Make an Eco-Runner Game! 
 <img src="images/eco-runner-logo.png" style="float:right;width:320px;" alt="decorative"> 
 
