@@ -7,7 +7,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
 # Make an Eco-Runner Game! 
-<img src="images/eco-runner-logo.png" style="float:right;width:290px;" alt="decorative"> 
+<img src="images/eco-runner-logo.png" style="float:right;width:320px;" alt="decorative"> 
 
 Games can be a helpful way to help people spend more time on task learning about new topics or learning new skills. Here's an example of a Super Mario style Eco-Runner game to help players learn more aobut things they can do to protect the environment: [Salish Sea Guardian](https://richmccue.github.io/learning-games/salish-sea-guardian.html){:target="_blank"}.
 
