@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 5-Jeapordy-Game
-nav_order: 4
+nav_order: 7
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
