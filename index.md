@@ -57,5 +57,6 @@ At the end of this workshop, you will be able to:
 11. Super Mario Learning game:  **create?**
 12. Pandemic Style game:  **create?**
 7. Frogger Style learning game: **create?**
+13. [Audio Recording with iPhone & DJI Mic Mini for Language Revitalization](https://claude.ai/public/artifacts/2ff5323b-81ed-44db-8a05-a4c3f3827cad){:target="_blank"}
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
