@@ -46,16 +46,16 @@ At the end of this workshop, you will be able to:
 3. ~~Alphabet Sound board learning game~~
 4. Eco Runner: Super Mario style conservation themed game (pick up garbage & save the environment)
 5. Lik'wala Defender language lerning game: https://richmccue.github.io/likwala/likwala-defender.html
-6. Frogger Style learning game: **create?**
-7. Volcanic erruption simulator: https://richmccue.github.io/learning-games/volcano-phases.html
-8. Quiz game with a downloadable badge: https://richmccue.github.io/learning-games/phone_listening_quiz.html 
+8. Quiz game with a downloadable badge: https://richmccue.github.io/learning-games/phone_listening_quiz.html
 9. Jeapordy game: https://richmccue.github.io/learning-games/jeopardy.html
    - Start w/ dosument or topic in NotebookLM and create categories & questions
    - Feed into Claude or Gemini to create the game
+8. Volcanic erruption simulator: https://richmccue.github.io/learning-games/volcano-phases.html
 10. Tour de Victoria training app: https://richmccue.github.io/
    - Stand alone with data store in browser, on device
    - with completely insecure data storage on Github
 11. Super Mario Learning game:  **create?**
 12. Pandemic Style game:  **create?**
+7. Frogger Style learning game: **create?**
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
