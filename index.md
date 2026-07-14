@@ -50,10 +50,10 @@ At the end of this workshop, you will be able to:
 9. Jeapordy game: https://richmccue.github.io/learning-games/jeopardy.html
    - Start w/ dosument or topic in NotebookLM and create categories & questions
    - Feed into Claude or Gemini to create the game
-8. Volcanic erruption simulator: https://richmccue.github.io/learning-games/volcano-phases.html
-10. Tour de Victoria training app: https://richmccue.github.io/
+10. Workout Planning & Tracking app: https://richmccue.github.io/
    - Stand alone with data store in browser, on device
    - with completely insecure data storage on Github
+8. Volcanic erruption simulator: https://richmccue.github.io/learning-games/volcano-phases.html
 11. Super Mario Learning game:  **create?**
 12. Pandemic Style game:  **create?**
 7. Frogger Style learning game: **create?**
