@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2-Language Defender
+title: 3-Language Defender
 nav_order: 5
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
