@@ -10,8 +10,6 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # Recording Alphabet Audio with a DJI Mic Mini and an iPhone
 
-[#recording-alphabet-audio-with-a-dji-mic-mini-and-an-iphone](#recording-alphabet-audio-with-a-dji-mic-mini-and-an-iphone)
-
 Good source audio makes a big difference in an alphabet soundboard. Recording with a lavalier microphone like the DJI Mic Mini, instead of your phone's built-in mic, keeps the speaker's distance from the microphone constant for every letter, so all of your files come out at a similar volume with far less room echo. This matters most when you are recording with Elders and language keepers, where you may only get one session.
 
 By the end of this activity you will have one audio file per letter, named and trimmed, ready to use in a soundboard like the one in the [Alphabet Soundboard activity](https://uviclibraries.github.io/genai-vibe-code-intro/1-soundboard.html){:target="_blank"}.
