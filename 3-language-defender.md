@@ -147,33 +147,3 @@ Step 11
 Congratulations on completing this Language Defender vibe code project! You've now used generative AI for planning, building, iterating, and debugging, which is the complete vibe coding workflow.
 
 [NEXT STEP: Quiz Game](4-quiz-game.html)
-
----
-
-<!--
-SCREENSHOT CAPTURE CHECKLIST (delete this comment before publishing)
-
-All images go in the images/ folder. Suggested capture and annotation plan:
-
-1. defender-logo.png - Decorative header. A cropped screenshot of the game's
-   title screen works well here (matches the style of sound-board-logo.jpg).
-2. defender-01-planning-prompt.png - Claude.ai with the planning prompt sent and
-   the response visible. Annotate: arrow to the on-screen keyboard suggestion.
-3. defender-02-build-prompt.png - Claude.ai mid-generation with the artifact
-   panel open. Annotate: highlight box around the artifact panel.
-4. defender-03-download.png - Completed artifact. Annotate: arrow to the
-   Download button.
-5. defender-04-images-folder.png - Finder/Explorer showing the HTML file beside
-   the images folder with files visible. Annotate: highlight box on folder name.
-6. defender-05-gameplay.png - Game mid-play in a browser. Annotate: arrows to a
-   falling picture, the on-screen keyboard, and the hearts/lives.
-7. defender-06-difficulty-modes.png - Start screen after the difficulty prompt.
-   Annotate: highlight box around the three mode buttons.
-8. defender-07-special-characters.png - Close crop of the on-screen keyboard.
-   Annotate: circles around letters with glottal stops.
-9. defender-08-github-pages.png - GitHub repo with Pages enabled. Annotate:
-   arrow to the published URL.
-
-Annotation tools: macOS Preview (Markup), Windows Snipping Tool, or Skitch.
-For consistency with the rest of the site, use red arrows/boxes at ~3px width.
--->
