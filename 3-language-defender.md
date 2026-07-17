@@ -1,68 +1,179 @@
 ---
 layout: default
 title: 3-Language Defender
-nav_order: 5
 parent: Workshop Activities
-customjs: http://code.jquery.com/jquery-1.4.2.min.js
+nav_order: 3
 ---
 
-# !!!UNDER CONSTRUCTION!!!
-# Make an Language Defender Game! 
-<img src="images/CHANGE-ME.png" style="float:right;width:320px;" alt="decorative"> 
+![decorative](images/defender-logo.png)
 
-Games can be a helpful way to help people spend more time on task learning about new topics or learning new skills. Here's an example of a Super Mario style Eco-Runner game to help players learn more aobut things they can do to protect the environment: [Salish Sea Guardian](https://richmccue.github.io/learning-games/salish-sea-guardian.html){:target="_blank"}.
+# Make a Language Defender Game!
 
-You can use any Generative AI tool for this activity but for coding I’d recommend using either [Google Gemini](https://gemini.google.com/){:target="_blank"} (which comes free with Gmail), or [Claude](https://claude.ai/){:target="_blank"}, as the free version of Claude currently does as good a job as Google’s Gemini, and creates more visually attractive web applications by default.
+Games can be a powerful way to help language learners spend more time on task, and arcade-style games in particular encourage the kind of rapid letter and sound recognition that helps new alphabets stick. In this activity you will create a Missile Command style game where pictures fall from the sky, and players must press the letter that matches the first letter of the word for each falling image to shoot it down before it reaches the ground. Here's an example of a finished game created for Language Revitalization purposes: [Lik̓wala Defender](https://richmccue.github.io/likwala/likwala-defender.html).
+
+Feel free to create a Language Defender game for any language you want during this activity. If you completed the [Alphabet Sound Board](1-soundboard.html) activity, you can reuse the same language, audio files, and letter list here, which will make several steps go faster.
 
 If you get stuck, please ask your instructor for assistance, and don't forget to have fun!
 
 ## Planning with some GenAI assistance
 
 Step 1
-{: .label .label-step}
-- Copy and paste the following prompt into your GenAI tool (feel free to change the language of course) and then press **Enter** on your keyboard: <br>
-```text
-How could I use the game mechanics for super mario for a environmental conservation game?
-```
-{: .step}
+
+- You can use any Generative AI tool for this activity, but for coding I'd recommend using either [Google Gemini](https://gemini.google.com/) (which comes free with Gmail), or [Claude](https://claude.ai/), as the free version of Claude currently does as good a job as Google's Gemini, and creates more visually attractive web applications by default.
 
 Step 2
-{: .label .label-step}
-- Now let's evaluate the suggestions from...
-{: .step}
 
-Step 3
-{: .label .label-step}
-- Next we need wait a minute or two for Claude to create the HTML file for you. Once you see the **Download** button, click on it and make note of where you saved it on your laptop. 
-{: .step}
+- Before we ask the AI to write any code, let's use it as a thinking partner to explore how classic arcade game mechanics could support language learning. Copy and paste the following prompt into your GenAI tool and press **Enter** on your keyboard:
 
-Step 4
-{: .label .label-step}
-- Download the zip file that contains all the MP3 audio files for each Portuguese letter to the same folder where you downloaded the HTML file Claude created for you:
-  - Download the Portuguese audio for each letter in the zip file called: [assets.zip](assets/assets.zip)
-  - Find the assets.zip file on your laptop and unzip it. On a Mac you simply **double-click** on the file and it will unzip. On Windows you **right mouse click** on the file and select **Extract All…** 
-{: .step}
-
-Step 5
-{: .label .label-step}
-- Now that you have the audio files folder in the same place as the HTML file you downloaded, you can open the mp3 audio files in your file manager by **double clicking** on the sound files, and the sounds for each of the letters should play back to you.
-{: .step}
-
-Step 6
-{: .label .label-step}
-- If you created your Soundboard in Claude, [it should look something like this](https://richmccue.github.io/brasil-letters/portuguese.html){:target="_blank"}.
-- Your soundboard should be playing the sounds for letters in the Portugues alphabet now. If you are having any problems, please let your instructor know and they help you get your soundboard up and running!
-{: .step}
-
-Step 7
-{: .label .label-step}
-- If you are creating a soundboard for a language like Hul'q'umi'num, that has letters in it's alphabet with non-English accents like glottal stops, you should follow up with a prompt like this (depending on the types of accents used in the language):
-{: .step}
-```text
-Change the letter mapping to the letter files with the letters that have a glottal stop so
-that for example the c' file name is: c_glottal.mp3
+```
+How could I adapt the game mechanics of the classic arcade game Missile Command to help
+people learn the alphabet of a language they are studying? The player should have to
+recognize the first letter of the word for an image in order to defend against it.
+Please suggest 4-5 game mechanics, and note which ones would work well for beginners
+versus more advanced learners.
 ```
 
-Congratulations on completing this Alphabet Soundboard vibe code project! Here's an example of a soundboard app crated for Language Revitalization purposes: [LiK'wala Soundboard for language learners](https://richmccue.github.io/likwala/likwala-soundboard.html){:target="_blank"}.
+![Screenshot of the planning prompt pasted into Claude with the response listing suggested game mechanics. Annotation: arrow pointing to the suggestion about an on-screen keyboard, with the note "We will use this idea in our build prompt"](images/defender-01-planning-prompt.png)
 
-[NEXT STEP: ??????](3-????.html){: .btn .btn-blue }
+Step 3
+
+- Read through the suggestions and pick two or three mechanics you like. There are no wrong answers here! In the example game, the mechanics chosen were: falling pictures, an on-screen keyboard for shooting, lives that are lost when a picture reaches the ground, and levels that gradually speed up.
+
+## Building the game
+
+Step 4
+
+- Now we're ready to build. Copy and paste the following prompt into the **same conversation** (so the AI remembers the planning discussion), change the language and letter list to match the language you are working with, and press **Enter**:
+
+```
+Please create a single-file HTML web game called "Language Defender" inspired by
+Missile Command, to help people learn the Lik̓wala alphabet. Here is how it should work:
+
+1. Pictures of animals and everyday objects slowly fall from the top of the screen.
+2. An on-screen keyboard at the bottom of the screen shows every letter of the alphabet,
+   including letters with special characters like glottal stops.
+3. The player must click or tap the letter that matches the FIRST letter of the word for
+   the falling image. A correct press fires a missile that destroys the picture.
+4. The player starts with 3 lives (shown as hearts). If a picture reaches the ground,
+   the player loses a life.
+5. Show the score and current level at the top. Each level makes pictures fall a
+   little faster.
+6. Include a start screen with simple instructions, and a game over screen with the
+   final score and a "Play Again" button.
+7. The image files will be in a folder called "images" and named after the word they
+   show, in all lowercase (for example: bear.png, salmon.png, canoe.png). Please include
+   a list in the code where I can easily map each image filename to the word and its
+   first letter.
+8. The game must work with both a physical keyboard and touch on mobile devices.
+9. Please make it a single self-contained HTML file so I can host it on GitHub Pages.
+```
+
+![Screenshot of the build prompt in Claude with the artifact beginning to generate on the right side. Annotation: highlight box around the artifact panel with the note "Claude writes the whole game as one HTML file"](images/defender-02-build-prompt.png)
+
+Step 5
+
+- Next we need to wait a minute or two for Claude to create the HTML file for you. Once you see the **Download** button, click on it and make note of where you saved it on your laptop.
+
+![Screenshot of the completed artifact in Claude. Annotation: arrow pointing to the Download button in the top right corner of the artifact panel](images/defender-03-download.png)
+
+## Adding your images
+
+Step 6
+
+- The game needs pictures to shoot down! Create a folder called **images** in the same folder where you downloaded the HTML file, then either:
+  * Download the sample image pack for this activity: [defender-images.zip](assets/defender-images.zip), unzip it, and move the images into your **images** folder, or
+  * Add your own pictures. Name each file after the word it shows, in all lowercase (for example: `bear.png`). Simple, clear pictures with plain backgrounds work best for a fast-moving game.
+- On a Mac you simply **double-click** on the zip file and it will unzip. On Windows you **right mouse click** on the file and select **Extract All...**
+
+![Screenshot of a file manager window showing the game HTML file next to an images folder, with the folder open showing named image files. Annotation: highlight box around the folder name "images" with the note "Folder name and file names must match what the code expects"](images/defender-04-images-folder.png)
+
+Step 7
+
+- **Double-click** the HTML file to open it in your web browser and click **START GAME**. Pictures should begin falling, and pressing the matching first letter on the on-screen keyboard (or your physical keyboard) should shoot them down.
+- If images show up as broken icons, the most common cause is a filename mismatch. Ask your AI tool to print the list of image filenames it expects, and rename your files to match, or paste your actual filenames into the chat and ask it to update the code.
+
+![Screenshot of the game running in a browser with a picture falling and a missile firing. Annotations: arrow to the falling picture labeled "Press the first letter of this word", arrow to the on-screen keyboard, and arrow to the hearts labeled "Lives"](images/defender-05-gameplay.png)
+
+## Making it your own
+
+Step 8
+
+- Now the fun part: iterating! Vibe coding works best when you make one change at a time, test it, and then ask for the next change. Here are some follow-up prompts to try, one at a time:
+
+```
+Please add three difficulty modes to the start screen: Beginner (slow falling speed,
+common letters only), Intermediate, and Advanced (fast, full alphabet including
+letters with glottal stops).
+```
+
+```
+When the player shoots down a picture, please play the audio pronunciation of the word.
+The audio files are in a folder called "assets" and are named after the word in all
+lowercase, for example: bear.mp3
+```
+
+```
+Please add a mastery system that tracks which letters the player gets right and wrong,
+and shows falling pictures for the letters they struggle with more often. Save the
+player's progress in the browser using localStorage so it persists between sessions.
+```
+
+![Screenshot of the updated start screen showing the three difficulty mode buttons. Annotation: highlight box around the difficulty buttons with the note "Added with a single follow-up prompt"](images/defender-06-difficulty-modes.png)
+
+Step 9
+
+- If your language uses special characters such as glottal stops, test every one of those letters on the on-screen keyboard. If a letter doesn't fire correctly, follow up with a prompt like this:
+
+```
+The letter k̓ on the on-screen keyboard is not registering correctly. Please make sure
+each on-screen key is matched to its word list entry directly, rather than comparing
+keyboard input characters, so letters with combining accent marks work reliably.
+```
+
+![Screenshot of the on-screen keyboard with special characters visible. Annotation: circles around two or three letters with glottal stops, labeled "Test each of these!"](images/defender-07-special-characters.png)
+
+## Sharing your game
+
+Step 10
+
+- To share your game with others, you can publish it for free using GitHub Pages: upload your HTML file and your **images** (and **assets**) folders to a GitHub repository and turn on GitHub Pages in the repository settings. Your instructor can help you with this, and the process is the same one used to publish the [example game](https://richmccue.github.io/likwala/likwala-defender.html).
+
+![Screenshot of the GitHub repository page showing the HTML file and images folder uploaded, with the Pages settings visible. Annotation: arrow to the published site URL](images/defender-08-github-pages.png)
+
+Step 11
+
+- An important note if you are building this game for a language revitalization project: before sharing your game publicly, please verify all spellings, words, and audio recordings with community language keepers or Elders. Generative AI tools frequently make mistakes with Indigenous language orthographies, and getting community review isn't just about accuracy: it's about respecting the community's authority over their own language.
+
+Congratulations on completing this Language Defender vibe code project! You've now used generative AI for planning, building, iterating, and debugging, which is the complete vibe coding workflow.
+
+[NEXT STEP: Quiz Game](4-quiz-game.html)
+
+---
+
+<!--
+SCREENSHOT CAPTURE CHECKLIST (delete this comment before publishing)
+
+All images go in the images/ folder. Suggested capture and annotation plan:
+
+1. defender-logo.png - Decorative header. A cropped screenshot of the game's
+   title screen works well here (matches the style of sound-board-logo.jpg).
+2. defender-01-planning-prompt.png - Claude.ai with the planning prompt sent and
+   the response visible. Annotate: arrow to the on-screen keyboard suggestion.
+3. defender-02-build-prompt.png - Claude.ai mid-generation with the artifact
+   panel open. Annotate: highlight box around the artifact panel.
+4. defender-03-download.png - Completed artifact. Annotate: arrow to the
+   Download button.
+5. defender-04-images-folder.png - Finder/Explorer showing the HTML file beside
+   the images folder with files visible. Annotate: highlight box on folder name.
+6. defender-05-gameplay.png - Game mid-play in a browser. Annotate: arrows to a
+   falling picture, the on-screen keyboard, and the hearts/lives.
+7. defender-06-difficulty-modes.png - Start screen after the difficulty prompt.
+   Annotate: highlight box around the three mode buttons.
+8. defender-07-special-characters.png - Close crop of the on-screen keyboard.
+   Annotate: circles around letters with glottal stops.
+9. defender-08-github-pages.png - GitHub repo with Pages enabled. Annotate:
+   arrow to the published URL.
+
+Annotation tools: macOS Preview (Markup), Windows Snipping Tool, or Skitch.
+For consistency with the rest of the site, use red arrows/boxes at ~3px width.
+-->
