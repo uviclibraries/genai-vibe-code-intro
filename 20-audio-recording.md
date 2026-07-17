@@ -8,7 +8,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 ![decorative](images/recording-audio-logo.jpg)
 
-# Recording Alphabet Audio with a DJI Mic Mini and an iPhone
+# Recording High Quality Audio with an iPhone & DJI Mic Mini
 
 Good source audio makes a big difference in an alphabet soundboard. Recording with a lavalier microphone like the DJI Mic Mini, instead of your phone's built-in mic, keeps the speaker's distance from the microphone constant for every letter, so all of your files come out at a similar volume with far less room echo. This matters most when you are recording with Elders and language keepers, where you may only get one session.
 
