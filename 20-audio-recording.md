@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 8-Recording Alphabet Audio
+title: 19-Recording Alphabet Audio
 nav_order: 20
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
