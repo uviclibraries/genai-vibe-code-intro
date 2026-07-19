@@ -6,63 +6,108 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-# !!!UNDER CONSTRUCTION!!!
-# Make a Jeapordy Game! 
-<img src="images/CHANGE-ME.png" style="float:right;width:320px;" alt="decorative"> 
+![decorative](images/jeopardy-logo.jpg)
 
-Games can be a helpful way to help people spend more time on task learning about new topics or learning new skills. Here's an example of a Super Mario style Eco-Runner game to help players learn more aobut things they can do to protect the environment: [Salish Sea Guardian](https://richmccue.github.io/learning-games/salish-sea-guardian.html){:target="_blank"}.
+# Make a Classroom Jeopardy Game in 10-Minutes!
 
-You can use any Generative AI tool for this activity but for coding I’d recommend using either [Google Gemini](https://gemini.google.com/){:target="_blank"} (which comes free with Gmail), or [Claude](https://claude.ai/){:target="_blank"}, as the free version of Claude currently does as good a job as Google’s Gemini, and creates more visually attractive web applications by default.
+Jeopardy-style review games are a fun and effective way to help students review course material in teams. In this activity you will use a Generative AI tool to "vibe code" a classroom Jeopardy game based on the content of a web page, complete with team scoring, Daily Doubles, and a Final Jeopardy round. Here is an example of a finished game: [Classroom Jeopardy - The Future of Education](https://richmccue.github.io/learning-games/jeopardy.html).
+
+For this activity we will use this blog post as the source of the questions and answers: [Is Your Smartphone Listening to You?](https://richmccue.com/2026/05/26/is-your-smartphone-listening-to-you/). That said, **we strongly encourage you to use a web page on a topic you know well**, because Generative AI tools sometimes make mistakes when writing questions and answers, and you will be able to fact check the game content in real time as you play through it.
 
 If you get stuck, please ask your instructor for assistance, and don't forget to have fun!
 
-## Planning with some GenAI assistance
+## Step 1
 
-Step 1
-{: .label .label-step}
-- Copy and paste the following prompt into your GenAI tool (feel free to change the language of course) and then press **Enter** on your keyboard: <br>
-```text
-How could I use the game mechanics for super mario for a environmental conservation game?
+- You can use any Generative AI tool for this activity, but for coding I'd recommend using either [Google Gemini](https://gemini.google.com/) (which comes free with Gmail), or [Claude](https://claude.ai/), as the free version of Claude currently does as good a job as Google's Gemini, and creates more visually attractive web applications by default.
+
+![Screenshot of the Claude.ai home screen with the prompt box highlighted](images/jeopardy-1.png)
+<!-- Screenshot to capture: Claude.ai (or Gemini) start screen, with an arrow or box annotation pointing to the prompt input field -->
+
+## Step 2
+
+- Copy and paste the following prompt into your GenAI tool, replacing the web page link with a page on a topic you know well if you prefer, and then press **Enter** on your keyboard:
+
 ```
-{: .step}
+I'd like to create a classroom Jeopardy game as a single self-contained HTML file that I
+can host on GitHub Pages. Please base all of the questions and answers on the content of
+this web page: https://richmccue.com/2026/05/26/is-your-smartphone-listening-to-you/
 
-Step 2
-{: .label .label-step}
-- Now let's evaluate the suggestions from...
-{: .step}
-
-Step 3
-{: .label .label-step}
-- Next we need wait a minute or two for Claude to create the HTML file for you. Once you see the **Download** button, click on it and make note of where you saved it on your laptop. 
-{: .step}
-
-Step 4
-{: .label .label-step}
-- Download the zip file that contains all the MP3 audio files for each Portuguese letter to the same folder where you downloaded the HTML file Claude created for you:
-  - Download the Portuguese audio for each letter in the zip file called: [assets.zip](assets/assets.zip)
-  - Find the assets.zip file on your laptop and unzip it. On a Mac you simply **double-click** on the file and it will unzip. On Windows you **right mouse click** on the file and select **Extract All…** 
-{: .step}
-
-Step 5
-{: .label .label-step}
-- Now that you have the audio files folder in the same place as the HTML file you downloaded, you can open the mp3 audio files in your file manager by **double clicking** on the sound files, and the sounds for each of the letters should play back to you.
-{: .step}
-
-Step 6
-{: .label .label-step}
-- If you created your Soundboard in Claude, [it should look something like this](https://richmccue.github.io/brasil-letters/portuguese.html){:target="_blank"}.
-- Your soundboard should be playing the sounds for letters in the Portugues alphabet now. If you are having any problems, please let your instructor know and they help you get your soundboard up and running!
-{: .step}
-
-Step 7
-{: .label .label-step}
-- If you are creating a soundboard for a language like Hul'q'umi'num, that has letters in it's alphabet with non-English accents like glottal stops, you should follow up with a prompt like this (depending on the types of accents used in the language):
-{: .step}
-```text
-Change the letter mapping to the letter files with the letters that have a glottal stop so
-that for example the c' file name is: c_glottal.mp3
+The game should include:
+- A setup screen where I can choose 2, 3, or 4 teams and enter team names
+- A game board with 5 categories and 5 clues per category, with point values from 100 to 500
+- Clues written as answers, with teams responding in the form of a question, just like
+  real Jeopardy
+- One or two hidden Daily Doubles where the team that finds it can wager points
+- A button to reveal the correct response after each clue, and buttons to award points to
+  the team that answered correctly (or to no team)
+- A Final Jeopardy round where each team secretly wagers up to their current score before
+  seeing the final clue
+- A champion screen at the end showing the winning team and final scores
+Here is an example of the look and feel I'm going for:
+https://richmccue.github.io/learning-games/jeopardy.html
 ```
 
-Congratulations on completing this Alphabet Soundboard vibe code project! Here's an example of a soundboard app crated for Language Revitalization purposes: [LiK'wala Soundboard for language learners](https://richmccue.github.io/likwala/likwala-soundboard.html){:target="_blank"}.
+![Screenshot of the prompt pasted into the GenAI chat box](images/jeopardy-2.png)
+<!-- Screenshot to capture: the full prompt pasted into the chat box, ready to submit; annotate the Enter/send button -->
+
+## Step 3
+
+- Next we need to wait a minute or two for the GenAI tool to create the HTML file for you. In Claude you will see the game being built in a preview window on the right-hand side of the screen as the code is written.
+
+![Screenshot of Claude generating the Jeopardy game code with the live preview pane](images/jeopardy-3.png)
+<!-- Screenshot to capture: Claude mid-generation, with annotations pointing to the code/preview toggle and the preview pane -->
+
+## Step 4
+
+- Once the game is finished, play a quick round directly in the preview window. **This is the most important step**: because you chose a web page you know well, check each question and answer against the source page as you reveal them. GenAI tools sometimes invent plausible-sounding but incorrect answers, so open the source web page in another browser tab and verify anything that looks even slightly off.
+
+![Screenshot of the Jeopardy game board in the preview, side by side with the source web page](images/jeopardy-4.png)
+<!-- Screenshot to capture: the generated game board next to the source blog post in a second window; annotate one clue and the matching passage in the source -->
+
+## Step 5
+
+- If you find a question or answer that is incorrect, or you'd like to adjust the game, simply tell the GenAI tool what to change in a follow-up prompt. For example:
+
+```
+The 300 point clue in the second category has an incorrect answer. According to the source
+web page, the correct answer is [the correct answer]. Please fix that clue, and also
+rename the third category to something shorter.
+```
+
+![Screenshot of a follow-up correction prompt and Claude updating the game](images/jeopardy-5.png)
+<!-- Screenshot to capture: a follow-up prompt in the chat with the updated preview; annotate the changed clue or category -->
+
+## Step 6
+
+- When you are happy with the game, click on the **Download** button to save the HTML file to your laptop, and make note of where you saved it.
+
+![Screenshot of the Download button in Claude's artifact preview](images/jeopardy-6.png)
+<!-- Screenshot to capture: the artifact preview with an arrow annotation pointing to the Download button -->
+
+## Step 7
+
+- Find the HTML file you just downloaded in your file manager and **double-click** on it to open it in your web browser. Set up two teams, give them fun names, and play through a few clues, a Daily Double, and Final Jeopardy to make sure everything works, including the scoring.
+
+![Screenshot of the finished game running locally in a browser with team scores visible](images/jeopardy-7.png)
+<!-- Screenshot to capture: the game running from the local file, with annotations on the team score display and a revealed clue -->
+
+## Step 8 (Optional)
+
+- Want to make the game your own? Try follow-up prompts like these to customize the look and feel, or to make the game reusable with other content:
+
+```
+Change the colour scheme to my school's colours: [your colours here], and add a fun sound
+effect when a Daily Double is revealed.
+```
+
+```
+Now create a second version of the game using the content from this web page instead:
+[link to another web page you know well]
+```
+
+![Screenshot of a customized version of the game with a different colour scheme](images/jeopardy-8.png)
+<!-- Screenshot to capture: the restyled game board; annotate the changed colours or new feature -->
+
+Congratulations on completing this Classroom Jeopardy vibe code project! If you'd like to share your game with students or colleagues, ask your instructor about hosting it for free on [GitHub Pages](https://pages.github.com/), just like the example game: [Classroom Jeopardy - The Future of Education](https://richmccue.github.io/learning-games/jeopardy.html).
 
 [NEXT STEP: ??????](3-????.html){: .btn .btn-blue }
