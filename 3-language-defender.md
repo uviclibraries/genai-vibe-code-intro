@@ -18,11 +18,12 @@ If you get stuck, please ask your instructor for assistance, and don't forget to
 ## Planning with some GenAI assistance
 
 Step 1
-
+{: .label .label-step}
 - You can use any Generative AI tool for this activity, but for coding I'd recommend using Anthropic's [Claude](https://claude.ai/).
+{: .step}
 
 Step 2
-
+{: .label .label-step}
 - Before we ask the AI to write any code, let's use it as a thinking partner to explore how classic arcade game mechanics could support language learning. Copy and paste the following prompt into your GenAI tool and press **Enter** on your keyboard:
 
 ```
@@ -34,15 +35,17 @@ versus more advanced learners.
 ```
 
 ![Screenshot of the planning prompt pasted into Claude with the response listing suggested game mechanics. Annotation: arrow pointing to the suggestion about an on-screen keyboard, with the note "We will use this idea in our build prompt"](images/defender-01-planning-prompt.png)
+{: .step}
 
 Step 3
-
+{: .label .label-step}
 - Read through the suggestions and pick two or three mechanics you like. There are no wrong answers here! In the example game, the mechanics chosen were: falling pictures, an on-screen keyboard for shooting, lives that are lost when a picture reaches the ground, and levels that gradually speed up.
+{: .step}
 
 ## Building the game
 
 Step 4
-
+{: .label .label-step}
 - Now we're ready to build. Copy and paste the following prompt into the **same conversation** (so the AI remembers the planning discussion), change the language and letter list to match the language you are working with, and press **Enter**:
 
 ```
@@ -69,16 +72,20 @@ Missile Command, to help people learn the Lik̓wala alphabet. Here is how it sho
 ```
 
 ![Screenshot of the build prompt in Claude with the artifact beginning to generate on the right side. Annotation: highlight box around the artifact panel with the note "Claude writes the whole game as one HTML file"](images/defender-02-build-prompt.png)
+{: .step}
 
 Step 5
+{: .label .label-step}
 
 - Next we need to wait a minute or two for Claude to create the HTML file for you. Once you see the **Download** button, click on it and make note of where you saved it on your laptop.
 
 ![Screenshot of the completed artifact in Claude. Annotation: arrow pointing to the Download button in the top right corner of the artifact panel](images/defender-03-download.png)
+{: .step}
 
 ## Adding your images
 
 Step 6
+{: .label .label-step}
 
 - The game needs pictures to shoot down! Create a folder called **images** in the same folder where you downloaded the HTML file, then either:
   * Download the sample image pack for this activity: [defender-images.zip](assets/defender-images.zip), unzip it, and move the images into your **images** folder, or
@@ -86,17 +93,21 @@ Step 6
 - On a Mac you simply **double-click** on the zip file and it will unzip. On Windows you **right mouse click** on the file and select **Extract All...**
 
 ![Screenshot of a file manager window showing the game HTML file next to an images folder, with the folder open showing named image files. Annotation: highlight box around the folder name "images" with the note "Folder name and file names must match what the code expects"](images/defender-04-images-folder.png)
+{: .step}
 
 Step 7
+{: .label .label-step}
 
 - **Double-click** the HTML file to open it in your web browser and click **START GAME**. Pictures should begin falling, and pressing the matching first letter on the on-screen keyboard (or your physical keyboard) should shoot them down.
 - If images show up as broken icons, the most common cause is a filename mismatch. Ask your AI tool to print the list of image filenames it expects, and rename your files to match, or paste your actual filenames into the chat and ask it to update the code.
 
 ![Screenshot of the game running in a browser with a picture falling and a missile firing. Annotations: arrow to the falling picture labeled "Press the first letter of this word", arrow to the on-screen keyboard, and arrow to the hearts labeled "Lives"](images/defender-05-gameplay.png)
+{: .step}
 
 ## Making it your own
 
 Step 8
+{: .label .label-step}
 
 - Now the fun part: iterating! Vibe coding works best when you make one change at a time, test it, and then ask for the next change. Here are some follow-up prompts to try, one at a time:
 
@@ -119,8 +130,10 @@ player's progress in the browser using localStorage so it persists between sessi
 ```
 
 ![Screenshot of the updated start screen showing the three difficulty mode buttons. Annotation: highlight box around the difficulty buttons with the note "Added with a single follow-up prompt"](images/defender-06-difficulty-modes.png)
+{: .step}
 
 Step 9
+{: .label .label-step}
 
 - If your language uses special characters such as glottal stops, test every one of those letters on the on-screen keyboard. If a letter doesn't fire correctly, follow up with a prompt like this:
 
@@ -131,18 +144,23 @@ keyboard input characters, so letters with combining accent marks work reliably.
 ```
 
 ![Screenshot of the on-screen keyboard with special characters visible. Annotation: circles around two or three letters with glottal stops, labeled "Test each of these!"](images/defender-07-special-characters.png)
+{: .step}
 
 ## Sharing your game
 
 Step 10
+{: .label .label-step}
 
 - To share your game with others, you can publish it for free using GitHub Pages: upload your HTML file and your **images** (and **assets**) folders to a GitHub repository and turn on GitHub Pages in the repository settings. Your instructor can help you with this, and the process is the same one used to publish the [example game](https://richmccue.github.io/likwala/likwala-defender.html).
 
 ![Screenshot of the GitHub repository page showing the HTML file and images folder uploaded, with the Pages settings visible. Annotation: arrow to the published site URL](images/defender-08-github-pages.png)
+{: .step}
 
 Step 11
+{: .label .label-step}
 
 - An important note if you are building this game for a language revitalization project: before sharing your game publicly, please verify all spellings, words, and audio recordings with community language keepers or Elders. Generative AI tools frequently make mistakes with Indigenous language orthographies, and getting community review isn't just about accuracy: it's about respecting the community's authority over their own language.
+{: .step}
 
 Congratulations on completing this Language Defender vibe code project! You've now used generative AI for planning, building, iterating, and debugging, which is the complete vibe coding workflow.
 
