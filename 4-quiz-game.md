@@ -49,8 +49,6 @@ describes. The game should:
 - Be a single self-contained HTML file with no external dependencies, so it can be
   hosted on GitHub Pages
 ```
-
-<img src="images/quiz-game-02.png" style="float:right; width:250px;" alt="prompt input"> 
  
 ## Step 4
  
