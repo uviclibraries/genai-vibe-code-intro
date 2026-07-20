@@ -25,7 +25,7 @@ If you get stuck, please ask your instructor for assistance, and don't forget to
 ## Step 2
  
 - Find a web page on a topic you know well and copy its web address (URL) from your browser's address bar. Good candidates include a blog post you've written, a Wikipedia article on your favourite hobby, or an article from your field of study.
-- If you can't think of one, you can use the sample article for this activity: [https://richmccue.com/2026/05/26/is-your-smartphone-listening-to-you/](https://richmccue.com/2026/05/26/is-your-smartphone-listening-to-you/) — but remember, using a page you know well means you can spot any errors the AI makes.
+- If you can't think of one, you can use the sample article for this activity: [Is Your Smartphone Listening to You?](https://richmccue.com/2026/05/26/is-your-smartphone-listening-to-you/) — but remember, using a page you know well means you can spot any errors the AI makes.
 ![Screenshot of a browser with the article open and the URL highlighted in the address bar](images/quiz-step2-copy-url.png)
 <!-- Screenshot to capture: your source article open in a browser. Annotate with a red box around the address bar and a callout labelled "Copy this URL". -->
  
