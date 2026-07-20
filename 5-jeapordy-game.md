@@ -16,15 +16,16 @@ For this activity we will use this blog post as the source of the questions and 
 
 If you get stuck, please ask your instructor for assistance, and don't forget to have fun!
 
-## Step 1
-
+Step 1
+{: .label .label-step}
 - You can use any Generative AI tool for this activity, but for coding I'd recommend using either [Google Gemini](https://gemini.google.com/) (which comes free with Gmail), or [Claude](https://claude.ai/), as the free version of Claude currently does as good a job as Google's Gemini, and creates more visually attractive web applications by default.
 
 ![Screenshot of the Claude.ai home screen with the prompt box highlighted](images/jeopardy-1.png)
 <!-- Screenshot to capture: Claude.ai (or Gemini) start screen, with an arrow or box annotation pointing to the prompt input field -->
+{: .step}
 
-## Step 2
-
+Step 2
+{: .label .label-step}
 - Copy and paste the following prompt into your GenAI tool, replacing the web page link with a page on a topic you know well if you prefer, and then press **Enter** on your keyboard:
 
 ```
@@ -49,23 +50,26 @@ https://richmccue.github.io/learning-games/jeopardy.html
 
 ![Screenshot of the prompt pasted into the GenAI chat box](images/jeopardy-2.png)
 <!-- Screenshot to capture: the full prompt pasted into the chat box, ready to submit; annotate the Enter/send button -->
+{: .step}
 
-## Step 3
-
+Step 3
+{: .label .label-step}
 - Next we need to wait a minute or two for the GenAI tool to create the HTML file for you. In Claude you will see the game being built in a preview window on the right-hand side of the screen as the code is written.
 
 ![Screenshot of Claude generating the Jeopardy game code with the live preview pane](images/jeopardy-3.png)
 <!-- Screenshot to capture: Claude mid-generation, with annotations pointing to the code/preview toggle and the preview pane -->
+{: .step}
 
-## Step 4
-
+Step 4
+{: .label .label-step}
 - Once the game is finished, play a quick round directly in the preview window. **This is the most important step**: because you chose a web page you know well, check each question and answer against the source page as you reveal them. GenAI tools sometimes invent plausible-sounding but incorrect answers, so open the source web page in another browser tab and verify anything that looks even slightly off.
 
 ![Screenshot of the Jeopardy game board in the preview, side by side with the source web page](images/jeopardy-4.png)
 <!-- Screenshot to capture: the generated game board next to the source blog post in a second window; annotate one clue and the matching passage in the source -->
+{: .step}
 
-## Step 5
-
+Step 5
+{: .label .label-step}
 - If you find a question or answer that is incorrect, or you'd like to adjust the game, simply tell the GenAI tool what to change in a follow-up prompt. For example:
 
 ```
@@ -76,23 +80,26 @@ rename the third category to something shorter.
 
 ![Screenshot of a follow-up correction prompt and Claude updating the game](images/jeopardy-5.png)
 <!-- Screenshot to capture: a follow-up prompt in the chat with the updated preview; annotate the changed clue or category -->
+{: .step}
 
-## Step 6
-
+Step 6
+{: .label .label-step}
 - When you are happy with the game, click on the **Download** button to save the HTML file to your laptop, and make note of where you saved it.
 
 ![Screenshot of the Download button in Claude's artifact preview](images/jeopardy-6.png)
 <!-- Screenshot to capture: the artifact preview with an arrow annotation pointing to the Download button -->
+{: .step}
 
-## Step 7
-
+Step 7
+{: .label .label-step}
 - Find the HTML file you just downloaded in your file manager and **double-click** on it to open it in your web browser. Set up two teams, give them fun names, and play through a few clues, a Daily Double, and Final Jeopardy to make sure everything works, including the scoring.
 
 ![Screenshot of the finished game running locally in a browser with team scores visible](images/jeopardy-7.png)
 <!-- Screenshot to capture: the game running from the local file, with annotations on the team score display and a revealed clue -->
+{: .step}
 
-## Step 8 (Optional)
-
+Step 8 (Optional)
+{: .label .label-step}
 - Want to make the game your own? Try follow-up prompts like these to customize the look and feel, or to make the game reusable with other content:
 
 ```
@@ -107,6 +114,7 @@ Now create a second version of the game using the content from this web page ins
 
 ![Screenshot of a customized version of the game with a different colour scheme](images/jeopardy-8.png)
 <!-- Screenshot to capture: the restyled game board; annotate the changed colours or new feature -->
+{: .step}
 
 Congratulations on completing this Classroom Jeopardy vibe code project! If you'd like to share your game with students or colleagues, ask your instructor about hosting it for free on [GitHub Pages](https://pages.github.com/), just like the example game: [Classroom Jeopardy - The Future of Education](https://richmccue.github.io/learning-games/jeopardy.html).
 
