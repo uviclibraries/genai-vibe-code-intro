@@ -17,25 +17,27 @@ Feel free to set your game in any ecosystem you like: a local watershed, a coral
 
 ---
 
-## Step 1
-
+Step 1
+{: .label .label-step}
 - You can use any Generative AI tool for this activity, but for coding I'd recommend using either [Google Gemini](https://gemini.google.com/) (which comes free with Gmail) or [Claude](https://claude.ai/), as the free version of Claude currently does as good a job as Google's Gemini, and creates more visually attractive web applications by default.
+{: .step}
 
 ![Annotated screenshot showing the Claude and Gemini home pages side by side, with an arrow pointing to the prompt box where you will type](images/step-1-choose-genai-tool.png)
 
-## Step 2
-
+Step 2
+{: .label .label-step}
 - Before prompting, take two minutes to plan your game's environmental theme. Jot down quick answers to these questions on paper or in a text file:
   * **Ecosystem:** Where does your game take place? (e.g. a west coast shoreline, a wetland, a coral reef)
   * **Hero:** Who is the player? (e.g. a park ranger, a young guardian, a river otter)
   * **Enemies or hazards:** What environmental threats will the player face? (e.g. invasive green crabs, oil slicks, litter, smog clouds)
   * **Collectibles:** What does the player gather instead of coins? (e.g. native seeds, pieces of trash to recycle, clean water droplets)
   * **Goal:** How does the player win a level? (e.g. restore the Biodiversity Index to 100%, replant all the trees)
+ {: .step}
 
 ![Annotated screenshot of a simple planning notes file with the five theme questions filled in, with callout boxes highlighting the ecosystem and collectibles answers](images/step-2-plan-your-theme.png)
 
-## Step 3
-
+Step 3
+{: .label .label-step}
 - Copy and paste the following prompt into your GenAI tool, replace the parts in [square brackets] with your own theme ideas from Step 2, and then press **Enter** on your keyboard:
 
 ```
@@ -64,14 +66,18 @@ you build a better game.
 ```
 
 ![Annotated screenshot of the prompt pasted into the GenAI chat box, with an arrow pointing to the square-bracket sections that need to be customized and another arrow pointing to the send button](images/step-3-paste-prompt.png)
+{: .step}
 
-## Step 4
+Step 4
+{: .label .label-step}
 
 - Your GenAI tool will likely ask you one or two clarifying questions before it starts coding, such as what art style you prefer or how difficult the game should be. Answer the questions briefly in the chat, then press **Enter**. Short answers are fine; you can always refine things later.
 
 ![Annotated screenshot of Claude asking clarifying questions, with a callout box around the questions and an example short reply typed underneath](images/step-4-answer-questions.png)
+{: .step}
 
-## Step 5
+Step 5
+{: .label .label-step}
 
 - Now wait a minute or two while the AI writes the code for your game. In Claude, the game will appear in a preview window (called an Artifact) beside the chat. Once the code is finished, try playing your game right in the preview:
   * Use the **arrow keys** to run left and right
@@ -79,9 +85,10 @@ you build a better game.
   * Try landing on top of a hazard or collecting one of your collectibles to make sure the score changes
 
 ![Annotated screenshot of the finished game running in the Claude Artifact preview pane, with arrows pointing to the score display, the lives counter, and the player character](images/step-5-play-preview.png)
+{: .step}
 
-## Step 6
-
+Step 6
+{: .label .label-step}
 - No first draft is perfect, and this is where vibe coding shines: just tell the AI what to change in plain English. Try one or two follow-up prompts like these, pressing **Enter** after each one and re-testing the game:
 
 ```
@@ -99,17 +106,19 @@ generated in code with the Web Audio API so no sound files are needed.
 ```
 
 ![Annotated screenshot of a follow-up prompt in the chat with a before-and-after callout showing the game change it produced](images/step-6-iterate.png)
+{: .step}
 
-## Step 7
-
+Step 7
+{: .label .label-step}
 - When you are happy with your game, download it so you have your own copy:
   * In Claude, click the **Download** button at the top of the Artifact preview and make note of where you saved the HTML file on your laptop.
   * Find the file in your file manager and **double-click** it. It should open in your web browser and play exactly the same as it did in the preview, even without an internet connection.
 
 ![Annotated screenshot of the Artifact window with an arrow pointing to the Download button, and a second panel showing the downloaded HTML file opened in a browser](images/step-7-download.png)
+{: .step}
 
-## Step 8
-
+Step 8
+{: .label .label-step}
 - Test your game on a phone or tablet if you have one handy. Because you asked for touch controls in the original prompt, you should see on-screen buttons for moving and jumping. If something doesn't work well on mobile, describe the problem to the AI, for example:
 
 ```
@@ -118,8 +127,10 @@ move the touch controls so nothing overlaps, and make the buttons a bit bigger.
 ```
 
 ![Annotated screenshot of the game running on a phone with circles highlighting the on-screen touch control buttons](images/step-8-mobile-test.png)
+{: .step}
 
-## Step 9
+Step 9
+{: .label .label-step}
 
 - **Optional:** Share your game with the world by publishing it for free on GitHub Pages. If you have a GitHub account:
   * Create a new public repository and upload your HTML file
@@ -128,6 +139,7 @@ move the touch controls so nothing overlaps, and make the buttons a bit bigger.
 - If you'd like a walkthrough of this process, ask your instructor or your GenAI tool for step-by-step GitHub Pages publishing instructions.
 
 ![Annotated screenshot of the GitHub Pages settings screen with arrows pointing to the Branch dropdown and the Save button, plus the live published URL](images/step-9-github-pages.png)
+{: .step}
 
 ---
 
