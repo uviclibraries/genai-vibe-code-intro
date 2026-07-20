@@ -26,8 +26,6 @@ If you get stuck, please ask your instructor for assistance, and don't forget to
  
 - Find a web page on a topic you know well and copy its web address (URL) from your browser's address bar. Good candidates include a blog post you've written, a Wikipedia article on your favourite hobby, or an article from your field of study.
 - If you can't think of one, you can use the sample article for this activity: [Is Your Smartphone Listening to You?](https://richmccue.com/2026/05/26/is-your-smartphone-listening-to-you/) — but remember, using a page you know well means you can spot any errors the AI makes.
-![Screenshot of a browser with the article open and the URL highlighted in the address bar](images/quiz-step2-copy-url.png)
-<!-- Screenshot to capture: your source article open in a browser. Annotate with a red box around the address bar and a callout labelled "Copy this URL". -->
  
 ## Step 3
  
@@ -83,9 +81,6 @@ Question about [topic] is not accurate. The article actually says [what the arti
 says]. Please correct that question and its explanation, and give me the updated file.
 ```
  
-![Screenshot of two browser windows side by side: the source article and the quiz game](images/quiz-step6-fact-check.png)
-<!-- Screenshot to capture: source article and quiz side by side. Annotate with a highlight on the relevant sentence in the article and a matching highlight on the quiz question, connected by an arrow labelled "Verify each question against the source". -->
- 
 ## Step 7
  
 - Once your questions are accurate, you can customize your game with follow-up prompts. Try one or more of these, or invent your own:
@@ -105,8 +100,6 @@ gentle buzz for incorrect ones, with a mute button.
 ```
  
 - After each change, **download the new file, open it in your browser, and re-test it**, including a quick re-check that the questions are still accurate. Small, incremental changes are much easier to test and fix than one giant request.
-![Screenshot of a follow-up prompt and the updated game with the new theme](images/quiz-step7-customize.png)
-<!-- Screenshot to capture: a follow-up prompt in the chat and the restyled quiz preview. Annotate with before/after labels or an arrow labelled "New theme applied". -->
  
 ## Step 8 (Optional)
  
