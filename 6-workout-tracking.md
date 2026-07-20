@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-![decorative](images/fitness-tracker-logo.jpg)
+<img src="images/workout-tracking-logo.png" style="float:right;width:270px;" alt="decorative"> 
 
 # Make a Workout Training Tracker in About 15 Minutes!
 
@@ -19,8 +19,6 @@ If you get stuck, please ask your instructor for assistance, and don't forget to
 ## Step 1
 
 - You can use any Generative AI tool for this activity, but for coding I'd recommend using either [Google Gemini](https://gemini.google.com/) (which comes free with Gmail), or [Claude](https://claude.ai/), as the free version of Claude currently does as good a job as Google's Gemini, and creates more visually attractive web applications by default.
-
-![Annotated screenshot: the Claude.ai and Gemini home pages side by side, with an arrow pointing to the message box where you type your prompt](images/tracker-01-choose-tool.png)
 
 ## Step 2
 
