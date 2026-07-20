@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-<img src="images/workout-tracking-logo.png" style="float:right;width:270px;" alt="decorative"> 
+<img src="images/workout-tracking-logo.png" style="float:right;width:300px;" alt="decorative"> 
 
 # Make a Workout Training Tracker in About 15 Minutes!
 
