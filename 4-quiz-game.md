@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-![decorative](images/quiz-game-logo.jpg)
+<img src="images/quiz-game-logo.png" style="float:right;width:250px;" alt="decorative"> 
  
 # Make a "Fact or Fiction" Quiz Game in 10 Minutes!
  
