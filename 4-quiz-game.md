@@ -27,7 +27,7 @@ If you get stuck, please ask your instructor for assistance, and don't forget to
  
 ## Step 3
  
-- Copy and paste the following prompt into your GenAI tool, replace the URL with the web page you chose in Step 2, and then press **Enter** on your keyboard: <img src="images/quiz-game-02.png" style="float:right; width:100px;" alt="prompt input"> 
+- Copy and paste the following prompt into your GenAI tool, replace the URL with the web page you chose in Step 2, and then press **Enter** on your keyboard: 
   
 ```
 I'd like to create a single-file HTML quiz game based on the content of this web page:
@@ -49,6 +49,8 @@ describes. The game should:
 - Be a single self-contained HTML file with no external dependencies, so it can be
   hosted on GitHub Pages
 ```
+
+<img src="images/quiz-game-02.png" style="float:right; width:250px;" alt="prompt input"> 
  
 ## Step 4
  
