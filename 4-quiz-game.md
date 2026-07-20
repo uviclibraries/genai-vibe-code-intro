@@ -16,17 +16,19 @@ Quiz games are a fun way to help learners test their knowledge and separate myth
  
 If you get stuck, please ask your instructor for assistance, and don't forget to have fun!
  
-## Step 1
- 
+Step 1
+{: .label .label-step}
 - You can use any Generative AI tool for this activity, but for coding I'd recommend using either [Google Gemini](https://gemini.google.com/) (which comes free with Gmail), or [Claude](https://claude.ai/), as the free version of Claude currently does as good a job as Google's Gemini, and creates more visually attractive web applications by default.
+{: .step}
  
-## Step 2
- 
+Step 2
+{: .label .label-step}
 - Find a web page on a topic you know well and copy its web address (URL) from your browser's address bar. Good candidates include a blog post you've written, a Wikipedia article on your favourite hobby, or an article from your field of study.
 - If you can't think of one, you can use the sample article for this activity: [Is Your Smartphone Listening to You?](https://richmccue.com/2026/05/26/is-your-smartphone-listening-to-you/) — but remember, using a page you know well means you can spot any errors the AI makes.
+{: .step}
  
-## Step 3
- 
+Step 3
+{: .label .label-step}
 - Copy and paste the following prompt into your GenAI tool, replace the URL with the web page you chose in Step 2, and then press **Enter** on your keyboard: 
   
 ```
@@ -49,21 +51,25 @@ describes. The game should:
 - Be a single self-contained HTML file with no external dependencies, so it can be
   hosted on GitHub Pages
 ```
+{: .step}
  
-## Step 4
- 
+Step 4
+{: .label .label-step}
 - Next we need to wait a minute or two for the AI to read the web page and create the HTML file for you. While it works, you can watch it write the code.
 - Once it's finished, click the **Download** button and make note of where you saved the file on your laptop (usually your **Downloads** folder).
 
 <img src="images/quiz-game-01.png" style="width:300px;" alt="download button"> 
+
+{: .step}
  
-## Step 5
- 
+Step 5
+{: .label .label-step}
 - Find the HTML file you just downloaded and **double-click** on it to open it in your web browser.
 - Click through a few questions to make sure the game works: the questions should be shuffled, the True/False buttons should respond, and your score should update.
+{: .step}
  
-## Step 6
- 
+Step 6
+{: .label .label-step}
 - **Now for the most important step: fact checking!** Open your source web page in one browser tab and your quiz in another. Play through the entire quiz and check every question and explanation against the original article:
   * Is each "fact" question actually supported by the article?
   * Are the "myth" questions really presented as myths in the article?
@@ -73,8 +79,10 @@ describes. The game should:
 Question about [topic] is not accurate. The article actually says [what the article
 says]. Please correct that question and its explanation, and give me the updated file.
 ```
+{: .step}
  
-## Step 7
+Step 7
+{: .label .label-step}
  
 - Once your questions are accurate, you can customize your game with follow-up prompts. Try one or more of these, or invent your own:
   
@@ -94,11 +102,15 @@ gentle buzz for incorrect ones, with a mute button.
 ```
  
 - After each change, **download the new file, open it in your browser, and re-test it**, including a quick re-check that the questions are still accurate. Small, incremental changes are much easier to test and fix than one giant request.
+
+{: .step}
  
-## Step 8 (Optional)
+Step 8 (Optional)
+{: .label .label-step}
  
 - If you'd like to share your quiz with the world, you can host it for free on [GitHub Pages](https://pages.github.com/). If you completed the GitHub Pages activity earlier in this workshop, upload your HTML file to your repository and it will be live at your GitHub Pages address in a minute or two.
 - If you haven't set up GitHub Pages yet, ask your instructor or see the Additional Resources page for a guide.
+{: .step}
  
 Congratulations on completing this Quiz Game vibe code project! You've not only built a working game, you've also practised one of the most important skills for working with Generative AI: verifying its output against a trusted source. Here's the finished example again for inspiration: [Is My Phone Listening To Me? Quiz](https://richmccue.github.io/learning-games/phone_listening_quiz.html).
 
