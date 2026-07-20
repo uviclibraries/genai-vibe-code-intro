@@ -32,6 +32,7 @@ If you get stuck, please ask your instructor for assistance, and don't forget to
 ## Step 3
  
 - Copy and paste the following prompt into your GenAI tool, replace the URL with the web page you chose in Step 2, and then press **Enter** on your keyboard:
+  
 ```
 I'd like to create a single-file HTML quiz game based on the content of this web page:
 https://richmccue.com/2026/05/26/is-your-smartphone-listening-to-you/
