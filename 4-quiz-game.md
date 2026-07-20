@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-<img src="images/quiz-game-logo.png" style="float:right;width:250px;" alt="decorative"> 
+<img src="images/quiz-game-logo.png" style="float:right;width:270px;" alt="decorative"> 
  
 # Make a "Fact or Fiction" Quiz Game in 10 Minutes!
  
@@ -60,14 +60,12 @@ describes. The game should:
 - Next we need to wait a minute or two for the AI to read the web page and create the HTML file for you. While it works, you can watch it write the code.
 - Once it's finished, click the **Download** button and make note of where you saved the file on your laptop (usually your **Downloads** folder).
 
-<img src="images/quiz-game-01.png" style="width:250px;" alt="download button"> 
+<img src="images/quiz-game-01.png" style="width:300px;" alt="download button"> 
  
 ## Step 5
  
 - Find the HTML file you just downloaded and **double-click** on it to open it in your web browser.
 - Click through a few questions to make sure the game works: the questions should be shuffled, the True/False buttons should respond, and your score should update.
-![Screenshot of the quiz game running in a browser showing a question screen](images/quiz-step5-play-test.png)
-<!-- Screenshot to capture: the quiz running locally in a browser, mid-question. Annotate with callouts pointing to the score counter, the question counter (e.g. "Q 3 / 14"), and the True/False buttons. -->
  
 ## Step 6
  
