@@ -59,8 +59,8 @@ describes. The game should:
  
 - Next we need to wait a minute or two for the AI to read the web page and create the HTML file for you. While it works, you can watch it write the code.
 - Once it's finished, click the **Download** button and make note of where you saved the file on your laptop (usually your **Downloads** folder).
-![Screenshot of the completed artifact in Claude with the Download button highlighted](images/quiz-step4-download.png)
-<!-- Screenshot to capture: the finished quiz artifact/preview in Claude with the Download button visible. Annotate with a red circle around the Download button. -->
+
+<img src="images/quiz-game-01.png" style="width:250px;" alt="download button"> 
  
 ## Step 5
  
