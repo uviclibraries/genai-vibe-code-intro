@@ -16,12 +16,13 @@ Feel free to create a tracker for any sport or fitness event you want during thi
 
 If you get stuck, please ask your instructor for assistance, and don't forget to have fun!
 
-## Step 1
-
+Step 1
+{: .label .label-step}
 - You can use any Generative AI tool for this activity, but for coding I'd recommend using either [Google Gemini](https://gemini.google.com/) (which comes free with Gmail), or [Claude](https://claude.ai/), as the free version of Claude currently does as good a job as Google's Gemini, and creates more visually attractive web applications by default.
+{: .step}
 
-## Step 2
-
+Step 2
+{: .label .label-step}
 - Copy and paste the following prompt into your GenAI tool (feel free to change the race, distances, or dates of course) and then press **Enter** on your keyboard:
 
 ```
@@ -46,10 +47,12 @@ build a better app for me. For example, you might ask about my current fitness l
 how many days per week I can train, or whether I'd rather train for a different sport
 or event, such as a 10K run, a triathlon, or a long-distance hike.
 ```
+{: .step}
 
 ![Annotated screenshot: the prompt pasted into the Claude message box, with an arrow pointing to the send button](images/tracker-02-paste-prompt.png)
 
-## Step 3
+Step 3
+{: .label .label-step}
 
 - Because we asked it to, the GenAI tool should now ask you a few clarifying questions before it starts coding. Answer the questions in the chat box. For example:
 
@@ -63,29 +66,40 @@ Monday.
 
 ![Annotated screenshot: Claude's clarifying questions in the chat, with a box highlighting the questions and an arrow pointing to the reply box where the answers are typed](images/tracker-03-clarifying-questions.png)
 
-## Step 4
+{: .step}
 
+Step 4
+{: .label .label-step}
 - Next we need to wait a minute or two while the GenAI tool creates the HTML file for you. In Claude the app will appear in a preview pane on the right side of the screen, and you can try it out right away.
 - Once it's finished, click the **Download** button and make note of where you saved the HTML file on your laptop.
 
 ![Annotated screenshot: the finished app in Claude's preview pane, with an arrow pointing to the Download button in the top right corner](images/tracker-04-preview-download.png)
 
-## Step 5
+{: .step}
 
+
+Step 5
+{: .label .label-step}
 - Find the HTML file you just downloaded and **double-click** on it to open it in your web browser.
 - Try logging a ride (or run, or swim!): click on the **Log a ride** tab, fill in the date, distance, elevation gain, perceived effort, and a short note about your route, then click **Save ride**.
+{: .step}
 
 ![Annotated screenshot: the Log a ride form filled in with sample data, with an arrow pointing to the Save ride button](images/tracker-05-log-a-ride.png)
 
-## Step 6
+{: .step}
 
+Step 6
+{: .label .label-step}
 - Now click on the **Dashboard** tab. You should see your ride appear on the chart comparing your kilometres per week against the training plan.
 - Log two or three more rides with different dates and distances so you can see the chart come to life.
 - Close the browser tab and open the HTML file again. Your rides should still be there, because they are saved in your browser's localStorage.
 
 ![Annotated screenshot: the dashboard chart showing logged kilometres versus the weekly plan, with a box highlighting the current week's bar](images/tracker-06-dashboard-chart.png)
 
-## Step 7
+{: .step}
+
+Step 7
+{: .label .label-step}
 
 - If you created your tracker in Claude, [it should look something like this](https://richmccue.github.io/tdv/).
 - Now it's time to make the app your own. Try one or two follow-up prompts like these:
@@ -107,7 +121,8 @@ increase by no more than 10% per week.
 
 ![Annotated screenshot: a follow-up prompt in the chat and the updated app showing the new Route library tab, with an arrow pointing to the new tab](images/tracker-07-follow-up-prompts.png)
 
-## Step 8 (Optional)
+Step 8 (Optional)
+{: .label .label-step}
 
 - If you'd like to use your tracker on your phone or share it with a friend or teammates, you can publish it for free with GitHub Pages:
   * Create a free account at [github.com](https://github.com/) if you don't already have one.
@@ -118,6 +133,7 @@ increase by no more than 10% per week.
 - Note: with this simple version, your data is saved separately in each browser you use, because localStorage lives on each device. If you'd like your rides to sync between your phone and laptop, see the **Optional Activity: Sync Your Data with GitHub** section below.
 
 ![Annotated screenshot: the GitHub Pages settings screen, with arrows pointing to the Branch dropdown and the Save button, and a box highlighting the published site URL](images/tracker-08-github-pages.png)
+{: .step}
 
 ---
 
@@ -128,7 +144,8 @@ By default your tracker saves data in your browser's localStorage, which means y
 > **Important privacy warning: your training data will be publicly available on the internet.**
 > This activity stores your data in the same **public** GitHub repository that hosts your app, so every ride you log, including dates, distances, and any notes you write, can be viewed by **anyone in the world**. Do not enter anything you want to keep private, such as your home address, the exact start and end points of your rides, or personal health details. If you would not post it on social media, do not put it in this app.
 
-## Optional Step 1
+Optional Step 1
+{: .label .label-step}
 
 - First you need a GitHub Personal Access Token (PAT), which lets your app write data to your repository:
   * Go to [github.com/settings/tokens/new](https://github.com/settings/tokens/new)
@@ -139,8 +156,10 @@ By default your tracker saves data in your browser's localStorage, which means y
 - Treat your token like a password and never share it with anyone. Anyone with your token can make changes to your repositories.
 
 ![Annotated screenshot: the GitHub new token page, with arrows pointing to the token name field, the repo scope checkbox, and the Generate token button](images/tracker-09-create-pat.png)
+{: .step}
 
-## Optional Step 2
+Optional Step 2
+{: .label .label-step}
 
 - Go back to your GenAI tool conversation and paste in the following prompt:
 
@@ -156,22 +175,27 @@ visible to anyone on the internet.
 ```
 
 ![Annotated screenshot: the GitHub sync prompt pasted into the chat, with an arrow pointing to the send button](images/tracker-10-sync-prompt.png)
+{: .step}
 
-## Optional Step 3
+Optional Step 3
+{: .label .label-step}
 
 - Download the updated HTML file, upload it to your repository as **index.html** (replacing the old one), and open your GitHub Pages URL.
 - Enter your GitHub username, repository name, branch (usually "main"), and paste in your Personal Access Token, then click **Connect**.
 - Your token is only saved in your own browser's localStorage on that device, and it is only ever sent to GitHub's API.
 
 ![Annotated screenshot: the app's Connect to GitHub screen with the username, repository, branch, and token fields, with a box highlighting where the token is pasted](images/tracker-11-connect-github.png)
+{: .step}
 
-## Optional Step 4
+Optional Step 4
+{: .label .label-step}
 
 - Log a ride, then open your repository on github.com. You should see a new JSON file containing your training data, and a new commit each time you save a ride.
 - Now open your app on a different device (like your phone), enter the same connection details, and your rides should appear there too!
 - Remember: that JSON file, and everything in it, is publicly visible to anyone who visits your repository. You can delete individual rides in the app, or delete the JSON file from your repository, at any time.
 
 ![Annotated screenshot: the repository file list on github.com showing the training data JSON file, with an arrow pointing to the file and a box highlighting the public label at the top of the repository](images/tracker-12-json-in-repo.png)
+{: .step}
 
 ---
 
