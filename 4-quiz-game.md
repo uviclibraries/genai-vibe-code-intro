@@ -50,7 +50,7 @@ describes. The game should:
   hosted on GitHub Pages
 ```
  
-<img src="images/quiz-game-02.png" style="float:right;width:270px;" alt="prompt input"> 
+ <img src="images/quiz-game-02.png" style="float:right;width:200px;" alt="prompt input"> 
  
 ## Step 4
  
