@@ -99,8 +99,6 @@ gentle buzz for incorrect ones, with a mute button.
  
 - If you'd like to share your quiz with the world, you can host it for free on [GitHub Pages](https://pages.github.com/). If you completed the GitHub Pages activity earlier in this workshop, upload your HTML file to your repository and it will be live at your GitHub Pages address in a minute or two.
 - If you haven't set up GitHub Pages yet, ask your instructor or see the Additional Resources page for a guide.
-![Screenshot of the quiz HTML file uploaded to a GitHub repository](images/quiz-step8-github-pages.png)
-<!-- Screenshot to capture: the GitHub repo file view with the quiz HTML file uploaded. Annotate with a red box around the file name and a callout showing the resulting public URL. -->
  
 Congratulations on completing this Quiz Game vibe code project! You've not only built a working game, you've also practised one of the most important skills for working with Generative AI: verifying its output against a trusted source. Here's the finished example again for inspiration: [Is My Phone Listening To Me? Quiz](https://richmccue.github.io/learning-games/phone_listening_quiz.html).
 
