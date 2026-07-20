@@ -1,4 +1,4 @@
-<img width="690" height="589" alt="image" src="https://github.com/user-attachments/assets/aa62f1f4-5249-4398-ba9a-392dde8b22b0" />---
+---
 layout: default
 title: 4-Quiz-Game
 nav_order: 6
