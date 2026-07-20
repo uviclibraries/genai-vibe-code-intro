@@ -1,4 +1,4 @@
----
+<img width="690" height="589" alt="image" src="https://github.com/user-attachments/assets/aa62f1f4-5249-4398-ba9a-392dde8b22b0" />---
 layout: default
 title: 4-Quiz-Game
 nav_order: 6
@@ -19,8 +19,6 @@ If you get stuck, please ask your instructor for assistance, and don't forget to
 ## Step 1
  
 - You can use any Generative AI tool for this activity, but for coding I'd recommend using either [Google Gemini](https://gemini.google.com/) (which comes free with Gmail), or [Claude](https://claude.ai/), as the free version of Claude currently does as good a job as Google's Gemini, and creates more visually attractive web applications by default.
-![Screenshot of the Claude.ai home screen with the message input box highlighted](images/quiz-step1-claude-home.png)
-<!-- Screenshot to capture: the Claude.ai (or Gemini) start screen. Annotate with a red box around the message input field and an arrow labelled "Type your prompt here". -->
  
 ## Step 2
  
@@ -52,8 +50,7 @@ describes. The game should:
   hosted on GitHub Pages
 ```
  
-![Screenshot of the prompt pasted into the AI chat box](images/quiz-step3-paste-prompt.png)
-<!-- Screenshot to capture: the full prompt pasted into Claude/Gemini before pressing Enter. Annotate with an arrow pointing to the URL line labelled "Replace with your own web page". -->
+<img src="images/quiz-game-02.png" style="float:right;width:270px;" alt="prompt input"> 
  
 ## Step 4
  
@@ -82,6 +79,7 @@ says]. Please correct that question and its explanation, and give me the updated
 ## Step 7
  
 - Once your questions are accurate, you can customize your game with follow-up prompts. Try one or more of these, or invent your own:
+  
 ```
 Change the visual theme to a Pacific Northwest colour palette with ocean blues and
 forest greens.
