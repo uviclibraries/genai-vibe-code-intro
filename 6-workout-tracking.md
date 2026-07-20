@@ -10,7 +10,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # Make a Workout Training Tracker in About 15 Minutes!
 
-Training for a race or fitness event is much easier when you can see your progress. A simple training tracker app lets you log your workouts, compare your weekly totals against a training plan, and stay motivated as race day approaches. Here's an example of a training tracker app created to prepare for a 140 km bicycle race: [Tour de Victoria Training Tracker](https://richmccue.github.io/tdv/).
+Training for a race or fitness event is much easier when you can see your progress. A simple training tracker app lets you log your workouts, compare your weekly totals against a training plan, and stay motivated as race day approaches. Here's an example of a training tracker app created to prepare for a 140 km bicycle race: [Tour de Victoria Training Tracker](https://richmccue.github.io/tdv/local.html).
 
 Feel free to create a tracker for any sport or fitness event you want during this activity, for example a 10K run, a triathlon, a multi-day hike, or a swimming event. That said, the sample prompt below is set up for bicycle race training, so if you choose a different sport you can simply tell the GenAI tool about your event when it asks you clarifying questions.
 
@@ -101,7 +101,7 @@ Step 6
 Step 7
 {: .label .label-step}
 
-- If you created your tracker in Claude, [it should look something like this](https://richmccue.github.io/tdv/).
+- If you created your tracker in Claude, [it should look something like this](https://richmccue.github.io/tdv/local.html).
 - Now it's time to make the app your own. Try one or two follow-up prompts like these:
 
 ```
@@ -139,7 +139,7 @@ Step 8 (Optional)
 
 # Optional Activity: Sync Your Data with GitHub
 
-By default your tracker saves data in your browser's localStorage, which means your rides only exist on the device where you logged them. In this optional activity you'll modify your app so it saves your training data to a file in a GitHub repository instead. That way you can log a ride on your phone and see it on your laptop, just like the [Tour de Victoria Training Tracker](https://richmccue.github.io/tdv/) does.
+By default your tracker saves data in your browser's localStorage, which means your rides only exist on the device where you logged them. In this optional activity you'll modify your app so it saves your training data to a file in a GitHub repository instead. That way you can log a ride on your phone and see it on your laptop, just like the [Tour de Victoria Training Tracker](https://richmccue.github.io/tdv/local.html) does.
 
 > **Important privacy warning: your training data will be publicly available on the internet.**
 > This activity stores your data in the same **public** GitHub repository that hosts your app, so every ride you log, including dates, distances, and any notes you write, can be viewed by **anyone in the world**. Do not enter anything you want to keep private, such as your home address, the exact start and end points of your rides, or personal health details. If you would not post it on social media, do not put it in this app.
@@ -199,7 +199,7 @@ Optional Step 4
 
 ---
 
-Congratulations on completing this Training Tracker vibe code project! Whether you're getting ready for a century ride, a first 5K, or a summer of hiking, you now have a personalized app to keep you on track. Here's the example that inspired this activity: [Tour de Victoria Training Tracker](https://richmccue.github.io/tdv/).
+Congratulations on completing this Training Tracker vibe code project! Whether you're getting ready for a century ride, a first 5K, or a summer of hiking, you now have a personalized app to keep you on track. Here's the example that inspired this activity: [Tour de Victoria Training Tracker](https://richmccue.github.io/tdv/local.html).
 
 Copyright © 2026 [UVic Libraries Digital Scholarship Commons](https://uvic.ca/library/dsc/) - <dscommons@uvic.ca>
 View other [DSC workshops](https://lib.uvic.ca/curric)
