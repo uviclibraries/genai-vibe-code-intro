@@ -95,8 +95,8 @@ Step 6
 Step 7
 {: .label .label-step}
 
-- **Double-click** the HTML file to open it in your web browser and click **START GAME**. Pictures should begin falling, and pressing the matching first letter on the on-screen keyboard (or your physical keyboard) should shoot them down.
-- If images show up as broken icons, the most common cause is a filename mismatch. Ask your AI tool to print the list of image filenames it expects, and rename your files to match, or paste your actual filenames into the chat and ask it to update the code. <img src="images/language-defender-01.png" style="float:right;width:250px;" alt="game"> 
+- **Double-click** the HTML file to open it in your web browser and click **START GAME**. Pictures should begin falling, and pressing the matching first letter on the on-screen keyboard (or your physical keyboard) should shoot them down. <img src="images/language-defender-01.png" style="float:right;width:300px;" alt="game"> 
+- If images show up as broken icons, the most common cause is a filename mismatch. Ask your AI tool to print the list of image filenames it expects, and rename your files to match, or paste your actual filenames into the chat and ask it to update the code. 
 {: .step}
 
 ## Making it your own
