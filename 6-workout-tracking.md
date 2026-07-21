@@ -119,7 +119,11 @@ Step 8 (Optional)
   * After a minute or two your app will be live at: https://YOUR-USERNAME.github.io/training-tracker/
 - Note: with this simple version, your data is saved separately in each browser you use, because localStorage lives on each device. If you'd like your rides to sync between your phone and laptop, see the **Optional Activity: Sync Your Data with GitHub** section below.
 
-![Annotated screenshot: the GitHub Pages settings screen, with arrows pointing to the Branch dropdown and the Save button, and a box highlighting the published site URL](images/tracker-08-github-pages.png)
+    <button onclick="toggle('gif1')">Show/Hide Animation</button>
+    <div id="gif1">
+    <img src="images/workout-tracking-03.gif" style="width:700px;">
+    </div>
+    
 {: .step}
 
 ---
@@ -186,6 +190,17 @@ Optional Step 4
 ---
 
 Congratulations on completing this Training Tracker vibe code project! Whether you're getting ready for a century ride, a first 5K, or a summer of hiking, you now have a personalized app to keep you on track. Here's the example that inspired this activity: [Tour de Victoria Training Tracker](https://richmccue.github.io/tdv/local.html).
+
+<script>  
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 Copyright © 2026 [UVic Libraries Digital Scholarship Commons](https://uvic.ca/library/dsc/) - <dscommons@uvic.ca>
 View other [DSC workshops](https://lib.uvic.ca/curric)
