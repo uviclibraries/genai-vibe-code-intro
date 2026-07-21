@@ -49,8 +49,6 @@ or event, such as a 10K run, a triathlon, or a long-distance hike.
 ```
 {: .step}
 
-![Annotated screenshot: the prompt pasted into the Claude message box, with an arrow pointing to the send button](images/tracker-02-paste-prompt.png)
-
 Step 3
 {: .label .label-step}
 
@@ -64,7 +62,7 @@ Monday.
 
 - If you'd rather train for a different sport or event, this is the moment to say so! For example: "Actually, I'd like to train for a 10K run on October 4th instead. Please change distances to kilometres run and remove the elevation gain field."
 
-![Annotated screenshot: Claude's clarifying questions in the chat, with a box highlighting the questions and an arrow pointing to the reply box where the answers are typed](images/tracker-03-clarifying-questions.png)
+<img src="images/workout-tracking-01.png" style="width:300px;" alt="follow-up questions"> 
 
 {: .step}
 
@@ -119,8 +117,6 @@ The training plan increases too quickly for me. Please make the weekly distance
 increase by no more than 10% per week.
 ```
 
-![Annotated screenshot: a follow-up prompt in the chat and the updated app showing the new Route library tab, with an arrow pointing to the new tab](images/tracker-07-follow-up-prompts.png)
-
 Step 8 (Optional)
 {: .label .label-step}
 
@@ -174,7 +170,6 @@ also show a clear warning in the app that any data saved to a public repository 
 visible to anyone on the internet.
 ```
 
-![Annotated screenshot: the GitHub sync prompt pasted into the chat, with an arrow pointing to the send button](images/tracker-10-sync-prompt.png)
 {: .step}
 
 Optional Step 3
