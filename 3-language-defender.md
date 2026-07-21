@@ -5,7 +5,7 @@ parent: Workshop Activities
 nav_order: 4
 ---
 
-![decorative](images/defender-logo.png)
+<img src="images/language-defender-logo.png" style="float:right;width:300px;" alt="decorative"> 
 
 # Make a Language Defender Game!
 
@@ -34,7 +34,6 @@ Please suggest 4-5 game mechanics, and note which ones would work well for begin
 versus more advanced learners.
 ```
 
-![Screenshot of the planning prompt pasted into Claude with the response listing suggested game mechanics. Annotation: arrow pointing to the suggestion about an on-screen keyboard, with the note "We will use this idea in our build prompt"](images/defender-01-planning-prompt.png)
 {: .step}
 
 Step 3
@@ -71,7 +70,6 @@ Missile Command, to help people learn the Lik̓wala alphabet. Here is how it sho
 9. Please make it a single self-contained HTML file so I can host it on GitHub Pages.
 ```
 
-![Screenshot of the build prompt in Claude with the artifact beginning to generate on the right side. Annotation: highlight box around the artifact panel with the note "Claude writes the whole game as one HTML file"](images/defender-02-build-prompt.png)
 {: .step}
 
 Step 5
