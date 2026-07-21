@@ -5,7 +5,7 @@ parent: Workshop Activities
 nav_order: 4
 ---
 
-<img src="images/language-defender-logo.png" style="float:right;width:300px;" alt="decorative"> 
+<img src="images/language-defender-logo.png" style="float:right;width:250px;" alt="decorative"> 
 
 # Make a Language Defender Game!
 
