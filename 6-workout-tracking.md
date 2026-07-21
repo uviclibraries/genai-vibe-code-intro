@@ -68,7 +68,7 @@ Step 4
 {: .label .label-step}
 - Next we need to wait a minute or two while the GenAI tool creates the HTML file for you. In Claude the app will appear in a preview pane on the right side of the screen, and you can try it out right away.
 - Once it's finished, click the **Download** button and make note of where you saved the HTML file on your laptop.
-<img src="images/workout-tracking-01.png" style="float:right;width:300px;" alt="download button"> 
+<img src="images/workout-tracking-01.png" style="float:right;width:300px;margin-top:10px" alt="download button"> 
 {: .step}
 
 
@@ -76,7 +76,7 @@ Step 5
 {: .label .label-step}
 - Find the HTML file you just downloaded and **double-click** on it to open it in your web browser.
 - Try logging a ride (or run, or swim!): click on the **Log a ride** tab, fill in the date, distance, elevation gain, perceived effort, and a short note about your route, then click **Save ride**.
-<img src="images/workout-tracking-02.png" style="float:right;width:300px;" alt="log ride"> 
+<img src="images/workout-tracking-02.png" style="float:right;width:300px;margin-top:10px; margin-left:10px" alt="log ride"> 
 {: .step}
 
 Step 6
