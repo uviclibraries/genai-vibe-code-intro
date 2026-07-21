@@ -51,7 +51,7 @@ or event, such as a 10K run, a triathlon, or a long-distance hike.
 
 Step 3
 {: .label .label-step}
-<img src="images/workout-tracking-01.png" style="float: right;width:350px;" alt="follow-up questions"> 
+
 - Because we asked it to, the GenAI tool should now ask you a few clarifying questions before it starts coding. Answer the questions in the chat box. For example: 
 
 ```
