@@ -4,7 +4,6 @@ title: 3-Language Defender
 parent: Workshop Activities
 nav_order: 4
 ---
-
 <img src="images/language-defender-logo.png" style="float:right;width:250px;" alt="decorative"> 
 
 # Make a Language Defender Game!
@@ -140,9 +139,6 @@ The letter k̓ on the on-screen keyboard is not registering correctly. Please ma
 each on-screen key is matched to its word list entry directly, rather than comparing
 keyboard input characters, so letters with combining accent marks work reliably.
 ```
-
-![Screenshot of the on-screen keyboard with special characters visible. Annotation: circles around two or three letters with glottal stops, labeled "Test each of these!"](images/defender-07-special-characters.png)
-{: .step}
 
 ## Sharing your game
 
