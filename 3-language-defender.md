@@ -4,7 +4,7 @@ title: 3-Language Defender
 parent: Workshop Activities
 nav_order: 4
 ---
-<img src="images/language-defender-logo.png" style="float:right;width:250px;margin-top:10px" alt="decorative"> 
+<img src="images/language-defender-logo.png" style="float:right;width:250px;margin-left:10px" alt="decorative"> 
 
 # Make a Language Defender Game!
 
@@ -95,7 +95,7 @@ Step 6
 Step 7
 {: .label .label-step}
 
-- **Double-click** the HTML file to open it in your web browser and click **START GAME**. Pictures should begin falling, and pressing the matching first letter on the on-screen keyboard (or your physical keyboard) should shoot them down. <img src="images/language-defender-01.png" style="float:right;width:300px;margin-left:10px" alt="game"> 
+- **Double-click** the HTML file to open it in your web browser and click **START GAME**. Pictures should begin falling, and pressing the matching first letter on the on-screen keyboard (or your physical keyboard) should shoot them down. <img src="images/language-defender-01.png" style="float:right;width:300px;margin-left:10px;margin-top:10px" alt="game"> 
 - If images show up as broken icons, the most common cause is a filename mismatch. Ask your AI tool to print the list of image filenames it expects, and rename your files to match, or paste your actual filenames into the chat and ask it to update the code. 
 {: .step}
 
