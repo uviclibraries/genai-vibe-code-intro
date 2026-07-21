@@ -96,9 +96,7 @@ Step 7
 {: .label .label-step}
 
 - **Double-click** the HTML file to open it in your web browser and click **START GAME**. Pictures should begin falling, and pressing the matching first letter on the on-screen keyboard (or your physical keyboard) should shoot them down.
-- If images show up as broken icons, the most common cause is a filename mismatch. Ask your AI tool to print the list of image filenames it expects, and rename your files to match, or paste your actual filenames into the chat and ask it to update the code.
-
-![Screenshot of the game running in a browser with a picture falling and a missile firing. Annotations: arrow to the falling picture labeled "Press the first letter of this word", arrow to the on-screen keyboard, and arrow to the hearts labeled "Lives"](images/defender-05-gameplay.png)
+- If images show up as broken icons, the most common cause is a filename mismatch. Ask your AI tool to print the list of image filenames it expects, and rename your files to match, or paste your actual filenames into the chat and ask it to update the code. <img src="images/language-defender-01.png" style="float:right;width:250px;" alt="game"> 
 {: .step}
 
 ## Making it your own
