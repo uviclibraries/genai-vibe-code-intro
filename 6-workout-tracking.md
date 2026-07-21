@@ -67,21 +67,14 @@ Monday.
 Step 4
 {: .label .label-step}
 - Next we need to wait a minute or two while the GenAI tool creates the HTML file for you. In Claude the app will appear in a preview pane on the right side of the screen, and you can try it out right away.
-- Once it's finished, click the **Download** button and make note of where you saved the HTML file on your laptop.
-
-<img src="images/workout-tracking-01.png" style="float:right;width:300px;" alt="download button"> 
-
+- Once it's finished, click the **Download** button and make note of where you saved the HTML file on your laptop. <img src="images/workout-tracking-01.png" style="float:right;width:300px;" alt="download button"> 
 {: .step}
 
 
 Step 5
 {: .label .label-step}
 - Find the HTML file you just downloaded and **double-click** on it to open it in your web browser.
-- Try logging a ride (or run, or swim!): click on the **Log a ride** tab, fill in the date, distance, elevation gain, perceived effort, and a short note about your route, then click **Save ride**.
-{: .step}
-
-<img src="images/workout-tracking-02.png" style="float:right;width:300px;" alt="log ride"> 
-
+- Try logging a ride (or run, or swim!): click on the **Log a ride** tab, fill in the date, distance, elevation gain, perceived effort, and a short note about your route, then click **Save ride**. <img src="images/workout-tracking-02.png" style="float:right;width:300px;" alt="log ride"> 
 {: .step}
 
 Step 6
@@ -89,8 +82,6 @@ Step 6
 - Now click on the **Dashboard** tab. You should see your ride appear on the chart comparing your kilometres per week against the training plan.
 - Log two or three more rides with different dates and distances so you can see the chart come to life.
 - Close the browser tab and open the HTML file again. Your rides should still be there, because they are saved in your browser's localStorage.
-
-![Annotated screenshot: the dashboard chart showing logged kilometres versus the weekly plan, with a box highlighting the current week's bar](images/tracker-06-dashboard-chart.png)
 
 {: .step}
 
