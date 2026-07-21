@@ -60,8 +60,7 @@ please keep it as a bicycle race tracker. Please start the training plan from ne
 Monday.
 ```
 
-- If you'd rather train for a different sport or event, this is the moment to say so! For example: "Actually, I'd like to train for a 10K run on October 4th instead. Please change distances to kilometres run and remove the elevation gain field."
-  <img src="images/workout-tracking-01.png" style="float: right;width:350px;" alt="follow-up questions"> 
+- If you'd rather train for a different sport or event, this is the moment to say so! For example: "Actually, I'd like to train for a 10K run on October 4th instead. Please change distances to kilometres run and remove the elevation gain field." <img src="images/workout-tracking-01.png" style="float: right;width:400px;" alt="follow-up questions"> 
 
 {: .step}
 
