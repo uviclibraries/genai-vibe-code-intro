@@ -52,7 +52,7 @@ or event, such as a 10K run, a triathlon, or a long-distance hike.
 Step 3
 {: .label .label-step}
 
-- Because we asked it to, the GenAI tool should now ask you a few clarifying questions before it starts coding. Answer the questions in the chat box. For example: <img src="images/workout-tracking-01.png" style="float: right;width:350px;" alt="follow-up questions"> 
+- Because we asked it to, the GenAI tool should now ask you a few clarifying questions before it starts coding. Answer the questions in the chat box. For example: 
 
 ```
 I can train 4 days a week, I'm currently comfortable riding about 40 km, and yes,
@@ -61,6 +61,7 @@ Monday.
 ```
 
 - If you'd rather train for a different sport or event, this is the moment to say so! For example: "Actually, I'd like to train for a 10K run on October 4th instead. Please change distances to kilometres run and remove the elevation gain field."
+  <img src="images/workout-tracking-01.png" style="float: right;width:350px;" alt="follow-up questions"> 
 
 {: .step}
 
