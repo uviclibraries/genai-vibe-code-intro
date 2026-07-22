@@ -26,15 +26,12 @@ At the end of this workshop, you will be able to:
 2. Explain common security issues that arise from vibe coding
 3. Create one or more of the following games or web applications:
    - Create a sound board game for language revitalization or language learning
-   - Create a endless runner "Super Maria" style game for learning
+   - Create a endless runner or "Eco Runner" style game for learning
    - Create a missle command style game for language revitalization
-   - Craete a frogger style game for learning
-   - Create a simulation for learning about things like Volcao erruptions
+   - Create a simulation for learning about things like hospital utilization
    - Create a quize game for reviewing unit information
    - Create a jeapordy style game for playing in group settings
    - Create a training app for preparing for an upcoming sporting event like a bike ride or marathon
-   - Create a Super Mario style game for learning
-   - Create a Pandemic style game for learning about epedemiology
 4. OPTIONAL: Create a free GitHub Pages website so that you have a place to make you games available to other people
 5. Make one or more web apps usable on mobile devices in addition to laptops
 6. Make one or more games usable offline (with no internet connection)
@@ -43,10 +40,9 @@ At the end of this workshop, you will be able to:
 
 ## Hands on Activities  TODO List
 
-4. Eco Runner: Super Mario style conservation themed game (pick up garbage & save the environment)
 8. Volcanic erruption simulator: https://richmccue.github.io/learning-games/volcano-phases.html
-12. Pandemic Style game:  **create?**
 7. Frogger Style learning game: **create?**
+8. Hospital capacity simuilator
 13. [Audio Recording with iPhone & DJI Mic Mini for Language Revitalization](https://claude.ai/public/artifacts/2ff5323b-81ed-44db-8a05-a4c3f3827cad){:target="_blank"}
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
