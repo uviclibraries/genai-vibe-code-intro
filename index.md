@@ -44,10 +44,6 @@ At the end of this workshop, you will be able to:
 ## Hands on Activities  TODO List
 
 4. Eco Runner: Super Mario style conservation themed game (pick up garbage & save the environment)
-5. Lik'wala Defender language lerning game: https://richmccue.github.io/likwala/likwala-defender.html
-9. Jeapordy game: https://richmccue.github.io/learning-games/jeopardy.html
-   - Start w/ dosument or topic in NotebookLM and create categories & questions
-   - Feed into Claude or Gemini to create the game
 8. Volcanic erruption simulator: https://richmccue.github.io/learning-games/volcano-phases.html
 12. Pandemic Style game:  **create?**
 7. Frogger Style learning game: **create?**
