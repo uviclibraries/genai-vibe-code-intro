@@ -169,4 +169,4 @@ Each step above references one image in the `images/` folder. Capture and annota
 | `images/step-8-mobile-test.png` | The game on a phone screen | Circles around the touch controls |
 | `images/step-9-github-pages.png` | GitHub Pages settings screen | Arrows to Branch dropdown and Save; highlight the live URL |
 
-[NEXT STEP: ??????](3-????.html){: .btn .btn-blue }
+[NEXT STEP: Language Defender](3-language-defender.html){: .btn .btn-blue }
