@@ -12,7 +12,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 Good source audio makes a big difference in an alphabet soundboard. Recording with a lavalier microphone like the DJI Mic Mini, instead of your phone's built-in mic, keeps the speaker's distance from the microphone constant for every letter, so all of your files come out at a similar volume with far less room echo. This matters most when you are recording with Elders and language keepers, where you may only get one session.
 
-By the end of this activity you will have one audio file per letter, named and trimmed, ready to use in a soundboard like the one in the [Alphabet Soundboard activity](https://uviclibraries.github.io/genai-vibe-code-intro/1-soundboard.html){:target="_blank"}.
+By the end of this activity you will have one audio file per letter, named and trimmed, ready to use in a soundboard like the one in the [Alphabet Soundboard activity](https://uviclibraries.github.io/genai-vibe-code-intro/1-soundboard.html){:target="_blank"}. Here is a the [Claude Artifact that was the starting point for this workshop activity](https://claude.ai/public/artifacts/2ff5323b-81ed-44db-8a05-a4c3f3827cad){:target="_blank"}.
 
 **What you need:** 
 1. A charged DJI Mic Mini transmitter (TX) and receiver (RX)
