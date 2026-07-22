@@ -14,7 +14,13 @@ Good source audio makes a big difference in an alphabet soundboard. Recording wi
 
 By the end of this activity you will have one audio file per letter, named and trimmed, ready to use in a soundboard like the one in the [Alphabet Soundboard activity](https://uviclibraries.github.io/genai-vibe-code-intro/1-soundboard.html){:target="_blank"}.
 
-**What you need:** a charged DJI Mic Mini transmitter (TX) and receiver (RX), an iPhone (plus the DJI Lightning adapter if your iPhone has a Lightning port), the free [DJI Mimo app](https://apps.apple.com/app/dji-mimo/id1431720653){:target="_blank"}, the built-in Voice Memos app, a quiet room, and a printed list of the alphabet you are recording.
+**What you need:** 
+1. A charged DJI Mic Mini transmitter (TX) and receiver (RX)
+2. An iPhone (plus the Lightning to USB-C cable if your iPhone has a Lightning port)
+3. The free [DJI Mimo app](https://apps.apple.com/app/dji-mimo/id1431720653){:target="_blank"}
+4. The built-in iPhone Voice Memos app
+5. A quiet room
+6. A digital or printed list of the alphabet you are recording
 
 If you get stuck, please ask your instructor for assistance!
 
