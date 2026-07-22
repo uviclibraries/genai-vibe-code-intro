@@ -41,20 +41,14 @@ At the end of this workshop, you will be able to:
 7. Demonstrate the use of effective game mechanics in one or more games
 8. Use Desing Thinking techniques to help design an effective educational game or web application
 
-## Hands on Activities
+## Hands on Activities  TODO List
 
-3. ~~Alphabet Sound board learning game~~
 4. Eco Runner: Super Mario style conservation themed game (pick up garbage & save the environment)
 5. Lik'wala Defender language lerning game: https://richmccue.github.io/likwala/likwala-defender.html
-8. Quiz game with a downloadable badge: https://richmccue.github.io/learning-games/phone_listening_quiz.html
 9. Jeapordy game: https://richmccue.github.io/learning-games/jeopardy.html
    - Start w/ dosument or topic in NotebookLM and create categories & questions
    - Feed into Claude or Gemini to create the game
-10. Workout Planning & Tracking app: https://richmccue.github.io/
-   - Stand alone with data store in browser, on device
-   - with completely insecure data storage on Github
 8. Volcanic erruption simulator: https://richmccue.github.io/learning-games/volcano-phases.html
-11. Super Mario Learning game:  **create?**
 12. Pandemic Style game:  **create?**
 7. Frogger Style learning game: **create?**
 13. [Audio Recording with iPhone & DJI Mic Mini for Language Revitalization](https://claude.ai/public/artifacts/2ff5323b-81ed-44db-8a05-a4c3f3827cad){:target="_blank"}
