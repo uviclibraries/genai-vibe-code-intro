@@ -35,8 +35,6 @@ Step 2
   * **Goal:** How does the player win a level? (e.g. restore the Biodiversity Index to 100%, replant all the trees)
  {: .step}
 
-![Annotated screenshot of a simple planning notes file with the five theme questions filled in, with callout boxes highlighting the ecosystem and collectibles answers](images/step-2-plan-your-theme.png)
-
 Step 3
 {: .label .label-step}
 - Copy and paste the following prompt into your GenAI tool, replace the parts in [square brackets] with your own theme ideas from Step 2, and then press **Enter** on your keyboard:
