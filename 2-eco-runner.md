@@ -64,15 +64,15 @@ Before you start coding, please ask me any clarifying questions that would help
 you build a better game.
 ```
 
-![Annotated screenshot of the prompt pasted into the GenAI chat box, with an arrow pointing to the square-bracket sections that need to be customized and another arrow pointing to the send button](images/step-3-paste-prompt.png)
+![Annotated screenshot of the prompt pasted into the GenAI chat box, with an arrow pointing to the square-bracket sections that need to be customized and another arrow pointing to the send button](images/2-eco-runner-2.png)
 {: .step}
 
 Step 4
 {: .label .label-step}
 
-- Your GenAI tool will likely ask you one or two clarifying questions before it starts coding, such as what art style you prefer or how difficult the game should be. Answer the questions briefly in the chat, then press **Enter**. Short answers are fine; you can always refine things later.
+- Your GenAI tool will likely ask you one or two clarifying questions before it starts coding, such as what art style you prefer or how difficult the game should be.
+- Answer the questions briefly in the chat, then press **Enter**. Short answers are fine; you can always refine things later.
 
-![Annotated screenshot of Claude asking clarifying questions, with a callout box around the questions and an example short reply typed underneath](images/step-4-answer-questions.png)
 {: .step}
 
 Step 5
