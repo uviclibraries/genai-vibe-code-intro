@@ -1,12 +1,13 @@
 ---
 layout: default
-title: 3-Language Defender
+title: 3-Language Defender UNDER CONSTRUCTION
 parent: Workshop Activities
 nav_order: 4
 ---
-<img src="images/language-defender-logo.png" style="float:right;width:250px;margin-left:10px" alt="decorative"> 
 
+# UNDER CONSTRUCTION
 # Make a Language Defender Game!
+<img src="images/language-defender-logo.png" style="float:right;width:250px;margin-left:10px" alt="decorative"> 
 
 Games can be a powerful way to help language learners spend more time on task, and arcade-style games in particular encourage the kind of rapid letter and sound recognition that helps new alphabets stick. In this activity you will create a Missile Command style game where pictures fall from the sky, and players must press the letter that matches the first letter of the word for each falling image to shoot it down before it reaches the ground. Here's an example of a finished game created for Language Revitalization purposes: [Lik̓wala Defender](https://richmccue.github.io/likwala/likwala-defender.html).
 
