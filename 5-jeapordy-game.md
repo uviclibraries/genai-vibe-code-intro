@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-# UNDER CONSTRUCTION
+# !!!UNDER CONSTRUCTION!!!
 # Make a Classroom Jeopardy Game in 10-Minutes!
 <img src="images/jeopardy-logo.png" style="float:right;width:350px;" alt="decorative"> 
 
