@@ -8,6 +8,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # !!!UNDER CONSTRUCTION!!!
 # Make an Eco-Runner Game! 
+<img src="images/2-eco-runner-logo.png" style="float:right;width:350px;" alt="decorative">
 
 Classic platformer games like Super Mario are a fantastic way to learn how games teach through play: running, jumping, collecting items, and avoiding hazards. In this activity you will use a Generative AI tool to "vibe code" your own side-scrolling platformer with an environmental restoration theme. Instead of stomping goombas and collecting coins, your hero might capture invasive species, clean up pollution, plant native trees, and restore a damaged ecosystem back to health.
 
@@ -22,7 +23,7 @@ Step 1
 - You can use any Generative AI tool for this activity, but for coding I'd recommend using Anthropic's [Claude](https://claude.ai/){:target="_blank"}, as the free version creates more visually attractive web applications by default. Alternatively, you can use [Google Gemini](https://gemini.google.com/){:target="_blank"} (which comes free with Gmail), [ChatGPT](https://chatgpt.com/){:target="_blank"}, [Microsoft Copilot](https://copilot.microsoft.com/){:target="_blank"}, or any other GenAI tool that you are familiar with.
 {: .step}
 
-![Annotated screenshot showing the Claude and Gemini home pages side by side, with an arrow pointing to the prompt box where you will type](images/step-1-choose-genai-tool.png)
+![Annotated screenshot showing the Claude and Gemini home pages side by side, with an arrow pointing to the prompt box where you will type](images/7-jeopardy-1.png)
 
 Step 2
 {: .label .label-step}
