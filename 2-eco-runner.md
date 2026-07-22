@@ -135,9 +135,6 @@ Step 9
   * After a minute or two your game will be live at `https://your-username.github.io/your-repository/your-game.html`
 - If you'd like a walkthrough of this process, ask your instructor or your GenAI tool for step-by-step GitHub Pages publishing instructions.
 
-![Annotated screenshot of the GitHub Pages settings screen with arrows pointing to the Branch dropdown and the Save button, plus the live published URL](images/step-9-github-pages.png)
-{: .step}
-
 ---
 
 Congratulations on completing this environmental platformer vibe code project! You now have a playable game that teaches players about protecting and restoring the ecosystem you chose. Here's the example that inspired this activity: [Salish Sea Guardian - A Restoration Adventure](https://richmccue.github.io/learning-games/salish-sea-guardian.html).
