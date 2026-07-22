@@ -38,7 +38,10 @@ different language: https://dom-aya.github.io/ayajuthem-soundboard/
 
 Step 3
 {: .label .label-step}
-- Next we need wait a minute or two for Claude to create the HTML file for you. Once you see the **Download** button, click on it and make note of where you saved it on your laptop. 
+- Next we need to wait a minute or two for the AI to read the web page and create the HTML file for you. While it works, you can watch it write the code.
+- If you are using Claude, it will display a preview of the webpage on the right side of the screen once it generates the file. Before downloading, you can review the preview and provide additional prompts if you would like to make any changes
+- Once it’s finished, click the Download button and make note of where you saved the file on your laptop (usually your Downloads folder).
+![Screenshot of the Claude.ai home screen with the prompt box highlighted](soundboard-01.png)
 {: .step}
 
 Step 4
