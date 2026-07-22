@@ -104,7 +104,6 @@ generated in code with the Web Audio API so no sound files are needed.
 ```
 {: .step}
 
-<img src="images/2-eco-runner-mobile.jpg" style="float:right;width:300px;padding:6px;" alt="decorative"> 
 Step 7
 {: .label .label-step}
 - When you are happy with your game, download it so you have your own copy:
@@ -113,6 +112,8 @@ Step 7
 
 ![Annotated screenshot of the Artifact window with an arrow pointing to the Download button, and a second panel showing the downloaded HTML file opened in a browser](images/2-eco-runner-7.png)
 {: .step}
+
+<img src="images/2-eco-runner-mobile.jpg" style="float:right;width:300px;padding:6px;" alt="decorative"> 
 
 Step 8
 {: .label .label-step}
