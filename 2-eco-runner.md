@@ -19,7 +19,7 @@ Feel free to set your game in any ecosystem you like: a local watershed, a coral
 
 Step 1
 {: .label .label-step}
-- You can use any Generative AI tool for this activity, but for coding I'd recommend using either [Google Gemini](https://gemini.google.com/) (which comes free with Gmail) or [Claude](https://claude.ai/), as the free version of Claude currently does as good a job as Google's Gemini, and creates more visually attractive web applications by default.
+- You can use any Generative AI tool for this activity, but for coding I'd recommend using Anthropic's [Claude](https://claude.ai/){:target="_blank"}, as the free version creates more visually attractive web applications by default. Alternatively, you can use [Google Gemini](https://gemini.google.com/){:target="_blank"} (which comes free with Gmail), [ChatGPT](https://chatgpt.com/){:target="_blank"}, [Microsoft Copilot](https://copilot.microsoft.com/){:target="_blank"}, or any other GenAI tool that you are familiar with.
 {: .step}
 
 ![Annotated screenshot showing the Claude and Gemini home pages side by side, with an arrow pointing to the prompt box where you will type](images/step-1-choose-genai-tool.png)
