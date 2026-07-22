@@ -51,7 +51,7 @@ or event, such as a 10K run, a triathlon, or a long-distance hike.
 Step 3
 {: .label .label-step}
 
-- Because we asked it to, the GenAI tool should now ask you a few clarifying questions before it starts coding. Answer the questions in the chat box. For example: 
+- Because we asked it to, the GenAI tool should now ask you a few clarifying questions before it starts coding (see image below). Answer the questions in the chat box. For example: 
 
 ```
 I can train 4 days a week, I'm currently comfortable riding about 40 km, and yes,
