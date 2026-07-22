@@ -88,24 +88,15 @@ Step 4
 
 Step 5
 {: .label .label-step}
-- Now that you have the audio files folder in the same place as the HTML file you downloaded, you can open the mp3 audio files in your file manager by **double clicking** on the sound files, and the sounds for each of the letters should play back to you.
+- (Uploading to github step).
 {: .step}
 
 Step 6
 {: .label .label-step}
-- If you created your Soundboard in Claude, [it should look something like this](https://richmccue.github.io/brasil-letters/portuguese.html){:target="_blank"}.
+- If you created your Simulator in Claude, [it should look something like this](https://richmccue.github.io/brasil-letters/portuguese.html){:target="_blank"}.
 - Your soundboard should be playing the sounds for letters in the Portugues alphabet now. If you are having any problems, please let your instructor know and they help you get your soundboard up and running!
 {: .step}
 
-Step 7
-{: .label .label-step}
-- If you are creating a soundboard for a language like Hul'q'umi'num, that has letters in it's alphabet with non-English accents like glottal stops, you should follow up with a prompt like this (depending on the types of accents used in the language):
-{: .step}
-```text
-Change the letter mapping to the letter files with the letters that have a glottal stop so
-that for example the c' file name is: c_glottal.mp3
-```
-
-Congratulations on completing this Alphabet Soundboard vibe code project! Here's an example of a soundboard app crated for Language Revitalization purposes: [LiK'wala Soundboard for language learners](https://richmccue.github.io/likwala/likwala-soundboard.html){:target="_blank"}.
+Congratulations on completing this Hospital Simulator vibe code project!
 
 [NEXT STEP: ??????](3-????.html){: .btn .btn-blue }
