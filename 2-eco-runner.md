@@ -103,8 +103,6 @@ player finishes a level.
 Add simple sound effects for jumping, collecting items, and completing a level,
 generated in code with the Web Audio API so no sound files are needed.
 ```
-
-![Annotated screenshot of a follow-up prompt in the chat with a before-and-after callout showing the game change it produced](images/step-6-iterate.png)
 {: .step}
 
 Step 7
