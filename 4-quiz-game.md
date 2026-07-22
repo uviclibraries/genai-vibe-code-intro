@@ -68,7 +68,10 @@ Step 4
 Step 5
 {: .label .label-step}
 - Find the HTML file you just downloaded and **double-click** on it to open it in your web browser.
-- Click through a few questions to make sure the game works: the questions should be shuffled, the True/False buttons should respond, and your score should update.
+- Click through a few questions to make sure the game works: the questions should be shuffled, the True/False buttons should respond, and your score should update (see image below for example).
+  
+![Screenshot of quiz game](images/quiz-game-03.png)
+
 {: .step}
  
 Step 6
