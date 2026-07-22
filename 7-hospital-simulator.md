@@ -21,7 +21,8 @@ If you get stuck, please ask your instructor for assistance, and don't forget to
 Step 1
 {: .label .label-step}
 - Copy and paste the following prompt into your GenAI tool (feel free to change the language of course) and then press **Enter** on your keyboard: <br>
-```text
+
+```
 Create an HTML file for a hospital capacity simulator.
 
 The simulator should allow users to explore how healthcare resources affect a hospital by adjusting different factors and running a simulation. The interface should be visually appealing, interactive, and easy for beginners to understand.
