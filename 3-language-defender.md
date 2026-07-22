@@ -1,11 +1,10 @@
 ---
 layout: default
-title: 3-Language Defender UNDER CONSTRUCTION
+title: 3-Language Defender
 parent: Workshop Activities
 nav_order: 4
 ---
 
-# !!!UNDER CONSTRUCTION!!!
 # Make a Language Defender Game!
 <img src="images/language-defender-logo.png" style="float:right;width:250px;margin-left:10px" alt="decorative"> 
 
@@ -80,8 +79,6 @@ Step 5
 - Next we need to wait a minute or two for the AI to read the web page and create the HTML file for you. While it works, you can watch it write the code.
 - If you are using Claude, it will display a preview of the webpage on the right side of the screen once it generates the file. Before downloading, you can review the preview and provide additional prompts if you would like to make any changes
 - Once it's finished, click the **Download** button and make note of where you saved the file on your laptop (usually your **Downloads** folder).
-
-![Screenshot of the completed artifact in Claude. Annotation: arrow pointing to the Download button in the top right corner of the artifact panel](images/defender-03-download.png)
 {: .step}
 
 ## Adding your images
@@ -95,8 +92,6 @@ Step 6
 - On a Mac you simply **double-click** on the zip file and it will unzip. On Windows you **right mouse click** on the file and select **Extract All...**
 
 ![Screenshot of files in directory](images/language-defender-02.png)
-
-
 {: .step}
 
 Step 7
@@ -142,6 +137,7 @@ The letter k̓ on the on-screen keyboard is not registering correctly. Please ma
 each on-screen key is matched to its word list entry directly, rather than comparing
 keyboard input characters, so letters with combining accent marks work reliably.
 ```
+{: .step}
 
 ## Sharing your game
 
