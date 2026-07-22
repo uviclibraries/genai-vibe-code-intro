@@ -64,8 +64,6 @@ Step 4
 {: .label .label-step}
 - Once the game is finished, play a quick round directly in the preview window. **This is the most important step**: because you chose a web page you know well, check each question and answer against the source page as you reveal them. GenAI tools sometimes invent plausible-sounding but incorrect answers, so open the source web page in another browser tab and verify anything that looks even slightly off.
 
-![Screenshot of the Jeopardy game board in the preview, side by side with the source web page](images/jeopardy-4.png)
-<!-- Screenshot to capture: the generated game board next to the source blog post in a second window; annotate one clue and the matching passage in the source -->
 {: .step}
 
 Step 5
@@ -78,8 +76,6 @@ web page, the correct answer is [the correct answer]. Please fix that clue, and 
 rename the third category to something shorter.
 ```
 
-![Screenshot of a follow-up correction prompt and Claude updating the game](images/jeopardy-5.png)
-<!-- Screenshot to capture: a follow-up prompt in the chat with the updated preview; annotate the changed clue or category -->
 {: .step}
 
 Step 6
@@ -87,7 +83,7 @@ Step 6
 - When you are happy with the game, click on the **Download** button to save the HTML file to your laptop, and make note of where you saved it.
 
 ![Screenshot of the Download button in Claude's artifact preview](images/jeopardy-6.png)
-<!-- Screenshot to capture: the artifact preview with an arrow annotation pointing to the Download button -->
+
 {: .step}
 
 Step 7
