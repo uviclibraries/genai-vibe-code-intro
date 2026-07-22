@@ -122,8 +122,7 @@ Step 8
 On my phone the jump button is partly hidden behind the score display. Please
 move the touch controls so nothing overlaps, and make the buttons a bit bigger.
 ```
-
-![Annotated screenshot of the game running on a phone with circles highlighting the on-screen touch control buttons](images/2-eco-runner-8.png)
+<img src="images/2-eco-runner-mobile.jpg" style="float:right;width:300px;" alt="decorative">
 {: .step}
 
 Step 9
