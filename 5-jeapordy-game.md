@@ -8,7 +8,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # !!!UNDER CONSTRUCTION!!!
 # Make a Classroom Jeopardy Game in 10-Minutes!
-<img src="images/jeopardy-logo.png" style="float:right;width:350px;" alt="decorative"> 
+<img src="images/7-jeopardy-logo.png" style="float:right;width:350px;" alt="decorative"> 
 
 Jeopardy-style review games are a fun and effective way to help students review course material in teams. In this activity you will use a Generative AI tool to "vibe code" a classroom Jeopardy game based on the content of a web page, complete with team scoring, Daily Doubles, and a Final Jeopardy round. Here is an example of a finished game: [Classroom Jeopardy - The Future of Education](https://richmccue.github.io/learning-games/jeopardy.html).
 
