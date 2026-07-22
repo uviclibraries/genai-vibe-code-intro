@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 7-Volcano-Simulator UNDER CONSTRUCTION
+title: 7-Hospital Capacity Simulator UNDER CONSTRUCTION
 nav_order: 9
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
 # !!!UNDER CONSTRUCTION!!!
-# Make an Volcanic Erruption Simulator App! 
+# Make an Hospital Capacity Simulator App! 
 <img src="images/CHANGE-ME.png" style="float:right;width:320px;" alt="decorative"> 
 
 Games can be a helpful way to help people spend more time on task learning about new topics or learning new skills. Here's an example of a Super Mario style Eco-Runner game to help players learn more aobut things they can do to protect the environment: [Salish Sea Guardian](https://richmccue.github.io/learning-games/salish-sea-guardian.html){:target="_blank"}.
@@ -33,7 +33,9 @@ Step 2
 
 Step 3
 {: .label .label-step}
-- Next we need wait a minute or two for Claude to create the HTML file for you. Once you see the **Download** button, click on it and make note of where you saved it on your laptop. 
+- Next we need to wait a minute or two for the AI to read the web page and create the HTML file for you. While it works, you can watch it write the code.
+- If you are using Claude, it will display a preview of the webpage on the right side of the screen once it generates the file. Before downloading, you can review the preview and provide additional prompts if you would like to make any changes
+- Once it’s finished, click the Download button and make note of where you saved the file on your laptop (usually your Downloads folder).
 {: .step}
 
 Step 4
