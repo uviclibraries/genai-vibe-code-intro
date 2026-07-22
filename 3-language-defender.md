@@ -90,7 +90,7 @@ Step 6
   * Add your own pictures. Name each file after the word it shows, in all lowercase (for example: `bear.png`). Simple, clear pictures with plain backgrounds work best for a fast-moving game.
 - On a Mac you simply **double-click** on the zip file and it will unzip. On Windows you **right mouse click** on the file and select **Extract All...**
 
-![Screenshot of a file manager window showing the game HTML file next to an images folder, with the folder open showing named image files. Annotation: highlight box around the folder name "images" with the note "Folder name and file names must match what the code expects"](images/defender-04-images-folder.png)
+<img src="images/language-defender-02.png" style="float:right;width:300px;margin-left:10px;margin-top:10px" alt="game"> 
 {: .step}
 
 Step 7
