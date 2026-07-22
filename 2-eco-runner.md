@@ -1,12 +1,11 @@
 ---
 layout: default
-title: 2-Eco-Runner UNDER CONSTRUCTION
+title: 2-Eco-Runner
 nav_order: 3
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-# !!!UNDER CONSTRUCTION!!!
 # Make an Eco-Runner Game! 
 <img src="images/2-eco-runner-logo.png" style="float:right;width:350px;" alt="decorative">
 
