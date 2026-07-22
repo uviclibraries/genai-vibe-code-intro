@@ -145,7 +145,6 @@ Optional Step 1
   * Click **Generate token**, and copy the token somewhere safe. You will only be shown it once!
 - Treat your token like a password and never share it with anyone. Anyone with your token can make changes to your repositories.
 
-![Annotated screenshot: the GitHub new token page, with arrows pointing to the token name field, the repo scope checkbox, and the Generate token button](images/tracker-09-create-pat.png)
 {: .step}
 
 Optional Step 2
@@ -173,7 +172,6 @@ Optional Step 3
 - Enter your GitHub username, repository name, branch (usually "main"), and paste in your Personal Access Token, then click **Connect**.
 - Your token is only saved in your own browser's localStorage on that device, and it is only ever sent to GitHub's API.
 
-![Annotated screenshot: the app's Connect to GitHub screen with the username, repository, branch, and token fields, with a box highlighting where the token is pasted](images/tracker-11-connect-github.png)
 {: .step}
 
 Optional Step 4
@@ -183,7 +181,6 @@ Optional Step 4
 - Now open your app on a different device (like your phone), enter the same connection details, and your rides should appear there too!
 - Remember: that JSON file, and everything in it, is publicly visible to anyone who visits your repository. You can delete individual rides in the app, or delete the JSON file from your repository, at any time.
 
-![Annotated screenshot: the repository file list on github.com showing the training data JSON file, with an arrow pointing to the file and a box highlighting the public label at the top of the repository](images/tracker-12-json-in-repo.png)
 {: .step}
 
 ---
