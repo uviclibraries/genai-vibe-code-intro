@@ -58,6 +58,7 @@ describes. The game should:
 Step 4
 {: .label .label-step}
 - Next we need to wait a minute or two for the AI to read the web page and create the HTML file for you. While it works, you can watch it write the code.
+- If you are using Claude, it will display a preview of the webpage on the right side of the screen once it generates the file. Before downloading, you can review the preview and provide additional prompts if you would like to make any changes
 - Once it's finished, click the **Download** button and make note of where you saved the file on your laptop (usually your **Downloads** folder).
 
 <img src="images/quiz-game-01.png" style="width:300px;" alt="download button"> 
