@@ -75,7 +75,9 @@ Missile Command, to help people learn the Lik̓wala alphabet. Here is how it sho
 Step 5
 {: .label .label-step}
 
-- Next we need to wait a minute or two for Claude to create the HTML file for you. Once you see the **Download** button, click on it and make note of where you saved it on your laptop.
+- Next we need to wait a minute or two for the AI to read the web page and create the HTML file for you. While it works, you can watch it write the code.
+- If you are using Claude, it will display a preview of the webpage on the right side of the screen once it generates the file. Before downloading, you can review the preview and provide additional prompts if you would like to make any changes
+- Once it's finished, click the **Download** button and make note of where you saved the file on your laptop (usually your **Downloads** folder).
 
 ![Screenshot of the completed artifact in Claude. Annotation: arrow pointing to the Download button in the top right corner of the artifact panel](images/defender-03-download.png)
 {: .step}
