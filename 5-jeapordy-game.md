@@ -10,15 +10,15 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 # Make a Classroom Jeopardy Game in 10-Minutes!
 <img src="images/7-jeopardy-logo.png" style="float:right;width:350px;" alt="decorative"> 
 
-Jeopardy-style review games are a fun and effective way to help students review course material in teams. In this activity you will use a Generative AI tool to "vibe code" a classroom Jeopardy game based on the content of a web page, complete with team scoring, Daily Doubles, and a Final Jeopardy round. Here is an example of a finished game: [Classroom Jeopardy - The Future of Education](https://richmccue.github.io/learning-games/jeopardy.html).
+Jeopardy-style review games are a fun and effective way to help students review course material in teams. In this activity you will use a Generative AI tool to "vibe code" a classroom Jeopardy game based on the content of a web page, complete with team scoring, Daily Doubles, and a Final Jeopardy round. Here is an example of a finished game: [Classroom Jeopardy - The Future of Education](https://richmccue.github.io/learning-games/jeopardy.html){:target="_blank"}.
 
-For this activity we will use this blog post as the source of the questions and answers: [Is Your Smartphone Listening to You?](https://richmccue.com/2026/05/26/is-your-smartphone-listening-to-you/). That said, **we strongly encourage you to use a web page on a topic you know well**, because Generative AI tools sometimes make mistakes when writing questions and answers, and you will be able to fact check the game content in real time as you play through it.
+For this activity we will use this blog post as the source of the questions and answers: [Is Your Smartphone Listening to You?](https://richmccue.com/2026/05/26/is-your-smartphone-listening-to-you/){:target="_blank"}. That said, **we strongly encourage you to find a web page or [Wikipedia article](https://en.wikipedia.org/wiki/Main_Page){:target="_blank"} on a topic you know well**, because Generative AI tools sometimes make mistakes when writing questions and answers, and you will be able to fact check the game content in real time as you play through it.
 
 If you get stuck, please ask your instructor for assistance, and don't forget to have fun!
 
 Step 1
 {: .label .label-step}
-- You can use any Generative AI tool for this activity, but for coding I'd recommend using either [Google Gemini](https://gemini.google.com/) (which comes free with Gmail), or [Claude](https://claude.ai/), as the free version of Claude currently does as good a job as Google's Gemini, and creates more visually attractive web applications by default.
+- You can use any Generative AI tool for this activity, but for coding I'd recommend using either [Google Gemini](https://gemini.google.com/) (which comes free with Gmail), or [Claude](https://claude.ai/){:target="_blank"}, as the free version of Claude currently does as good a job as Google's Gemini, and creates more visually attractive web applications by default.
 
 ![Screenshot of the Claude.ai home screen with the prompt box highlighted](images/jeopardy-1.png)
 <!-- Screenshot to capture: Claude.ai (or Gemini) start screen, with an arrow or box annotation pointing to the prompt input field -->
@@ -116,6 +116,6 @@ Now create a second version of the game using the content from this web page ins
 <!-- Screenshot to capture: the restyled game board; annotate the changed colours or new feature -->
 {: .step}
 
-Congratulations on completing this Classroom Jeopardy vibe code project! If you'd like to share your game with students or colleagues, ask your instructor about hosting it for free on [GitHub Pages](https://pages.github.com/), just like the example game: [Classroom Jeopardy - The Future of Education](https://richmccue.github.io/learning-games/jeopardy.html).
+Congratulations on completing this Classroom Jeopardy vibe code project! If you'd like to share your game with students or colleagues, ask your instructor about hosting it for free on [GitHub Pages](https://pages.github.com/){:target="_blank"}, just like the example game: [Classroom Jeopardy - The Future of Education](https://richmccue.github.io/learning-games/jeopardy.html){:target="_blank"}.
 
 [NEXT STEP: Workout Tracker](6-workout-tracking.html){: .btn .btn-blue }
