@@ -21,12 +21,12 @@ Step 1
 - You can use any Generative AI tool for this activity, but for coding I'd recommend using Anthropic's [Claude](https://claude.ai/){:target="_blank"}, as the free version creates more visually attractive web applications by default. Alternatively, you can use [Google Gemini](https://gemini.google.com/){:target="_blank"} (which comes free with Gmail), [ChatGPT](https://chatgpt.com/){:target="_blank"}, [Microsoft Copilot](https://copilot.microsoft.com/){:target="_blank"}, or any other GenAI tool that you are familiar with.
 
 ![Screenshot of the Claude.ai home screen with the prompt box highlighted](images/7-jeopardy-1.png)
-<!-- Screenshot to capture: Claude.ai (or Gemini) start screen, with an arrow or box annotation pointing to the prompt input field -->
+
 {: .step}
 
 Step 2
 {: .label .label-step}
-- Copy and paste the following prompt into your GenAI tool, replacing the web page link with a page on a topic you know well if you prefer, and if you're using Claude, select the latest model and highest level of effort available to you. Then press **Enter** on your keyboard:
+- Copy and paste the following prompt into your GenAI tool, replacing the web page link with a page on a topic you know well if you prefer, and **if you're using Claude, select the latest model and highest level of effort available to you** (see image below). Then press **Enter** on your keyboard:
 
 ```
 I'd like to create a classroom Jeopardy game as a single self-contained HTML file that I
@@ -49,15 +49,15 @@ https://richmccue.github.io/learning-games/jeopardy.html
 ```
 
 ![Screenshot of the prompt pasted into the GenAI chat box](images/7-jeopardy-2.png)
-<!-- Screenshot to capture: the full prompt pasted into the chat box, ready to submit; annotate the Enter/send button -->
+
 {: .step}
 
 Step 3
 {: .label .label-step}
 - Next we need to wait a minute or two for the GenAI tool to create the HTML file for you. In Claude you will see the game being built in a preview window on the right-hand side of the screen as the code is written.
 
-![Screenshot of Claude generating the Jeopardy game code with the live preview pane](images/jeopardy-3.png)
-<!-- Screenshot to capture: Claude mid-generation, with annotations pointing to the code/preview toggle and the preview pane -->
+![Screenshot of Claude generating the Jeopardy game code with the live preview pane](images/7-jeopardy-3.png)
+
 {: .step}
 
 Step 4
