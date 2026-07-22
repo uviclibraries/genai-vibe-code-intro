@@ -20,56 +20,38 @@ If you get stuck, please ask your instructor for assistance, and don't forget to
 
 Step 1
 {: .label .label-step}
-- Copy and paste the following prompt into your GenAI tool (feel free to change the language of course) and then press **Enter** on your keyboard: <br>
+- Copy and paste the following prompt into your GenAI tool (feel free to make changes) and then press **Enter** on your keyboard: <br>
 
 ```
 Create an HTML file for a hospital capacity simulator.
 
-The simulator should allow users to explore how healthcare resources affect a hospital by adjusting different factors and running a simulation. The interface should be visually appealing, interactive, and easy for beginners to understand.
+The simulator should allow users to adjust healthcare system factors and see how they affect a hospital.
 
 Include:
-
-- A colourful hospital-themed design with a simple illustration of a hospital.
+- A colourful hospital-themed design with a simple hospital illustration
 - Sliders for:
-  - Number of incoming patients (this represents the expected number of patients for the day)
+  - Number of incoming patients
   - Number of available healthcare workers
-  - Number of available hospital beds
+  - Number of hospital beds
   - Emergency room capacity
-- A "Today's Conditions" selector with options such as:
-  - Normal Day
-  - Flu Season
-  - Heat Wave
-  - Holiday Weekend
-  - Local Outbreak
-- Each condition should affect the simulation differently. For example:
-  - Flu Season increases patient arrivals and the number of patients needing admission.
-  - Heat Wave increases emergency room visits but fewer admissions.
-  - Holiday Weekend increases trauma-related emergency visits.
-  - Local Outbreak creates the highest demand on the hospital.
-- Each time the user clicks "Run Simulation," include a small amount of randomness (approximately ±15%) so the same settings can produce slightly different results, making the simulation feel more realistic.
-- Display today's simulated patient arrivals compared with the user's forecast so the variation is easy to understand.
-- Include a "Run Simulation" button.
-- Show an animated visual after the simulation runs, such as patients entering the hospital, ambulances arriving, and a hospital stress meter that changes colour:
-  - Green = Operating Normally
-  - Yellow = Busy
-  - Red = Overwhelmed
-- Display:
-  - Hospital status
-  - Hospital efficiency score
-  - Estimated patient wait time
-  - Number of available beds remaining
-- Include a short educational section explaining how healthcare resources, staffing, and unexpected events can affect hospital capacity and patient care.
-- Include a brief explanation that this is a simplified educational simulation and not a real hospital prediction tool.
+- A "Today's Conditions" selector with options such as Normal Day, Flu Season, Heat Wave, Holiday Weekend, and Local Outbreak
+- Each condition should affect the simulation differently
+- A small amount of randomness each time the simulation runs so the same settings don't always produce the same results
+- A "Run Simulation" button
+- An animated visual showing the hospital becoming calm, busy, or overwhelmed
+- A hospital stress meter
+- A hospital efficiency score
+- Educational information explaining how healthcare resources affect patient care
 
-The entire application should be contained in a single HTML file that can be opened directly in a web browser.
+The entire application should be contained in one HTML file that can be opened directly in a web browser.
 
-Make the simulator interactive, visually engaging, beginner-friendly, and suitable for educational use.
+Make it interactive, beginner-friendly, and visually appealing.
 ```
 {: .step}
 
 Step 2
 {: .label .label-step}
-- Now let's evaluate the suggestions from...
+- F
 {: .step}
 
 Step 3
