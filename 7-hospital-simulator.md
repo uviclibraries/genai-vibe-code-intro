@@ -8,7 +8,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # !!!UNDER CONSTRUCTION!!!
 # Make an Hospital Capacity Simulator App! 
-<img src="images/CHANGE-ME.png" style="float:right;width:320px;" alt="decorative"> 
+<img src="images/hospital-simulator-logo.png" style="float:right;width:320px;" alt="decorative"> 
 
 Simulators can be a helpful way to help people spend more time on task learning about new topics or learning new skills. Here's an example of a Hospital Capacity Simulator to help users learn more about healthcare system factors and see how they affect hospital operations: [Hospital Capacity Simulator](https://richmccue.github.io/learning-games/salish-sea-guardian.html){:target="_blank"}.
 
