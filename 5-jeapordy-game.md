@@ -48,7 +48,7 @@ Here is an example of the look and feel I'm going for:
 https://richmccue.github.io/learning-games/jeopardy.html
 ```
 
-![Screenshot of the prompt pasted into the GenAI chat box](images/jeopardy-2.png)
+![Screenshot of the prompt pasted into the GenAI chat box](images/7-jeopardy-2.png)
 <!-- Screenshot to capture: the full prompt pasted into the chat box, ready to submit; annotate the Enter/send button -->
 {: .step}
 
