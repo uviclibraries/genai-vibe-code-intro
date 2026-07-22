@@ -114,4 +114,4 @@ Step 8 (Optional)
  
 Congratulations on completing this Quiz Game vibe code project! You've not only built a working game, you've also practised one of the most important skills for working with Generative AI: verifying its output against a trusted source. Here's the finished example again for inspiration: [Is My Phone Listening To Me? Quiz](https://richmccue.github.io/learning-games/phone_listening_quiz.html).
 
-[NEXT STEP: ??????](3-????.html){: .btn .btn-blue }
+[NEXT STEP: Jeapordy Game](5-jeapordy-game.html){: .btn .btn-blue }
