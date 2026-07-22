@@ -146,7 +146,6 @@ Step 10
 
 - To share your game with others, you can publish it for free using GitHub Pages: upload your HTML file and your **images** (and **assets**) folders to a GitHub repository and turn on GitHub Pages in the repository settings. Your instructor can help you with this, and the process is the same one used to publish the [example game](https://richmccue.github.io/likwala/likwala-defender.html).
 
-![Screenshot of the GitHub repository page showing the HTML file and images folder uploaded, with the Pages settings visible. Annotation: arrow to the published site URL](images/defender-08-github-pages.png)
 {: .step}
 
 Step 11
