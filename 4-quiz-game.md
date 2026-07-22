@@ -51,6 +51,8 @@ describes. The game should:
 - Be a single self-contained HTML file with no external dependencies, so it can be
   hosted on GitHub Pages
 ```
+
+![Screenshot of the prompt pasted into the GenAI chat box](images/quiz-game-02.png)
 {: .step}
  
 Step 4
