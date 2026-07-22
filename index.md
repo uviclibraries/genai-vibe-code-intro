@@ -32,11 +32,10 @@ At the end of this workshop, you will be able to:
    - Create a quize game for reviewing unit information
    - Create a jeapordy style game for playing in group settings
    - Create a training app for preparing for an upcoming sporting event like a bike ride or marathon
-4. OPTIONAL: Create a free GitHub Pages website so that you have a place to make you games available to other people
 5. Make one or more web apps usable on mobile devices in addition to laptops
-6. Make one or more games usable offline (with no internet connection)
 7. Demonstrate the use of effective game mechanics in one or more games
-8. Use Desing Thinking techniques to help design an effective educational game or web application
+8. OPTIONAL: Make one or more games usable offline (with no internet connection)
+4. OPTIONAL: Create a free GitHub Pages website so that you have a place to make you games available to other people
 
 ## Hands on Activities  TODO List
 
