@@ -90,7 +90,9 @@ Step 6
   * Add your own pictures. Name each file after the word it shows, in all lowercase (for example: `bear.png`). Simple, clear pictures with plain backgrounds work best for a fast-moving game.
 - On a Mac you simply **double-click** on the zip file and it will unzip. On Windows you **right mouse click** on the file and select **Extract All...**
 
-<img src="images/language-defender-02.png" style="float:right;width:300px;margin-left:10px;margin-top:10px" alt="game"> 
+![Screenshot of files in directory](language-defender-02.png)
+
+
 {: .step}
 
 Step 7
