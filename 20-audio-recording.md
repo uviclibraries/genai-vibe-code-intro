@@ -27,7 +27,8 @@ If you get stuck, please ask your instructor for assistance!
 Step 1
 {: .label .label-step}
 
-- Open the charging case. The transmitter (TX) and receiver (RX) **power on automatically** when you lift them out, and they come pre-linked from the factory. If a unit is off, **press and hold its power button for two seconds**. Check that the status LED on the receiver is **solid green**, which means the TX and RX are linked and ready.
+- Open the charging case. The transmitter (TX) and receiver (RX) **power on automatically** when you lift them out, and they come pre-linked from the factory.
+- If a unit is off, **press and hold its power button for two seconds**. Check that the status LED on the receiver is **solid green**, which means the TX and RX are linked and ready.
 {: .step}
 
 ![DJI Mic Mini charging case, open, with callouts on: 1 the transmitters, 2 the receiver, 3 the receiver status LED](images/audio-01-case.jpg)
@@ -39,7 +40,7 @@ Step 1
 Step 2
 {: .label .label-step}
 
-- Push the receiver's USB-C connector directly into the **charging port on the bottom of your iPhone**. On an iPhone with a Lightning port, attach the DJI Lightning adapter to the receiver first. The receiver should sit flush against the phone, so remove any thick phone case that prevents a full connection. Once connected, iOS treats the receiver as an **external microphone**, so apps like Voice Memos use it automatically instead of the built-in mic.
+- Push the receiver's USB-C connector directly into the **charging port on the bottom of your iPhone**. On an iPhone with a Lightning port, use a lighting to USB-C cable and attach the  receiver first. The receiver should sit flush against the phone, so remove any thick phone case that prevents a full connection. Once connected, iOS treats the receiver as an **external microphone**, so apps like Voice Memos use it automatically instead of the built-in mic.
 {: .step}
 
 ![The DJI receiver plugged into the bottom of an iPhone, with callouts on: 1 the USB-C connector, 2 the receiver hanging below the phone](images/audio-02-receiver-plugged-in.jpg)
