@@ -10,7 +10,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 # Make an Hospital Capacity Simulator App! 
 <img src="images/CHANGE-ME.png" style="float:right;width:320px;" alt="decorative"> 
 
-Games can be a helpful way to help people spend more time on task learning about new topics or learning new skills. Here's an example of a Super Mario style Eco-Runner game to help players learn more aobut things they can do to protect the environment: [Salish Sea Guardian](https://richmccue.github.io/learning-games/salish-sea-guardian.html){:target="_blank"}.
+Simulators can be a helpful way to help people spend more time on task learning about new topics or learning new skills. Here's an example of a Hospital Capacity Simulator to help users learn more about healthcare system factors and see how they affect hospital operations: [Hospital Capacity Simulator](https://richmccue.github.io/learning-games/salish-sea-guardian.html){:target="_blank"}.
 
 You can use any Generative AI tool for this activity, but for coding I'd recommend using Anthropic's [Claude](https://claude.ai/){:target="_blank"}, as the free version creates more visually attractive web applications by default. Alternatively, you can use [Google Gemini](https://gemini.google.com/){:target="_blank"} (which comes free with Gmail), [ChatGPT](https://chatgpt.com/){:target="_blank"}, [Microsoft Copilot](https://copilot.microsoft.com/){:target="_blank"}, or any other GenAI tool that you are familiar with.
 
@@ -22,7 +22,47 @@ Step 1
 {: .label .label-step}
 - Copy and paste the following prompt into your GenAI tool (feel free to change the language of course) and then press **Enter** on your keyboard: <br>
 ```text
-How could I use the game mechanics for super mario for a environmental conservation game?
+Create an HTML file for a hospital capacity simulator.
+
+The simulator should allow users to explore how healthcare resources affect a hospital by adjusting different factors and running a simulation. The interface should be visually appealing, interactive, and easy for beginners to understand.
+
+Include:
+
+- A colourful hospital-themed design with a simple illustration of a hospital.
+- Sliders for:
+  - Number of incoming patients (this represents the expected number of patients for the day)
+  - Number of available healthcare workers
+  - Number of available hospital beds
+  - Emergency room capacity
+- A "Today's Conditions" selector with options such as:
+  - Normal Day
+  - Flu Season
+  - Heat Wave
+  - Holiday Weekend
+  - Local Outbreak
+- Each condition should affect the simulation differently. For example:
+  - Flu Season increases patient arrivals and the number of patients needing admission.
+  - Heat Wave increases emergency room visits but fewer admissions.
+  - Holiday Weekend increases trauma-related emergency visits.
+  - Local Outbreak creates the highest demand on the hospital.
+- Each time the user clicks "Run Simulation," include a small amount of randomness (approximately ±15%) so the same settings can produce slightly different results, making the simulation feel more realistic.
+- Display today's simulated patient arrivals compared with the user's forecast so the variation is easy to understand.
+- Include a "Run Simulation" button.
+- Show an animated visual after the simulation runs, such as patients entering the hospital, ambulances arriving, and a hospital stress meter that changes colour:
+  - Green = Operating Normally
+  - Yellow = Busy
+  - Red = Overwhelmed
+- Display:
+  - Hospital status
+  - Hospital efficiency score
+  - Estimated patient wait time
+  - Number of available beds remaining
+- Include a short educational section explaining how healthcare resources, staffing, and unexpected events can affect hospital capacity and patient care.
+- Include a brief explanation that this is a simplified educational simulation and not a real hospital prediction tool.
+
+The entire application should be contained in a single HTML file that can be opened directly in a web browser.
+
+Make the simulator interactive, visually engaging, beginner-friendly, and suitable for educational use.
 ```
 {: .step}
 
