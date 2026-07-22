@@ -58,6 +58,7 @@ I can train 4 days a week, I'm currently comfortable riding about 40 km, and yes
 please keep it as a bicycle race tracker. Please start the training plan from next
 Monday.
 ```
+![Screenshot of clarifying questions](images/workout-tracking-03.png)
 
 - If you'd rather train for a different sport or event, this is the moment to say so! For example: "Actually, I'd like to train for a 10K run on October 4th instead. Please change distances to kilometres run and remove the elevation gain field." 
 
