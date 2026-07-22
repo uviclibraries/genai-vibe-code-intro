@@ -19,7 +19,7 @@ If you get stuck, please ask your instructor for assistance, and don't forget to
 
 Step 1
 {: .label .label-step}
-- You can use any Generative AI tool for this activity, but for coding I'd recommend using Anthropic's [Claude](https://claude.ai/).
+- You can use any Generative AI tool for this activity, but for coding I'd recommend using Anthropic's [Claude](https://claude.ai/), as the free version creates more visually attractive web applications by default. Alternatively, you can use Google Gemini (which comes free with Gmail), ChatGPT, Microsoft Copilot, or any other GenAI tool that you use. 
 {: .step}
 
 Step 2
@@ -124,8 +124,6 @@ Please add a mastery system that tracks which letters the player gets right and 
 and shows falling pictures for the letters they struggle with more often. Save the
 player's progress in the browser using localStorage so it persists between sessions.
 ```
-
-![Screenshot of the updated start screen showing the three difficulty mode buttons. Annotation: highlight box around the difficulty buttons with the note "Added with a single follow-up prompt"](images/defender-06-difficulty-modes.png)
 {: .step}
 
 Step 9
