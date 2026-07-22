@@ -104,8 +104,8 @@ generated in code with the Web Audio API so no sound files are needed.
 ```
 {: .step}
 
-Step 7
 <img src="images/2-eco-runner-mobile.jpg" style="float:right;width:300px;padding:6px;" alt="decorative">
+Step 7
 {: .label .label-step}
 - When you are happy with your game, download it so you have your own copy:
   * In Claude, click the **Download** button at the top of the Artifact preview and make note of where you saved the HTML file on your laptop.
