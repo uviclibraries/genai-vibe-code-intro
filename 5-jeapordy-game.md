@@ -86,6 +86,10 @@ Step 6
 Step 7
 {: .label .label-step}
 - Find the HTML file you just downloaded in your file manager and **double-click** on it to open it in your web browser. Set up two teams, give them fun names, and play through a few clues, a Daily Double, and Final Jeopardy to make sure everything works, including the scoring.
+- Another way to create a Jeaporday game is to ask your GenAI tool to:
+  - Only generate questions and answers for the game, inlucing extra questions for each category (I ask for 10 questions for each category).
+  - Review the quesitons and answers, deleting poor questions, until you have 5 questons for each category.
+  - Use the updated questions and answers text with the App Generation prompt in **Step 2**.
 {: .step}
 
 Step 8 (Optional)
