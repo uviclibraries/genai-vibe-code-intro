@@ -67,6 +67,7 @@ Monday.
 Step 4
 {: .label .label-step}
 - Next we need to wait a minute or two while the GenAI tool creates the HTML file for you. In Claude the app will appear in a preview pane on the right side of the screen, and you can try it out right away.
+- If you are using Claude, it will display a preview of the webpage on the right side of the screen once it generates the file. Before downloading, you can review the preview and provide additional prompts if you would like to make any changes.
 - Once it's finished, click the **Download** button and make note of where you saved the HTML file on your laptop.
 <img src="images/workout-tracking-01.png" style="float:right;width:300px;margin-top:10px" alt="download button"> 
 {: .step}
