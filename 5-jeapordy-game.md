@@ -82,7 +82,7 @@ Step 6
 {: .label .label-step}
 - When you are happy with the game, click on the **Download** button to save the HTML file to your laptop, and make note of where you saved it.
 
-![Screenshot of the Download button in Claude's artifact preview](images/jeopardy-6.png)
+![Screenshot of the Download button in Claude's artifact preview](images/7-jeopardy-6.png)
 
 {: .step}
 
