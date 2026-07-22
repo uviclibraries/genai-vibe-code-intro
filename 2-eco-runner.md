@@ -78,12 +78,12 @@ Step 4
 Step 5
 {: .label .label-step}
 
-- Now wait a minute or two while the AI writes the code for your game. In Claude, the game will appear in a preview window (called an Artifact) beside the chat. Once the code is finished, try playing your game right in the preview:
+- Now wait a few minutes while the AI writes the code for your game. In Claude, the game will appear in a preview window (called an Artifact) beside the chat. Once the code is finished, try playing your game right in the preview:
   * Use the **arrow keys** to run left and right
   * Press the **spacebar** to jump
   * Try landing on top of a hazard or collecting one of your collectibles to make sure the score changes
 
-![Annotated screenshot of the finished game running in the Claude Artifact preview pane, with arrows pointing to the score display, the lives counter, and the player character](images/step-5-play-preview.png)
+![Annotated screenshot of the finished game running in the Claude Artifact preview pane, with arrows pointing to the score display, the lives counter, and the player character](images/2-eco-runner-5.png)
 {: .step}
 
 Step 6
