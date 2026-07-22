@@ -1,12 +1,11 @@
 ---
 layout: default
-title: 5-Jeapordy-Game UNDER CONSTRUCTION
+title: 5-Jeapordy Game
 nav_order: 7
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-# !!!UNDER CONSTRUCTION!!!
 # Make a Classroom Jeopardy Game in 10-Minutes!
 <img src="images/7-jeopardy-logo.png" style="float:right;width:350px;" alt="decorative"> 
 
@@ -100,7 +99,7 @@ effect when a Daily Double is revealed.
 
 ```
 Now create a second version of the game using the content from this web page instead:
-[link to another web page you know well]
+[link to another web page you know well... Maybe: https://en.wikipedia.org/wiki/BC_Ferries]
 ```
 
 ![Screenshot of a customized version of the game with a different colour scheme](images/7-jeopardy-8.png)
