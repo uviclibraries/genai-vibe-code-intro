@@ -54,7 +54,7 @@ https://richmccue.github.io/learning-games/jeopardy.html
 
 Step 3
 {: .label .label-step}
-- Next we need to wait a minute or two for the GenAI tool to create the HTML file for you. In Claude you will see the game being built in a preview window on the right-hand side of the screen as the code is written.
+- Next we need to wait several minutes for the GenAI tool to create the HTML file for you. In Claude you will see the game being built in a preview window on the right-hand side of the screen as the code is written.
 
 ![Screenshot of Claude generating the Jeopardy game code with the live preview pane](images/7-jeopardy-3.png)
 
