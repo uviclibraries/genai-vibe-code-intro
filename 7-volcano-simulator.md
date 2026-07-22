@@ -12,7 +12,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 Games can be a helpful way to help people spend more time on task learning about new topics or learning new skills. Here's an example of a Super Mario style Eco-Runner game to help players learn more aobut things they can do to protect the environment: [Salish Sea Guardian](https://richmccue.github.io/learning-games/salish-sea-guardian.html){:target="_blank"}.
 
-You can use any Generative AI tool for this activity but for coding I’d recommend using either [Google Gemini](https://gemini.google.com/){:target="_blank"} (which comes free with Gmail), or [Claude](https://claude.ai/){:target="_blank"}, as the free version of Claude currently does as good a job as Google’s Gemini, and creates more visually attractive web applications by default.
+You can use any Generative AI tool for this activity, but for coding I'd recommend using Anthropic's [Claude](https://claude.ai/){:target="_blank"}, as the free version creates more visually attractive web applications by default. Alternatively, you can use [Google Gemini](https://gemini.google.com/){:target="_blank"} (which comes free with Gmail), [ChatGPT](https://chatgpt.com/){:target="_blank"}, [Microsoft Copilot](https://copilot.microsoft.com/){:target="_blank"}, or any other GenAI tool that you are familiar with.
 
 If you get stuck, please ask your instructor for assistance, and don't forget to have fun!
 
