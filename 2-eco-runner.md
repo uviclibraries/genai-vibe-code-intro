@@ -7,7 +7,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
 # Make an Eco-Runner Game! 
-<img src="images/2-eco-runner-logo.png" style="float:right;width:350px;" alt="decorative">
+<img src="images/2-eco-runner-logo.png" style="float:right;width:350px;padding:6px;" alt="decorative">
 
 Classic platformer games like Super Mario are a fantastic way to learn how games teach through play: running, jumping, collecting items, and avoiding hazards. In this activity you will use a Generative AI tool to "vibe code" your own side-scrolling platformer with an environmental restoration theme. Instead of stomping goombas and collecting coins, your hero might capture invasive species, clean up pollution, plant native trees, and restore a damaged ecosystem back to health.
 
@@ -105,6 +105,7 @@ generated in code with the Web Audio API so no sound files are needed.
 {: .step}
 
 Step 7
+<img src="images/2-eco-runner-mobile.jpg" style="float:right;width:300px;padding:6px;" alt="decorative">
 {: .label .label-step}
 - When you are happy with your game, download it so you have your own copy:
   * In Claude, click the **Download** button at the top of the Artifact preview and make note of where you saved the HTML file on your laptop.
@@ -121,7 +122,7 @@ Step 8
 On my phone the jump button is partly hidden behind the score display. Please
 move the touch controls so nothing overlaps, and make the buttons a bit bigger.
 ```
-<img src="images/2-eco-runner-mobile.jpg" style="float:right;width:300px;padding:6px;" alt="decorative">
+
 {: .step}
 
 Step 9
