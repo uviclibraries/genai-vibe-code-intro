@@ -26,7 +26,7 @@ Step 1
 
 Step 2
 {: .label .label-step}
-- Copy and paste the following prompt into your GenAI tool, replacing the web page link with a page on a topic you know well if you prefer, and then press **Enter** on your keyboard:
+- Copy and paste the following prompt into your GenAI tool, replacing the web page link with a page on a topic you know well if you prefer, and if you're using Claude, select the latest model and highest level of effort available to you. Then press **Enter** on your keyboard:
 
 ```
 I'd like to create a classroom Jeopardy game as a single self-contained HTML file that I
