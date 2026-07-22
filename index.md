@@ -3,9 +3,8 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="images/vibe-code-logo.png" style="float:right;width:180px;" alt="decorative">
+<img src="images/vibe-code-logo.png" style="float:right;width:200px;" alt="decorative">
 
-# !!!UNDER CONSTRUCTION!!!
 # From Ideas to Apps: Create Apps & Learning Games with Generative AI
 
 - Pre-workshop activities: 10 min 
@@ -37,11 +36,11 @@ At the end of this workshop, you will be able to:
 8. OPTIONAL: Make one or more games usable offline (with no internet connection)
 4. OPTIONAL: Create a free GitHub Pages website so that you have a place to make you games available to other people
 
-## Hands on Activities  TODO List
+## Activities To Add to the Workshop
 
 8. Volcanic erruption simulator: https://richmccue.github.io/learning-games/volcano-phases.html
 7. Frogger Style learning game: **create?**
-8. Hospital capacity simuilator
+8. Hospital capacity simuilator: **create?**
 13. [Audio Recording with iPhone & DJI Mic Mini for Language Revitalization](https://claude.ai/public/artifacts/2ff5323b-81ed-44db-8a05-a4c3f3827cad){:target="_blank"}
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
