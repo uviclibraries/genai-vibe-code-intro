@@ -20,6 +20,31 @@ If you get stuck, please ask your instructor for assistance, and don't forget to
 
 Step 1
 {: .label .label-step}
+- Before prompting, take two minutes to plan your game’s environmental theme. Jot down quick answers to these questions on paper or in a text file:
+  
+```
+Hospital Type: What kind of hospital are you managing?
+(e.g. large city hospital, small rural clinic, children's hospital, emergency trauma centre)
+
+Main Challenge: What situation is your hospital trying to manage?
+(e.g. flu season, staffing shortages, unexpected increase in patients, local emergency)
+
+Resources: What healthcare resources will affect your simulation?
+(e.g. doctors, nurses, hospital beds, emergency room spaces, medical equipment)
+
+Events: What unexpected events could impact your hospital?
+(e.g. seasonal illness, heat wave, holiday weekend, disease outbreak)
+
+Goal: What does success look like in your simulation?
+(e.g. keep wait times low, avoid overcrowding, maintain high patient satisfaction, use resources efficiently)
+
+Visual Style: How would you like your simulator to look?
+(e.g. cartoon hospital, realistic dashboard, game-like interface)
+```
+{: .step}
+
+Step 2
+{: .label .label-step}
 - Copy and paste the following prompt into your GenAI tool (feel free to make changes) and then press **Enter** on your keyboard: <br>
 
 ```
@@ -49,11 +74,6 @@ Make it interactive, beginner-friendly, and visually appealing.
 ```
 {: .step}
 
-Step 2
-{: .label .label-step}
-- F
-{: .step}
-
 Step 3
 {: .label .label-step}
 - Next we need to wait a minute or two for the AI to read the web page and create the HTML file for you. While it works, you can watch it write the code.
@@ -63,9 +83,7 @@ Step 3
 
 Step 4
 {: .label .label-step}
-- Download the zip file that contains all the MP3 audio files for each Portuguese letter to the same folder where you downloaded the HTML file Claude created for you:
-  - Download the Portuguese audio for each letter in the zip file called: [assets.zip](assets/assets.zip)
-  - Find the assets.zip file on your laptop and unzip it. On a Mac you simply **double-click** on the file and it will unzip. On Windows you **right mouse click** on the file and select **Extract All…** 
+- Now let's add some
 {: .step}
 
 Step 5
