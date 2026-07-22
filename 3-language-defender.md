@@ -39,7 +39,7 @@ versus more advanced learners.
 Step 3
 {: .label .label-step}
 - Read through the suggestions and pick two or three mechanics you like. There are no wrong answers here! In the example game, the mechanics chosen were: falling pictures, an on-screen keyboard for shooting, lives that are lost when a picture reaches the ground, and levels that gradually speed up.
-Here are a couple of mechanics that Claude suggested:
+- Here are a couple of mechanics that Claude suggested:
 ![Screenshot of mechanics](images/language-defender-03.png)
 {: .step}
 
