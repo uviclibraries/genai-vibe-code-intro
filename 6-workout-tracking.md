@@ -4,11 +4,10 @@ title: 6-Workout-Tracking
 nav_order: 8
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
----
-
-<img src="images/workout-tracking-logo.png" style="float:right;width:300px;" alt="decorative"> 
+--- 
 
 # Make a Workout Training Tracker in About 15 Minutes!
+<img src="images/workout-tracking-logo.png" style="float:right;width:300px;" alt="decorative">
 
 Training for a race or fitness event is much easier when you can see your progress. A simple training tracker app lets you log your workouts, compare your weekly totals against a training plan, and stay motivated as race day approaches. Here's an example of a training tracker app created to prepare for a 140 km bicycle race: [Tour de Victoria Training Tracker](https://richmccue.github.io/tdv/local.html).
 
