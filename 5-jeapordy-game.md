@@ -118,4 +118,4 @@ Now create a second version of the game using the content from this web page ins
 
 Congratulations on completing this Classroom Jeopardy vibe code project! If you'd like to share your game with students or colleagues, ask your instructor about hosting it for free on [GitHub Pages](https://pages.github.com/), just like the example game: [Classroom Jeopardy - The Future of Education](https://richmccue.github.io/learning-games/jeopardy.html).
 
-[NEXT STEP: ??????](3-????.html){: .btn .btn-blue }
+[NEXT STEP: Workout Tracker](6-workout-tracking.html){: .btn .btn-blue }
