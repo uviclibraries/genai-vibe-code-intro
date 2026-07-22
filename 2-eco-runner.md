@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 2-Eco-Runner
+title: 2-Eco-Runner UNDER CONSTRUCTION
 nav_order: 3
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-![decorative](images/eco-platformer-logo.jpg)
+# UNDER CONSTRUCTION
 # Make an Eco-Runner Game! 
 
 Classic platformer games like Super Mario are a fantastic way to learn how games teach through play: running, jumping, collecting items, and avoiding hazards. In this activity you will use a Generative AI tool to "vibe code" your own side-scrolling platformer with an environmental restoration theme. Instead of stomping goombas and collecting coins, your hero might capture invasive species, clean up pollution, plant native trees, and restore a damaged ecosystem back to health.
