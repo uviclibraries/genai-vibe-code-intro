@@ -110,7 +110,6 @@ Step 7
   * In Claude, click the **Download** button at the top of the Artifact preview and make note of where you saved the HTML file on your laptop.
   * Find the file in your file manager and **double-click** it. It should open in your web browser and play exactly the same as it did in the preview, even without an internet connection.
 
-![Annotated screenshot of the Artifact window with an arrow pointing to the Download button, and a second panel showing the downloaded HTML file opened in a browser](images/2-eco-runner-7.png)
 {: .step}
 
 <img src="images/2-eco-runner-mobile.jpg" style="float:right;width:300px;padding:6px;" alt="decorative"> 
@@ -123,8 +122,9 @@ Step 8
 On my phone the jump button is partly hidden behind the score display. Please
 move the touch controls so nothing overlaps, and make the buttons a bit bigger.
 ```
-
 {: .step}
+
+![Annotated screenshot of the Artifact window with an arrow pointing to the Download button, and a second panel showing the downloaded HTML file opened in a browser](images/2-eco-runner-7.png)
 
 Step 9
 {: .label .label-step}
