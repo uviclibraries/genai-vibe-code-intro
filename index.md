@@ -5,7 +5,7 @@ nav_order: 1
 ---
 <img src="images/vibe-code-logo.png" style="float:right;width:180px;" alt="decorative">
 
-# UNDER CONSTRUCTION
+# !!!UNDER CONSTRUCTION!!!
 # From Ideas to Apps: Create Apps & Learning Games with Generative AI
 
 - Pre-workshop activities: 10 min 
