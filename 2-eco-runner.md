@@ -123,7 +123,7 @@ On my phone the jump button is partly hidden behind the score display. Please
 move the touch controls so nothing overlaps, and make the buttons a bit bigger.
 ```
 
-![Annotated screenshot of the game running on a phone with circles highlighting the on-screen touch control buttons](images/step-8-mobile-test.png)
+![Annotated screenshot of the game running on a phone with circles highlighting the on-screen touch control buttons](images/2-eco-runner-8.png)
 {: .step}
 
 Step 9
@@ -146,24 +146,5 @@ Congratulations on completing this environmental platformer vibe code project! Y
 - Add a fourth and fifth level set in a new part of your ecosystem
 - Add a "boss" hazard at the end of the final level, such as a large oil spill that takes several actions to clean up
 - Ask the AI to add a two-player mode or a level timer with a high-score table
-
----
-
-## Appendix: Screenshot capture guide
-
-Each step above references one image in the `images/` folder. Capture and annotate them as follows (arrows and callout boxes can be added with macOS Preview, Windows Snipping Tool, or a tool like Skitch):
-
-| Filename | What to capture | Annotations |
-|---|---|---|
-| `images/eco-platformer-logo.jpg` | A fun banner image or a screenshot of a finished game title screen | None (decorative) |
-| `images/step-1-choose-genai-tool.png` | Claude or Gemini home page | Arrow to the prompt box |
-| `images/step-2-plan-your-theme.png` | A notes file with the five planning questions answered | Callouts on ecosystem and collectibles |
-| `images/step-3-paste-prompt.png` | The full prompt pasted into the chat | Arrows to the [square bracket] sections and the send button |
-| `images/step-4-answer-questions.png` | The AI's clarifying questions plus a short reply | Callout box around the questions |
-| `images/step-5-play-preview.png` | The game running in the Artifact preview | Arrows to score, lives, and player character |
-| `images/step-6-iterate.png` | A follow-up prompt and the resulting change | Before/after callout |
-| `images/step-7-download.png` | The Artifact Download button and the file open in a browser | Arrow to Download button |
-| `images/step-8-mobile-test.png` | The game on a phone screen | Circles around the touch controls |
-| `images/step-9-github-pages.png` | GitHub Pages settings screen | Arrows to Branch dropdown and Save; highlight the live URL |
 
 [NEXT STEP: Language Defender](3-language-defender.html){: .btn .btn-blue }
