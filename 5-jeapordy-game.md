@@ -81,17 +81,12 @@ rename the third category to something shorter.
 Step 6
 {: .label .label-step}
 - When you are happy with the game, click on the **Download** button to save the HTML file to your laptop, and make note of where you saved it.
-
 ![Screenshot of the Download button in Claude's artifact preview](images/7-jeopardy-6.png)
-
 {: .step}
 
 Step 7
 {: .label .label-step}
 - Find the HTML file you just downloaded in your file manager and **double-click** on it to open it in your web browser. Set up two teams, give them fun names, and play through a few clues, a Daily Double, and Final Jeopardy to make sure everything works, including the scoring.
-
-![Screenshot of the finished game running locally in a browser with team scores visible](images/jeopardy-7.png)
-<!-- Screenshot to capture: the game running from the local file, with annotations on the team score display and a revealed clue -->
 {: .step}
 
 Step 8 (Optional)
@@ -108,8 +103,8 @@ Now create a second version of the game using the content from this web page ins
 [link to another web page you know well]
 ```
 
-![Screenshot of a customized version of the game with a different colour scheme](images/jeopardy-8.png)
-<!-- Screenshot to capture: the restyled game board; annotate the changed colours or new feature -->
+![Screenshot of a customized version of the game with a different colour scheme](images/7-jeopardy-8.png)
+
 {: .step}
 
 Congratulations on completing this Classroom Jeopardy vibe code project! If you'd like to share your game with students or colleagues, ask your instructor about hosting it for free on [GitHub Pages](https://pages.github.com/){:target="_blank"}, just like the example game: [Classroom Jeopardy - The Future of Education](https://richmccue.github.io/learning-games/jeopardy.html){:target="_blank"}.
