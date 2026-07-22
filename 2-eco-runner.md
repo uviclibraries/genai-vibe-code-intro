@@ -104,7 +104,7 @@ generated in code with the Web Audio API so no sound files are needed.
 ```
 {: .step}
 
-<img src="images/2-eco-runner-mobile.jpg" style="float:right;width:300px;padding:6px;" alt="decorative">
+<img src="images/2-eco-runner-mobile.jpg" style="float:right;width:300px;padding:6px;" alt="decorative"> 
 Step 7
 {: .label .label-step}
 - When you are happy with your game, download it so you have your own copy:
