@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-# UNDER CONSTRUCTION
+# !!!UNDER CONSTRUCTION!!!
 # Recording High Quality Audio with an iPhone & DJI Mic Mini
 <img src="images/recording-audio-logo.png" style="float:right;width:300px;" alt="decorative">
 
