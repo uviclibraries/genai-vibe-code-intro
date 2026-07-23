@@ -25,12 +25,43 @@ Step 1
 
 Step 2
 {: .label .label-step}
-- Copy and paste the following prompt into your GenAI tool, replacing the web page link with a page on a topic you know well if you prefer, and **if you're using Claude, select the latest model and highest level of effort available to you** (see image below). Then press **Enter** on your keyboard:
+- First we will generate the questions and answers for the game, with a few extra questions in each category so that we can delete the weaker ones. Copy and paste the following prompt into your GenAI tool, replacing the web page link with a page on a topic you know well if you prefer, and **if you're using Claude, select the latest model and highest level of effort available to you** (see image below). Then press **Enter** on your keyboard:
+
+```
+I'd like to create the questions and answers for a classroom Jeopardy game. Please base
+all of the questions and answers on the content of this web page:
+https://richmccue.com/2026/05/26/is-your-smartphone-listening-to-you/
+
+Please create:
+- 5 categories, each with a short catchy category name
+- 7 clues per category, ordered from easiest to hardest (I only need 5 per category for
+  the final game, but I'd like 2 extra in each category so I can delete the weaker ones)
+- Clues written as answers, with the correct response phrased in the form of a question,
+  just like real Jeopardy
+- One Final Jeopardy clue and correct response
+
+Please output the clues and responses as plain text organized by category, not as an app
+or a table.
+```
+
+![Screenshot of the prompt pasted into the GenAI chat box](images/7-jeopardy-2.png)
+
+{: .step}
+
+Step 3
+{: .label .label-step}
+- Next, copy and paste the generated questions and answers into a word processor like Microsoft Word or Google Docs, so that you can more easily verify the appropriateness and accuracy of the questions and answers.
+- Open the source web page in another browser tab and check each clue and response against it, because GenAI tools sometimes invent plausible-sounding but incorrect answers.
+- **Delete the 2 weakest questions from each category**, so that you are left with 5 good clues per category. A question might be weak because it is inaccurate, unclear, too obscure, or too similar to another question in the same category.
+{: .step}
+
+Step 4
+{: .label .label-step}
+- Now we will use your verified questions and answers to build the game. Copy and paste the following prompt into your GenAI tool, and then p**aste your 5 categories of questions and answers from your word processor at the end of the prompt** before pressing **Enter**:
 
 ```
 I'd like to create a classroom Jeopardy game as a single self-contained HTML file that I
-can host on GitHub Pages. Please base all of the questions and answers on the content of
-this web page: https://richmccue.com/2026/05/26/is-your-smartphone-listening-to-you/
+can host on GitHub Pages. Please use the questions and answers I've pasted below.
 
 The game should include:
 - A setup screen where I can choose 2, 3, or 4 teams and enter team names
@@ -45,13 +76,13 @@ The game should include:
 - A champion screen at the end showing the winning team and final scores
 Here is an example of the look and feel I'm going for:
 https://richmccue.github.io/learning-games/jeopardy.html
+
+Here are the questions and answers to use:
+[paste your verified questions and answers here]
 ```
-
-![Screenshot of the prompt pasted into the GenAI chat box](images/7-jeopardy-2.png)
-
 {: .step}
 
-Step 3
+Step 5
 {: .label .label-step}
 - Next we need to wait several minutes for the GenAI tool to create the HTML file for you. In Claude you will see the game being built in a preview window on the right-hand side of the screen as the code is written.
 
@@ -59,13 +90,13 @@ Step 3
 
 {: .step}
 
-Step 4
+Step 6
 {: .label .label-step}
 - Once the game is finished, play a quick round directly in the preview window. **This is the most important step**: because you chose a web page you know well, check each question and answer against the source page as you reveal them. GenAI tools sometimes invent plausible-sounding but incorrect answers, so open the source web page in another browser tab and verify anything that looks even slightly off.
 
 {: .step}
 
-Step 5
+Step 7
 {: .label .label-step}
 - If you find a question or answer that is incorrect, or you'd like to adjust the game, simply tell the GenAI tool what to change in a follow-up prompt. For example:
 
@@ -77,13 +108,13 @@ rename the third category to something shorter.
 
 {: .step}
 
-Step 6
+Step 8
 {: .label .label-step}
 - When you are happy with the game, click on the **Download** button to save the HTML file to your laptop, and make note of where you saved it.
 ![Screenshot of the Download button in Claude's artifact preview](images/7-jeopardy-6.png)
 {: .step}
 
-Step 7
+Step 9
 {: .label .label-step}
 - Find the HTML file you just downloaded in your file manager and **double-click** on it to open it in your web browser. Set up two teams, give them fun names, and play through a few clues, a Daily Double, and Final Jeopardy to make sure everything works, including the scoring.
 - Another way to create a Jeaporday game is to ask your GenAI tool to:
@@ -92,7 +123,7 @@ Step 7
   - Use the updated questions and answers text with the App Generation prompt in **Step 2**.
 {: .step}
 
-Step 8 (Optional)
+Step 10 (Optional)
 {: .label .label-step}
 - Want to make the game your own? Try follow-up prompts like these to customize the look and feel, or to make the game reusable with other content:
 
