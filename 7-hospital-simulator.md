@@ -102,7 +102,7 @@ Step 5 (optional)
   * Create a new **public** repository, for example one called "hospital-simulator".
   * Upload your HTML file to the repository and rename it **index.html**.
   * In your repository go to **Settings**, then **Pages**, and under **Branch** select **main** and click **Save**.
-  * After a minute or two your app will be live at: https://YOUR-USERNAME.github.io/hospital-simulator/
+  * After a minute or two your app will be live at: `https://YOUR-USERNAME.github.io/hospital-simulator/`
 
 {: .step}
 
