@@ -10,7 +10,12 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 # Make an Hospital Capacity Simulator App! 
 <img src="images/hospital-simulator-logo.png" style="float:right;width:320px;" alt="decorative"> 
 
-Simulators can be a helpful way to help people spend more time on task learning about new topics or learning new skills. Here's an example of a Hospital Capacity Simulator to help users learn more about healthcare system factors and see how they affect hospital operations: [Hospital Capacity Simulator](https://richmccue.github.io/learning-games/salish-sea-guardian.html){:target="_blank"}.
+Hospital simulations are commonly used to help healthcare professionals and students understand how decisions about staffing, patient volume, and available resources affect hospital operations. In this activity, you will use a Generative AI tool to "vibe code" your own Hospital Capacity Simulator. By adjusting factors such as incoming patients, healthcare workers, hospital beds, and emergency room capacity, you'll explore how different situations can impact a hospital's ability to provide care.
+
+Here's an example of a Hospital Capacity Simulator created with this approach using Claude: [Hospital Capacity Simulator](https://mahumahmed.github.io/hospital-capacity-simulator/){:target="_blank"}. 
+
+And here's an example using Google Gemini: [Hospital Capacity Simulator](https://richmccue.github.io/learning-games/salish-sea-guardian.html){:target="_blank"}. 
+
 
 You can use any Generative AI tool for this activity, but for coding I'd recommend using Anthropic's [Claude](https://claude.ai/){:target="_blank"}, as the free version creates more visually attractive web applications by default. Alternatively, you can use [Google Gemini](https://gemini.google.com/){:target="_blank"} (which comes free with Gmail), [ChatGPT](https://chatgpt.com/){:target="_blank"}, [Microsoft Copilot](https://copilot.microsoft.com/){:target="_blank"}, or any other GenAI tool that you are familiar with.
 
@@ -20,27 +25,22 @@ If you get stuck, please ask your instructor for assistance, and don't forget to
 
 Step 1
 {: .label .label-step}
-- Before prompting, take two minutes to plan your game’s environmental theme. Jot down quick answers to these questions on paper or in a text file:
+- Before prompting, take two minutes to plan your hospital simulation. Jot down quick answers to these questions on paper or in a text file::
   
-```
-Hospital Type: What kind of hospital are you managing?
-(e.g. large city hospital, small rural clinic, children's hospital, emergency trauma centre)
+  * **Hospital Type:** What kind of hospital are you managing?
+    (e.g. large city hospital, small rural clinic, children's hospital, emergency trauma centre)
 
-Main Challenge: What situation is your hospital trying to manage?
-(e.g. flu season, staffing shortages, unexpected increase in patients, local emergency)
-
-Resources: What healthcare resources will affect your simulation?
-(e.g. doctors, nurses, hospital beds, emergency room spaces, medical equipment)
-
-Events: What unexpected events could impact your hospital?
-(e.g. seasonal illness, heat wave, holiday weekend, disease outbreak)
-
-Goal: What does success look like in your simulation?
-(e.g. keep wait times low, avoid overcrowding, maintain high patient satisfaction, use resources efficiently)
-
-Visual Style: How would you like your simulator to look?
-(e.g. cartoon hospital, realistic dashboard, game-like interface)
-```
+  * **Main Challenge:** What situation is your hospital trying to manage?
+    (e.g. flu season, staffing shortages, unexpected increase in patients, local emergency)
+    
+  * **Events:** What unexpected events could impact your hospital?
+    (e.g. seasonal illness, heat wave, holiday weekend, disease outbreak)
+    
+  * **Goal:** What does success look like in your simulation?
+    (e.g. keep wait times low, avoid overcrowding, maintain high patient satisfaction, use resources efficiently)
+    
+  * **Visual Style:** How would you like your simulator to look?
+    (e.g. cartoon hospital, realistic dashboard, game-like interface)
 {: .step}
 
 Step 2
@@ -86,17 +86,24 @@ Step 4
 - Now let's add some
 {: .step}
 
-Step 5
+Step 5 (optional)
 {: .label .label-step}
-- (Uploading to github step).
+- If you'd like to share your simulator to the world, you can publish it for free with GitHub Pages:
+  * Create a free account at [github.com](https://github.com/) if you don't already have one.
+  * Create a new **public** repository, for example one called "hospital-simulator".
+  * Upload your HTML file to the repository and rename it **index.html**.
+  * In your repository go to **Settings**, then **Pages**, and under **Branch** select **main** and click **Save**.
+  * After a minute or two your app will be live at: https://YOUR-USERNAME.github.io/hospital-simulator/
+
 {: .step}
 
 Step 6
 {: .label .label-step}
-- If you created your Simulator in Claude, [it should look something like this](https://richmccue.github.io/brasil-letters/portuguese.html){:target="_blank"}.
-- Your soundboard should be playing the sounds for letters in the Portugues alphabet now. If you are having any problems, please let your instructor know and they help you get your soundboard up and running!
+- If you created your simulator in Claude, [it should look something like this](https://mahumahmed.github.io/hospital-capacity-simulator/){:target="_blank"}.
+- Try moving the sliders, selecting different "Today's Conditions," and clicking Run Simulation. Watch how the hospital responds as patient demand and available resources change.
+- If something isn't working as expected, ask your instructor or your GenAI tool for help troubleshooting the HTML file.
 {: .step}
 
-Congratulations on completing this Hospital Simulator vibe code project!
+Congratulations on completing this vibe code project!
 
 [NEXT STEP: ??????](3-????.html){: .btn .btn-blue }
