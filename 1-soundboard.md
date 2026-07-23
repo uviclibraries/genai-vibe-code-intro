@@ -81,9 +81,7 @@ Step 8
   * After a minute or two your game will be live at `https://your-username.github.io/your-repository/your-game.html`
 - If you'd like a walkthrough of this process, ask your instructor or your GenAI tool for step-by-step GitHub Pages publishing instructions.
 
-Here's an example of how to upload a file on GitHub:
-
-    <button onclick="toggle('gi12')">Show/Hide Animation</button>
+    <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
     <img src="images/workout-tracking-03.gif" style="width:700px;">
     </div>
