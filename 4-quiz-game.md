@@ -104,10 +104,6 @@ Step 7
  
 Step 8
 {: .label .label-step}
-- **Now for the most important step: fact checking!** Open your source web page in one browser tab and your quiz in another. Play through the entire quiz and check every question and explanation against the original article:
-  * Is each "fact" question actually supported by the article?
-  * Are the "myth" questions really presented as myths in the article?
-  * Are the explanations accurate, or has the AI added details that aren't in the source?
 - If you find a question that is wrong or misleading, go back to your AI chat and ask it to fix that specific question. For example:
 
 ```
