@@ -53,7 +53,7 @@ Step 4
   * Is each "fact" question actually supported by the article?
   * Are the "myth" questions really presented as myths in the article?
   * Are the explanations accurate, or has the AI added details that aren't in the source?
-- **Delete the 4 weakest questions** so that you are left with your 10 best. Weaker questions might be ones that are inaccurate, ambiguous, too easy, or too similar to another question.
+- **Delete the 4 weakest questions** so that you are left with your 10 best. Weaker questions might be ones that are inaccurate, too easy, not germain to your learning objectivs, or too similar to another question.
 {: .step}
 
 Step 5
@@ -74,7 +74,7 @@ I've pasted below. The game should:
 - Be a single self-contained HTML file with no external dependencies, so it can be hosted on GitHub Pages
 
 Here are the 10 questions, answers, and explanations:
-[**paste your 10 verified questions here**]
+[paste your 10 verified questions here*
 ```
 
 {: .step}
@@ -105,10 +105,12 @@ Step 8
   * Are the "myth" questions really presented as myths in the article?
   * Are the explanations accurate, or has the AI added details that aren't in the source?
 - If you find a question that is wrong or misleading, go back to your AI chat and ask it to fix that specific question. For example:
+
 ```
 Question about [topic] is not accurate. The article actually says [what the article
 says]. Please correct that question and its explanation, and give me the updated file.
 ```
+
 {: .step}
  
 Step 9
