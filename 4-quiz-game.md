@@ -5,10 +5,9 @@ nav_order: 6
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-
-<img src="images/quiz-game-logo.png" style="float:right;width:270px;margin-left:10px" alt="decorative"> 
  
 # Make a "Fact or Fiction" Quiz Game in 10 Minutes!
+<img src="images/quiz-game-logo.png" style="float:right;width:270px;margin-left:10px" alt="decorative"> 
  
 Quiz games are a fun way to help learners test their knowledge and separate myths from reality. In this activity you will use a Generative AI tool to build a true/false quiz game from a web page of your choosing. Here is an example of a finished quiz built this way: [Is My Phone Listening To Me? Quiz](https://richmccue.github.io/learning-games/phone_listening_quiz.html), which was created from this blog post: [Is Your Smartphone Listening to You?](https://richmccue.com/2026/05/26/is-your-smartphone-listening-to-you/).
  
@@ -30,33 +29,57 @@ Step 2
  
 Step 3
 {: .label .label-step}
-- Copy and paste the following prompt into your GenAI tool, replace the URL with the web page you chose in Step 2, and then press **Enter** on your keyboard: 
+- First we'll ask the AI to generate quiz questions, and in a later step we'll turn the best of them into a game.
+- Copy and paste the following prompt into your GenAI tool, replace the URL with the web page you chose in Step 2, and then press **Enter** on your keyboard:
   
 ```
-I'd like to create a single-file HTML quiz game based on the content of this web page:
+Please read the content of this web page:
 https://richmccue.com/2026/05/26/is-your-smartphone-listening-to-you/
- 
-Please read the page and create 14 true/false questions from it: 7 based on myths or
+
+Then create 14 true/false quiz questions based on it: 7 based on myths or
 misconceptions the page debunks, and 7 based on facts or real techniques the page
-describes. The game should:
+describes. For each question, provide:
+
+- The question text
+- The correct answer (True or False)
+- A short explanation drawn from the article
+```
+{: .step}
+
+Step 4
+{: .label .label-step}
+- Once the AI has generated the 14 questions, **copy and paste them into a word processor** such as Microsoft Word or Google Docs. Reviewing the questions in a word processor makes it much easier to carefully verify each one for appropriateness and accuracy than scrolling through a chat window.
+- Open your source web page in another browser tab and check every question, answer, and explanation against the original article:
+  * Is each "fact" question actually supported by the article?
+  * Are the "myth" questions really presented as myths in the article?
+  * Are the explanations accurate, or has the AI added details that aren't in the source?
+- **Delete the 4 weakest questions** so that you are left with your 10 best. Weaker questions might be ones that are inaccurate, ambiguous, too easy, or too similar to another question.
+{: .step}
+
+Step 5
+{: .label .label-step}
+- Now we'll feed your 10 good questions into a prompt to create the web app. Copy and paste the following prompt into your GenAI tool, paste your 10 verified questions (with their answers and explanations) at the end where indicated, and then press **Enter** on your keyboard:
+
+```
+I'd like you to create a single-file HTML quiz game using the 10 true/false questions
+I've pasted below. The game should:
+
 - Shuffle the questions into a random order every time the game is played
 - Show one question at a time with True / False answer buttons
-- After the player answers, show whether they were right, plus a short explanation
-  drawn from the article
-- Keep a running score, and show a final score screen at the end with a "Play Again"
-  button
-- If the player scores more than 10 out of 14, congratulate them and let them download
-  a fun "badge" image (generated with the HTML canvas) as a PNG
+- After the player answers, show whether they were right, plus the short explanation provided with each question
+- Keep a running score, and show a final score screen at the end with a "Play Again" button
+- If the player scores more than 7 out of 10, congratulate them and let them download a fun "badge" image (generated with the HTML canvas) as a PNG
 - Have a fun, colourful retro arcade visual style
 - Work well on both phones and laptops
-- Be a single self-contained HTML file with no external dependencies, so it can be
-  hosted on GitHub Pages
+- Be a single self-contained HTML file with no external dependencies, so it can be hosted on GitHub Pages
+
+Here are the 10 questions, answers, and explanations:
+[**paste your 10 verified questions here**]
 ```
 
-![Screenshot of the prompt pasted into the GenAI chat box](images/quiz-game-02.png)
 {: .step}
- 
-Step 4
+
+Step 6
 {: .label .label-step}
 - Next we need to wait a minute or two for the AI to read the web page and create the HTML file for you. While it works, you can watch it write the code.
 - If you are using Claude, it will display a preview of the webpage on the right side of the screen once it generates the file. Before downloading, you can review the preview and provide additional prompts if you would like to make any changes
@@ -66,7 +89,7 @@ Step 4
 
 {: .step}
  
-Step 5
+Step 7
 {: .label .label-step}
 - Find the HTML file you just downloaded and **double-click** on it to open it in your web browser.
 - Click through a few questions to make sure the game works: the questions should be shuffled, the True/False buttons should respond, and your score should update (see image below for example).
@@ -75,7 +98,7 @@ Step 5
 
 {: .step}
  
-Step 6
+Step 8
 {: .label .label-step}
 - **Now for the most important step: fact checking!** Open your source web page in one browser tab and your quiz in another. Play through the entire quiz and check every question and explanation against the original article:
   * Is each "fact" question actually supported by the article?
@@ -88,7 +111,7 @@ says]. Please correct that question and its explanation, and give me the updated
 ```
 {: .step}
  
-Step 7
+Step 9
 {: .label .label-step}
  
 - Once your questions are accurate, you can customize your game with follow-up prompts. Try one or more of these, or invent your own:
@@ -112,7 +135,7 @@ gentle buzz for incorrect ones, with a mute button.
 
 {: .step}
  
-Step 8 (Optional)
+Step 10 (Optional)
 {: .label .label-step}
  
 - If you'd like to share your quiz with the world, you can host it for free on [GitHub Pages](https://pages.github.com/). If you completed the GitHub Pages activity earlier in this workshop, upload your HTML file to your repository and it will be live at your GitHub Pages address in a minute or two.
