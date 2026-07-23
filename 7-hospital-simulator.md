@@ -83,7 +83,16 @@ Step 3
 
 Step 4
 {: .label .label-step}
-- Now let's add some
+- Now the fun part: iterating! Vibe coding works best when you make one change at a time, test it, and then ask for the next change. Here are some follow-up prompts to try, one at a time:
+```
+Please add estimated patient wait times that change based on the hospital's current capacity.
+```
+```
+Please add animated ambulances and patients arriving at the hospital whenever the simulation is run.
+```
+```
+Add a statistics page that tracks the hospital's average efficiency score, wait times, and number of patients treated over multiple simulations.
+```
 {: .step}
 
 Step 5 (optional)
