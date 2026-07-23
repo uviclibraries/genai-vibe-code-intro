@@ -28,9 +28,10 @@ At the end of this workshop, you will be able to:
    - Create a endless runner or "Eco Runner" style game for learning
    - Create a missle command style game for language revitalization
    - Create a simulation for learning about things like hospital utilization
-   - Create a quize game for reviewing unit information
+   - Create a quiz game for reviewing unit information
    - Create a jeapordy style game for playing in group settings
    - Create a training app for preparing for an upcoming sporting event like a bike ride or marathon
+   - Create a hospital related simulator to undestand how a hospital operates with different factors
 5. Make one or more web apps usable on mobile devices in addition to laptops
 7. Demonstrate the use of effective game mechanics in one or more games
 8. OPTIONAL: Make one or more games usable offline (with no internet connection)
