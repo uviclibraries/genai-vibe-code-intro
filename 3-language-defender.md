@@ -19,6 +19,7 @@ If you get stuck, please ask your instructor for assistance, and don't forget to
 Step 1
 {: .label .label-step}
 - You can use any Generative AI tool for this activity, but for coding I'd recommend using Anthropic's [Claude](https://claude.ai/){:target="_blank"}, as the free version creates more visually attractive web applications by default. Alternatively, you can use [Google Gemini](https://gemini.google.com/){:target="_blank"} (which comes free with Gmail), [ChatGPT](https://chatgpt.com/){:target="_blank"}, [Microsoft Copilot](https://copilot.microsoft.com/){:target="_blank"}, or any other GenAI tool that you are familiar with.
+![Screenshot of the Claude.ai home screen with the prompt box highlighted](images/7-jeopardy-1.png)
 {: .step}
 
 Step 2
@@ -87,7 +88,7 @@ Step 6
 {: .label .label-step}
 
 - The game needs pictures to shoot down! Create a folder called **images** in the same folder where you downloaded the HTML file, then either:
-  * Download the sample image pack for this activity: [defender-images.zip](assets/defender-images.zip), unzip it, and move the images into your **images** folder, or
+  * Download the sample image pack for this activity: [defender-images.zip](assets/defender-images.zip), unzip it, and move the images into your **images** folder (see image below), or
   * Add your own pictures. Name each file after the word it shows, in all lowercase (for example: `bear.png`). Simple, clear pictures with plain backgrounds work best for a fast-moving game.
 - On a Mac you simply **double-click** on the zip file and it will unzip. On Windows you **right mouse click** on the file and select **Extract All...**
 
