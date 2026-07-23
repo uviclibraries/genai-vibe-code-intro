@@ -6,8 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-# !!!UNDER CONSTRUCTION!!!
-# Make an Hospital Capacity Simulator App! 
+# Make a Hospital Capacity Simulator! 
 <img src="images/hospital-simulator-logo.png" style="float:right;width:320px;" alt="decorative"> 
 
 Hospital simulations are commonly used to help healthcare professionals and students understand how decisions about staffing, patient volume, and available resources affect hospital operations. In this activity, you will use a Generative AI tool to "vibe code" your own Hospital Capacity Simulator. By adjusting factors such as incoming patients, healthcare workers, hospital beds, and emergency room capacity, you'll explore how different situations can impact a hospital's ability to provide care.
