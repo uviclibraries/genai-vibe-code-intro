@@ -44,7 +44,7 @@ Step 1
 
 Step 2
 {: .label .label-step}
-- Copy and paste the following prompt into your GenAI tool (feel free to make changes) and then press **Enter** on your keyboard: <br>
+- Copy and paste the following example prompt into your GenAI tool (feel free to make changes based on your plan) and then press **Enter** on your keyboard: <br>
 
 ```
 I'd like to create an HTML file for a hospital capacity simulator.
