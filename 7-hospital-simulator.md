@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 7-Hospital Capacity Simulator UNDER CONSTRUCTION
+title: 7-Hospital Capacity Simulator 
 nav_order: 9
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
