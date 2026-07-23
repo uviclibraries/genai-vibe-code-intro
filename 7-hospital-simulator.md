@@ -79,6 +79,8 @@ Step 3
 - Next we need to wait a minute or two for the AI to read the web page and create the HTML file for you. While it works, you can watch it write the code.
 - If you are using Claude, it will display a preview of the webpage on the right side of the screen once it generates the file. Before downloading, you can review the preview and provide additional prompts if you would like to make any changes
 - Once it’s finished, click the Download button and make note of where you saved the file on your laptop (usually your Downloads folder).
+  
+![Annotated screenshot of the Artifact window with an arrow pointing to the Download button, and a second panel showing the downloaded HTML file opened in a browser](images/hospital-simulator-2.png)
 {: .step}
 
 Step 4
