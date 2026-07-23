@@ -34,6 +34,7 @@ filenames will be all lowercase. Put a phonetic pronunciation for English langua
 speakers under each letter. Here is an example of what I would like for the alphabet of a
 different language: https://dom-aya.github.io/ayajuthem-soundboard/
 ```
+![Screenshot of the prompt in input box](images/soundboard-02.png)
 {: .step}
 
 Step 3
