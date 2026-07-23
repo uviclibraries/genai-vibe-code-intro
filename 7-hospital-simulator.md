@@ -48,7 +48,7 @@ Step 2
 - Copy and paste the following prompt into your GenAI tool (feel free to make changes) and then press **Enter** on your keyboard: <br>
 
 ```
-Create an HTML file for a hospital capacity simulator.
+I'd like to create an HTML file for a hospital capacity simulator.
 
 The simulator should allow users to adjust healthcare system factors and see how they affect a hospital.
 
