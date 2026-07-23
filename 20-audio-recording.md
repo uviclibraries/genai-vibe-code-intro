@@ -8,11 +8,13 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # !!!UNDER CONSTRUCTION!!!
 # Recording High Quality Audio with an iPhone or iPad & DJI Mic Mini
-<img src="images/recording-audio-logo.png" style="float:right;width:300px;" alt="decorative">
+<img src="images/20-audio-record-logo.png" style="float:right;width:300px;" alt="decorative">
 
-Good source audio makes a big difference in an alphabet soundboard. Recording with a lavalier microphone like the DJI Mic Mini, instead of your phone's built-in mic, keeps the speaker's distance from the microphone constant for every letter, so all of your files come out at a similar volume with far less room echo. This matters most when you are recording with Elders and language keepers, where you may only get one session.
+Good source audio makes a huge difference in the quality and usability of language learning games. Recording with a microphone like the DJI Mic Mini, instead of your phone's built-in microphone, keeps the speaker's distance from the microphone constant for every letter, so all of your audio files come out at a similar volume with far less room echo. This matters most when you are recording with Elders and language keepers, where you may only get one session.
 
-By the end of this activity you will have one audio file per letter, named and trimmed, ready to use in a soundboard like the one in the [Alphabet Soundboard activity](https://uviclibraries.github.io/genai-vibe-code-intro/1-soundboard.html){:target="_blank"}. Here is a the [Claude Artifact that was the starting point for this workshop activity](https://claude.ai/public/artifacts/2ff5323b-81ed-44db-8a05-a4c3f3827cad){:target="_blank"}.
+By the end of this activity you will have one audio file per letter, named and trimmed, ready to use in a soundboard like the one in the [Alphabet Soundboard activity](https://uviclibraries.github.io/genai-vibe-code-intro/1-soundboard.html){:target="_blank"}, or any other language learning game. 
+
+> NOTE: Here is a the [Claude Artifact that was the starting point for this workshop activity](https://claude.ai/public/artifacts/2ff5323b-81ed-44db-8a05-a4c3f3827cad){:target="_blank"}.
 
 **What you need to have before you start:** 
 1. A charged DJI Mic Mini transmitter (TX) and receiver (RX)
