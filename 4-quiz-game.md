@@ -66,12 +66,16 @@ I've pasted below. The game should:
 
 - Shuffle the questions into a random order every time the game is played
 - Show one question at a time with True / False answer buttons
-- After the player answers, show whether they were right, plus the short explanation provided with each question
-- Keep a running score, and show a final score screen at the end with a "Play Again" button
-- If the player scores more than 7 out of 10, congratulate them and let them download a fun "badge" image (generated with the HTML canvas) as a PNG
+- After the player answers, show whether they were right, plus the short
+  explanation provided with each question
+- Keep a running score, and show a final score screen at the end with a
+  "Play Again" button
+- If the player scores more than 7 out of 10, congratulate them and let
+  them download a fun "badge" image (generated with the HTML canvas) as a PNG
 - Have a fun, colourful retro arcade visual style
 - Work well on both phones and laptops
-- Be a single self-contained HTML file with no external dependencies, so it can be hosted on GitHub Pages
+- Be a single self-contained HTML file with no external dependencies, so
+  it can be hosted on GitHub Pages
 
 Here are the 10 questions, answers, and explanations:
 [paste your 10 verified questions here*
