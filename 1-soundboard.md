@@ -72,6 +72,34 @@ Change the letter mapping to the letter files with the letters that have a glott
 that for example the c' file name is: c_glottal.mp3
 ```
 
+Step 8
+{: .label .label-step}
+
+- **Optional:** Share your soundboard with the world by publishing it for free on GitHub Pages. If you have a GitHub account:
+  * Create a new public repository and upload your HTML file (you will have to rename the file to index.html)
+  * In the repository, go to **Settings**, then **Pages**, and under **Branch** select **main**, then click **Save**
+  * After a minute or two your game will be live at `https://your-username.github.io/your-repository/your-game.html`
+- If you'd like a walkthrough of this process, ask your instructor or your GenAI tool for step-by-step GitHub Pages publishing instructions.
+
+Here's an example of how to upload a file on GitHub:
+    <button onclick="toggle('gif1')">Show/Hide Animation</button>
+    <div id="gif1">
+    <img src="images/workout-tracking-03.gif" style="width:700px;">
+    </div>
+
+<script>  
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
+
+---
+
 Congratulations on completing this Alphabet Soundboard vibe code project! Here's an example of a soundboard app crated for Language Revitalization purposes: [LiK'wala Soundboard for language learners](https://richmccue.github.io/likwala/likwala-soundboard.html){:target="_blank"}.
 
 [NEXT STEP: Eco Runner](2-eco-runner.html){: .btn .btn-blue }
