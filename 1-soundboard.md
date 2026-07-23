@@ -82,10 +82,12 @@ Step 8
 - If you'd like a walkthrough of this process, ask your instructor or your GenAI tool for step-by-step GitHub Pages publishing instructions.
 
 Here's an example of how to upload a file on GitHub:
-    <button onclick="toggle('gif2')">Show/Hide Animation</button>
-    <div id="gif2">
+
+    <button onclick="toggle('gi12')">Show/Hide Animation</button>
+    <div id="gif1">
     <img src="images/workout-tracking-03.gif" style="width:700px;">
     </div>
+    
 {: .step}
     
 ---
