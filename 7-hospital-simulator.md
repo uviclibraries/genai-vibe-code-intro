@@ -14,7 +14,7 @@ Hospital simulations are commonly used to help healthcare professionals and stud
 
 Here's an example of a Hospital Capacity Simulator created with this approach using Claude: [Hospital Capacity Simulator](https://mahumahmed.github.io/hospital-capacity-simulator/){:target="_blank"}. 
 
-And here's an example using Google Gemini: [Hospital Capacity Simulator](https://richmccue.github.io/learning-games/salish-sea-guardian.html){:target="_blank"}. 
+And here's another example using Google Gemini: [Hospital Capacity Simulator](https://mahumahmed.github.io/hospital-capacity-simulator2/){:target="_blank"}. 
 
 
 You can use any Generative AI tool for this activity, but for coding I'd recommend using Anthropic's [Claude](https://claude.ai/){:target="_blank"}, as the free version creates more visually attractive web applications by default. Alternatively, you can use [Google Gemini](https://gemini.google.com/){:target="_blank"} (which comes free with Gmail), [ChatGPT](https://chatgpt.com/){:target="_blank"}, [Microsoft Copilot](https://copilot.microsoft.com/){:target="_blank"}, or any other GenAI tool that you are familiar with.
