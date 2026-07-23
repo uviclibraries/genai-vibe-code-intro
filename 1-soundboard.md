@@ -86,6 +86,10 @@ Here's an example of how to upload a file on GitHub:
     <div id="gif1">
     <img src="images/workout-tracking-03.gif" style="width:700px;">
     </div>
+    
+---
+
+Congratulations on completing this Alphabet Soundboard vibe code project! Here's an example of a soundboard app crated for Language Revitalization purposes: [LiK'wala Soundboard for language learners](https://richmccue.github.io/likwala/likwala-soundboard.html){:target="_blank"}.
 
 <script>  
     function toggle(input) {
@@ -98,8 +102,5 @@ Here's an example of how to upload a file on GitHub:
     }
 </script>
 
----
-
-Congratulations on completing this Alphabet Soundboard vibe code project! Here's an example of a soundboard app crated for Language Revitalization purposes: [LiK'wala Soundboard for language learners](https://richmccue.github.io/likwala/likwala-soundboard.html){:target="_blank"}.
 
 [NEXT STEP: Eco Runner](2-eco-runner.html){: .btn .btn-blue }
