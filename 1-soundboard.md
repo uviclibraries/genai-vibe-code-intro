@@ -80,6 +80,7 @@ Step 8
   * In the repository, go to **Settings**, then **Pages**, and under **Branch** select **main**, then click **Save**
   * After a minute or two your game will be live at `https://your-username.github.io/your-repository/your-game.html`
 - If you'd like a walkthrough of this process, ask your instructor or your GenAI tool for step-by-step GitHub Pages publishing instructions.
+- Here is an example on how to publish your file:
 
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
