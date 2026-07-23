@@ -97,7 +97,14 @@ Add a statistics page that tracks the hospital's average efficiency score, wait 
 ```
 {: .step}
 
-Step 5 (optional)
+Step 5
+{: .label .label-step}
+- If you created your simulator in Claude, [it should look something like this](https://mahumahmed.github.io/hospital-capacity-simulator/){:target="_blank"}.
+- Try moving the sliders, selecting different "Today's Conditions," and clicking Run Simulation. Watch how the hospital responds as patient demand and available resources change.
+- If something isn't working as expected, ask your instructor or your GenAI tool for help troubleshooting the HTML file.
+{: .step}
+
+Step 6 (optional)
 {: .label .label-step}
 - If you'd like to share your simulator to the world, you can publish it for free with GitHub Pages:
   * Create a free account at [github.com](https://github.com/) if you don't already have one.
@@ -108,12 +115,6 @@ Step 5 (optional)
 
 {: .step}
 
-Step 6
-{: .label .label-step}
-- If you created your simulator in Claude, [it should look something like this](https://mahumahmed.github.io/hospital-capacity-simulator/){:target="_blank"}.
-- Try moving the sliders, selecting different "Today's Conditions," and clicking Run Simulation. Watch how the hospital responds as patient demand and available resources change.
-- If something isn't working as expected, ask your instructor or your GenAI tool for help troubleshooting the HTML file.
-{: .step}
 
 Congratulations on completing this vibe code project!
 
