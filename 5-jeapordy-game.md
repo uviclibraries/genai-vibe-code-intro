@@ -44,8 +44,6 @@ Please output the clues and responses as plain text organized by category, not a
 or a table.
 ```
 
-![Screenshot of the prompt pasted into the GenAI chat box](images/7-jeopardy-2.png)
-
 {: .step}
 
 Step 3
@@ -80,6 +78,8 @@ https://richmccue.github.io/learning-games/jeopardy.html
 Here are the questions and answers to use:
 [paste your verified questions and answers here]
 ```
+
+![Screenshot of the prompt pasted into the GenAI chat box](images/7-jeopardy-2.png)
 {: .step}
 
 Step 5
