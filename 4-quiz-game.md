@@ -19,6 +19,7 @@ If you get stuck, please ask your instructor for assistance, and don't forget to
 Step 1
 {: .label .label-step}
 - You can use any Generative AI tool for this activity, but for coding I'd recommend using Anthropic's [Claude](https://claude.ai/){:target="_blank"}, as the free version creates more visually attractive web applications by default. Alternatively, you can use [Google Gemini](https://gemini.google.com/){:target="_blank"} (which comes free with Gmail), [ChatGPT](https://chatgpt.com/){:target="_blank"}, [Microsoft Copilot](https://copilot.microsoft.com/){:target="_blank"}, or any other GenAI tool that you are familiar with.
+![Screenshot of the Claude.ai home screen with the prompt box highlighted](images/7-jeopardy-1.png)
 {: .step}
  
 Step 2
