@@ -35,23 +35,16 @@ Step 1
 
 ![DJI Mic Mini charging case, open, with callouts on: 1 the transmitters, 2 the receiver, 3 the receiver status LED](images/audio-01-case.png)
 
-1. Transmitters (TX): clip one to the speaker. You only need one for this activity.
-2. Receiver (RX): this plugs into your iPhone in Step 2.
-3. Receiver status LED: solid green means the TX and RX are linked.
-
 Step 2
 {: .label .label-step}
 
-- Make sure both the DJI Mic Min receiver and microphone are turned on.
-- Connect the DJI Mic Mini receiver to your phone by pluggin the USB-C cable directly into the **charging port on the bottom of your iPhone**, and then to the receiver itself (NOTE: On an iPhone with a Lightning port, use a lighting to USB-C cable and attach the  receiver first).
+- Make sure both the DJI Mic Mini receiver and microphone are turned on **before** plugging in your iPhone.
+- Connect the DJI Mic Mini receiver to your phone by plugging the USB-C cable directly into the **charging port on the bottom of your iPhone**, and then to the receiver itself (NOTE: On an iPhone with a Lightning port, use a lighting to USB-C cable and attach the  receiver first).
 - Once connected, your phone treats the receiver as an **external microphone**, so apps like Voice Memos use it automatically instead of the built-in mic.
+- The green LED confirms it is linked to the TX.
 {: .step}
 
 ![The DJI receiver plugged into the bottom of an iPhone, with callouts on: 1 the USB-C cable, 2 the receiver connected to the phone](images/audio-02-receiver-plugged-in.png)
-
-1. The USB-C cable plugs into the phone's charging port.
-2. The other end of the USB-C cable plugs into the receiver
-3. The green LED confirms it is linked to the TX.
 
 Step 3
 {: .label .label-step}
@@ -60,16 +53,13 @@ Step 3
 - **Noise cancelling:** pressing the transmitter's power button once toggles noise cancelling, and the TX LED turns solid yellow when it is on. In a quiet room, leave it **off** for the most natural vowel and consonant sounds. Only use it if you cannot avoid steady background noise like a ventilation hum.
 {: .step}
 
-![A speaker with the transmitter clipped mid-chest, showing the 15 to 20 cm distance from mouth to microphone](images/audio-03-mic-placement.png)
-
-1. Clip the TX mid-chest with the capsule pointing up. Using the same spot every session keeps volume consistent.
-2. Aim for a hand-span between mouth and mic. Closer sounds boomy, farther picks up the room.
-
 Step 4
 {: .label .label-step}
 
-- With the receiver plugged in, open the **DJI Mimo** app on your iPhone. The first time you connect, allow any permission prompts and let the app finish a firmware update if one is offered. Mimo should automatically open a **device page** for the receiver, showing the connected transmitter, its battery level, a live level meter, and a gain control. If you land on the camera view instead, tap the **device or settings icon** to reach the device page.
-- You will only use Mimo to **set gain and check levels**. The actual recording happens in Voice Memos in Step 6.
+- With the receiver plugged in, open the **DJI Mimo** app on your iPhone. The first time you connect, allow any permission prompts and let the app finish a firmware update if one is offered.
+- Once the receiver is connected, a pop-up will appear saying "DJI Mic Mini detected." Tap **Go to Settings** to open the device page.
+- On the device page, you'll see the connected transmitter, its battery level, and a live audio level meter.
+- You will only use Mimo to **check levels**. The actual recording happens in Voice Memos in Step 6.
 {: .step}
 
 Step 5
@@ -77,32 +67,24 @@ Step 5
 
 - Gain is how strongly the receiver amplifies the microphone signal. Set it once, properly, and every letter you record afterwards will be at a healthy volume.
 - On the Mimo device page, find the **live level meter**, which bounces as the speaker talks. Have the speaker say a few practice letters **at the exact volume and distance they will use for the real recording**, including the loudest letters, since open vowels like "A" tend to peak highest.
-- Watch where the meter peaks, then drag the **gain slider** up or down until the loudest letters peak at roughly **two-thirds to three-quarters of the meter** (around -12 dB if the meter shows numbers). Peaks should **never hit the red zone**, which means clipping and permanent distortion.
+- Watch where the meter peaks, then turn the **physical gain dial** on the receiver until the loudest letters peak at roughly **two-thirds to three-quarters of the meter** (around **-12 dB** if the meter shows numbers). Peaks should **never hit the red zone**, which means clipping and permanent distortion. 
 - You can also adjust gain with the **physical dial on the receiver itself**, which changes the same setting. The slider in Mimo is easier to set precisely, and the meter gives you instant feedback either way. The gain setting is **saved on the receiver**, so it stays in effect when you switch over to Voice Memos.
 - **Too hot vs. too quiet:** a slightly quiet recording can be boosted later with no harm, but a clipped (red-lined) recording is ruined and cannot be fixed. When in doubt, aim a little low.
 {: .step}
 
 ![The DJI Mimo device page with callouts on: 1 the live level meter, 2 the gain slider, 3 the gain dial on the receiver, 4 the noise cancelling control](images/audio-04-mimo-gain.jpg)
 
-1. Live level meter: green is healthy, yellow means you are close to the limit, red means clipping. Aim for peaks at about -12 dB.
-2. Gain slider: drag left or right while the speaker says test letters until peaks sit just below the red zone.
-3. Alternative: rotate the dial on the receiver itself to change the same gain setting.
-4. Noise cancelling control: leave off in a quiet room for the most natural sound.
-
 **Note on headphone monitoring:** the Mic Mini receiver has no headphone jack, so you monitor visually with the Mimo meter, then confirm by ear with the playback test in Step 6. If you need live headphone monitoring for future projects, that feature is on DJI's higher-end receivers.
 
 Step 6
 {: .label .label-step}
 
-- Leave the receiver plugged in and open the **Voice Memos** app. Your gain setting from Step 5 is stored on the receiver, so there is nothing to redo here.
+- Leave the receiver plugged in and open the **Voice Memos** app. 
 - Tap the **red record button**, have the speaker say two or three letters, then tap stop. Play it back through headphones plugged into or paired with the **phone**, and listen for clear speech, no crackle or distortion on loud letters, and low room echo. If anything sounds off, go back to Mimo and adjust the gain before recording for real.
 - **Verify the right mic is in use:** gently scratch the transmitter capsule during your test. If you hear the scratch loudly on playback, the DJI mic is active. If tapping the phone itself is what comes through, the receiver is not connected properly, so unplug it and reseat it.
 {: .step}
 
 ![The Voice Memos main screen with callouts on: 1 the red record button, 2 the list of finished memos](images/audio-05-voice-memos.jpg)
-
-1. Tap the red button to start recording. It becomes a stop button while recording.
-2. Each finished recording appears in this list, newest at the top.
 
 Step 7
 {: .label .label-step}
@@ -128,9 +110,6 @@ Step 8
 
 ![Renaming a memo in Voice Memos, with callouts on: 1 the editable title field, 2 a memo already renamed to the letter a](images/audio-07-renaming.jpg)
 
-1. Tap the memo, then tap its name, and the title becomes an editable text field.
-2. Renamed memos show the letter as their title, which makes the export in Step 10 painless.
-
 Step 9
 {: .label .label-step}
 
@@ -140,10 +119,6 @@ Step 9
 {: .step}
 
 ![The Voice Memos trim screen with callouts on: 1 the left trim handle, 2 the right trim handle, 3 the Trim button](images/audio-08-trimming.jpg)
-
-1. Drag the left yellow handle to just before the letter begins.
-2. Drag the right handle to just after the letter ends.
-3. **Trim** keeps what is between the handles, while **Delete** removes it, so make sure you tap Trim.
 
 Step 10
 {: .label .label-step}
