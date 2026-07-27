@@ -38,13 +38,12 @@ Step 1
 Step 2
 {: .label .label-step}
 
+<img src="images/audio-02.png" style="float:right;width:300px;">
 - Make sure both the DJI Mic Mini receiver and microphone are turned on **before** plugging in your iPhone.
 - Connect the DJI Mic Mini receiver to your phone by plugging the USB-C cable directly into the **charging port on the bottom of your iPhone**, and then to the receiver itself (NOTE: On an iPhone with a Lightning port, use a lighting to USB-C cable and attach the  receiver first). 
 - Once connected, your phone treats the receiver as an **external microphone**, so apps like Voice Memos use it automatically instead of the built-in mic.
 - The green LED confirms it is linked to the TX.
 {: .step}
-
-<img src="images/audio-02.png" style="float:right;width:300px;">
 
 Step 3
 {: .label .label-step}
@@ -60,7 +59,7 @@ Step 4
 - Once the receiver is connected, a pop-up will appear saying "DJI Mic Mini detected." Tap **Go to Settings** to open the device page.
 - On the device page, you'll see the connected transmitter, its battery level, and a live audio level meter.
 - You will only use Mimo to **check levels**. The actual recording happens in Voice Memos in Step 6.
-<img src="images/audio-04.png" style="float:right;width:300px;">
+<img src="images/audio-04.PNG" style="float:right;width:300px;">
 {: .step} 
 
 Step 5
@@ -69,7 +68,9 @@ Step 5
 - Gain is how strongly the receiver amplifies the microphone signal. Set it once, properly, and every letter you record afterwards will be at a healthy volume.
 - On the Mimo device page, find the **live level meter**, which bounces as the speaker talks. Have the speaker say a few practice letters **at the exact volume and distance they will use for the real recording**, including the loudest letters, since open vowels like "A" tend to peak highest.
 - Watch where the meter peaks, then turn the **physical gain dial** on the receiver until the loudest letters peak at roughly **two-thirds to three-quarters of the meter** (around **-12 dB** if the meter shows numbers). Peaks should **never hit the red zone**, which means clipping and permanent distortion.
+
 ![The DJI Physical Dial](images/audio-03.gif)
+
 - **Too hot vs. too quiet:** a slightly quiet recording can be boosted later with no harm, but a clipped (red-lined) recording is ruined and cannot be fixed. When in doubt, aim a little low.
 {: .step}
 
