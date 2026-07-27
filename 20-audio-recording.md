@@ -45,6 +45,7 @@ Step 2
 {: .step}
 
 ![The DJI receiver plugged into the bottom of an iPhone, with callouts on: 1 the USB-C cable, 2 the receiver connected to the phone](images/audio-02.png)
+<img src="images/audio-01.png">
 
 Step 3
 {: .label .label-step}
