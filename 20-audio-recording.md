@@ -33,7 +33,7 @@ Step 1
 - If a unit is off, **press and hold its power button for two seconds**. Check that the status LED on the receiver is **solid green**, which means the TX and RX are linked and ready.
 {: .step}
 
-![DJI Mic Mini charging case, open, with callouts on: 1 the transmitters, 2 the receiver, 3 the receiver status LED](images/audio-01-case.png)
+![DJI Mic Mini charging case, open, with callouts on: 1 the transmitters, 2 the receiver, 3 the receiver status LED](images/audio-01.png)
 
 Step 2
 {: .label .label-step}
@@ -44,7 +44,7 @@ Step 2
 - The green LED confirms it is linked to the TX.
 {: .step}
 
-![The DJI receiver plugged into the bottom of an iPhone, with callouts on: 1 the USB-C cable, 2 the receiver connected to the phone](images/audio-02-receiver-plugged-in.png)
+![The DJI receiver plugged into the bottom of an iPhone, with callouts on: 1 the USB-C cable, 2 the receiver connected to the phone](images/audio-02.png)
 
 Step 3
 {: .label .label-step}
