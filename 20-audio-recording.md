@@ -66,11 +66,8 @@ Step 4
 Step 5
 {: .label .label-step}
 
-- Gain is how strongly the receiver amplifies the microphone signal. Set it once, properly, and every letter you record afterwards will be at a healthy volume.
+- Gain is how strongly the receiver amplifies the microphone signal. Set it once, properly, and every letter you record afterwards will be at a healthy volume. <img src="images/audio-05.PNG" style="float:right;width:250px;">
 - On the Mimo device page, find the **live level meter**, which bounces as the speaker talks. Have the speaker say a few practice letters **at the exact volume and distance they will use for the real recording**, including the loudest letters, since open vowels like "A" tend to peak highest.
-
-<img src="images/audio-04.PNG" style="float:right;width:250px;">
-  
 - Watch where the meter peaks, then turn the **physical gain dial** on the receiver until the loudest letters peak at roughly **two-thirds to three-quarters of the meter** (around **-12 dB** if the meter shows numbers). Peaks should **never hit the red zone**, which means clipping and permanent distortion.
 
 ![The DJI Physical Dial](images/audio-03.gif)
