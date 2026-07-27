@@ -48,7 +48,7 @@ Step 2
 Step 3
 {: .label .label-step}
 
-- Clip the transmitter to the speaker's collar or shirt, about **15 to 20 cm (a hand-span) below their chin**, with the mic capsule pointing up toward their mouth. Attach the furry windscreen if you are anywhere near a fan, vent, or open window, and keep the transmitter clear of jewellery, lanyards, zippers, and hair that could brush against it between letters.
+- Clip the transmitter to the speaker's collar or shirt, about **15 to 20 cm (a hand-span) below their chin**, with the mic capsule pointing up toward their mouth. Attach the furry windscreen if you are anywhere near a fan, vent, or open window, and keep the transmitter clear of jewelry, lanyards, zippers, and hair that could brush against it between letters.
 - **Noise cancelling:** pressing the transmitter's power button once toggles noise cancelling, and the TX LED turns solid yellow when it is on. In a quiet room, leave it **off** for the most natural vowel and consonant sounds. Only use it if you cannot avoid steady background noise like a ventilation hum.
 {: .step}
 
@@ -68,6 +68,9 @@ Step 5
 
 - Gain is how strongly the receiver amplifies the microphone signal. Set it once, properly, and every letter you record afterwards will be at a healthy volume.
 - On the Mimo device page, find the **live level meter**, which bounces as the speaker talks. Have the speaker say a few practice letters **at the exact volume and distance they will use for the real recording**, including the loudest letters, since open vowels like "A" tend to peak highest.
+
+<img src="images/audio-04.PNG" style="float:right;width:250px;">
+  
 - Watch where the meter peaks, then turn the **physical gain dial** on the receiver until the loudest letters peak at roughly **two-thirds to three-quarters of the meter** (around **-12 dB** if the meter shows numbers). Peaks should **never hit the red zone**, which means clipping and permanent distortion.
 
 ![The DJI Physical Dial](images/audio-03.gif)
