@@ -91,7 +91,7 @@ Step 6
 
 Step 7
 {: .label .label-step}
-- Record each letter as its **own memo** so you don't have to split one long file later. For each letter, follow the same rhythm: **start recording, wait about half a second, say the letter, wait another half second, then tap the square stop button**. The waveform should show **one clear burst** (the letter) with flat, quiet sections on either side. <img src="images/audio-07.jpg" style="float:right;width:250px;">
+- Record each letter as its **own memo** so you don't have to split one long file later. For each letter, follow the same rhythm: **start recording, wait about half a second, say the letter, wait another half second, then tap the square stop button**. The waveform should show **one clear burst** (the letter) with flat, quiet sections on either side. <img src="images/audio-07.jpg" style="float:right;width:300px;">
 - Work through the alphabet **in order** from your printed list, ticking off each letter as you go, so nothing gets missed and the memo list matches the alphabet. If a take is flubbed, don't agonize over it—just stop, delete or ignore it, and record the letter again.
 - Keep the speaker's **volume and distance identical** for every letter, and resist leaning in for quiet letters. For letters with glottal stops or other sounds that are easy to under-articulate, consider recording **two takes** so a language keeper can choose the better one later. The short, quiet sections before and after each letter also give you room to trim cleanly in Step 9.
 {: .step}
@@ -105,17 +105,15 @@ Step 8
 - Do this **immediately after each recording session**, while you can still match memos to letters by order and by ear.
 {: .step}
 
-![Renaming a memo in Voice Memos, with callouts on: 1 the editable title field, 2 a memo already renamed to the letter a](images/audio-07-renaming.jpg)
+![Renaming a memo in Voice Memos](images/audio-10.gif)
 
 Step 9
 {: .label .label-step}
 
 - A soundboard feels snappy when audio starts almost instantly after a tap. Trimming each memo to leave only about a quarter-second of silence before the letter makes a big difference.
 - Tap a memo, tap the **three-dot menu (...)**, then choose **Edit Recording**. Tap the **crop/trim icon** in the top corner, and yellow **trim handles** appear at each end of the waveform.
-- Drag the handles inward so a sliver of silence remains before and after the letter, then tap **Trim** to keep only the selected region, and tap **Save**. Play it back once to confirm the letter is not cut off at the start.
+- Drag the handles inward so a sliver of silence remains before and after the letter, then tap **Trim** to keep only the selected region, and tap **Save**. Play it back once to confirm the letter is not cut off at the start. <img src="images/audio-09.jpg" style="float:right;width:300px;">
 {: .step}
-
-![The Voice Memos trim screen with callouts on: 1 the left trim handle, 2 the right trim handle, 3 the Trim button](images/audio-08-trimming.jpg)
 
 Step 10
 {: .label .label-step}
