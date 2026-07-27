@@ -50,7 +50,7 @@ Step 3
 
 - Clip the transmitter to the speaker's collar or shirt, about **15 to 20 cm (a hand-span) below their chin**, with the mic capsule pointing up toward their mouth. Attach the furry windscreen if you are anywhere near a fan, vent, or open window, and keep the transmitter clear of jewelry, lanyards, zippers, and hair that could brush against it between letters.
 - **Noise cancelling:** pressing the transmitter's power button once toggles noise cancelling, and the TX LED turns solid yellow when it is on. In a quiet room, leave it **off** for the most natural vowel and consonant sounds. Only use it if you cannot avoid steady background noise like a ventilation hum.
-![Noise cancelling control](images/audio-04-mimo-gain.jpg)
+
 {: .step}
 
 Step 4
