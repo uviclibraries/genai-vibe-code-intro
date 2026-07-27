@@ -109,10 +109,10 @@ Step 8
 
 Step 9
 {: .label .label-step}
-
+<img src="images/audio-09.jpg" style="float:right;width:300px;">
 - A soundboard feels snappy when audio starts almost instantly after a tap. Trimming each memo to leave only about a quarter-second of silence before the letter makes a big difference.
 - Tap a memo, tap the **three-dot menu (...)**, then choose **Edit Recording**. Tap the **crop/trim icon** in the top corner, and yellow **trim handles** appear at each end of the waveform.
-- Drag the handles inward so a sliver of silence remains before and after the letter, then tap **Trim** to keep only the selected region, and tap **Save**. Play it back once to confirm the letter is not cut off at the start. <img src="images/audio-09.jpg" style="float:right;width:300px;">
+- Drag the handles inward so a sliver of silence remains before and after the letter, then tap **Trim** to keep only the selected region, and tap **Save**. Play it back once to confirm the letter is not cut off at the start. 
 {: .step}
 
 Step 10
