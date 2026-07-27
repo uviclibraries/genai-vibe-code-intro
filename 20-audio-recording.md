@@ -50,6 +50,7 @@ Step 3
 
 - Clip the transmitter to the speaker's collar or shirt, about **15 to 20 cm (a hand-span) below their chin**, with the mic capsule pointing up toward their mouth. Attach the furry windscreen if you are anywhere near a fan, vent, or open window, and keep the transmitter clear of jewelry, lanyards, zippers, and hair that could brush against it between letters.
 - **Noise cancelling:** pressing the transmitter's power button once toggles noise cancelling, and the TX LED turns solid yellow when it is on. In a quiet room, leave it **off** for the most natural vowel and consonant sounds. Only use it if you cannot avoid steady background noise like a ventilation hum.
+![Noise cancelling control](images/audio-04-mimo-gain.jpg)
 {: .step}
 
 Step 4
@@ -75,7 +76,6 @@ Step 5
 - **Too hot vs. too quiet:** a slightly quiet recording can be boosted later with no harm, but a clipped (red-lined) recording is ruined and cannot be fixed. When in doubt, aim a little low.
 {: .step}
 
-![The DJI Mimo device page with callouts on: 1 the live level meter, 2 the gain slider, 3 the gain dial on the receiver, 4 the noise cancelling control](images/audio-04-mimo-gain.jpg)
 
 **Note on headphone monitoring:** the Mic Mini receiver has no headphone jack, so you monitor visually with the Mimo meter, then confirm by ear with the playback test in Step 6. If you need live headphone monitoring for future projects, that feature is on DJI's higher-end receivers.
 
@@ -91,17 +91,11 @@ Step 6
 
 Step 7
 {: .label .label-step}
-
-- Recording each letter as its **own memo** saves you from having to split one long file later. The rhythm is: record, half-second pause, say the letter, half-second pause, stop.
-- Work through the alphabet **in order** from your printed list, ticking off each letter, so nothing gets missed and the memo list matches the alphabet. If a take is flubbed, do not agonize: stop, delete or ignore it, and record the letter again.
-- Keep the speaker's **volume and distance identical** for every letter, and resist leaning in for quiet letters. For letters with glottal stops or other sounds that are easy to under-articulate, consider recording **two takes** so a language keeper can pick the better one later.
+- Record each letter as its **own memo** so you don't have to split one long file later. For each letter, follow the same rhythm: **start recording, wait about half a second, say the letter, wait another half second, then tap the square stop button**. The waveform should show **one clear burst** (the letter) with flat, quiet sections on either side. <img src="images/audio-07.jpg" style="float:right;width:250px;">
+- Work through the alphabet **in order** from your printed list, ticking off each letter as you go, so nothing gets missed and the memo list matches the alphabet. If a take is flubbed, don't agonize over it—just stop, delete or ignore it, and record the letter again.
+- Keep the speaker's **volume and distance identical** for every letter, and resist leaning in for quiet letters. For letters with glottal stops or other sounds that are easy to under-articulate, consider recording **two takes** so a language keeper can choose the better one later. The short, quiet sections before and after each letter also give you room to trim cleanly in Step 9.
 {: .step}
 
-![Voice Memos while recording, with callouts on: 1 the live waveform, 2 the stop button, 3 the flat waveform tails created by the pauses](images/audio-06-recording.jpg)
-
-1. The waveform should show one clear burst (the letter) with flat, quiet sections either side.
-2. Tap the square stop button about half a second after the letter ends.
-3. Those flat tails give you room to trim cleanly in Step 9.
 
 Step 8
 {: .label .label-step}
