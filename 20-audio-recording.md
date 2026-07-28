@@ -14,9 +14,8 @@ Good source audio makes a huge difference in the quality and usability of langua
 
 By the end of this activity you will have one audio file per letter, named and trimmed, ready to use in a soundboard like the one in the [Alphabet Soundboard activity](https://uviclibraries.github.io/genai-vibe-code-intro/1-soundboard.html){:target="_blank"}, or any other language learning game. 
 
-> NOTE: Here is a the [Claude Artifact that was the starting point for this workshop activity](https://claude.ai/public/artifacts/2ff5323b-81ed-44db-8a05-a4c3f3827cad){:target="_blank"}.
+## What you need to have before you start:
 
-**What you need to have before you start:** 
 1. A charged DJI Mic Mini transmitter (TX) and receiver (RX)
 2. An iPhone (plus the Lightning to USB-C cable if your iPhone has a Lightning port)
 3. The free [DJI Mimo app](https://apps.apple.com/app/dji-mimo/id1431720653){:target="_blank"}
@@ -125,11 +124,12 @@ Step 10
 - Voice Memos exports **.m4a** files, so a memo named `a` arrives as `a.m4a`.
 - Modern browsers play m4a just fine, so the simplest path is to tell your soundboard prompt that the files are named wich `.m4a` extensions.
 
-## Working with community language keepers?** 
-Before publishing recordings of an Indigenous language please remember to:
+## Working with community language keepers?
+Before publishing recordings of any Indigenous language please remember to:
+- Ask for permission to record
+- Confirm who the audio recordings can be shared with (e.g. community members only, public, researchers)
 - Confirm spellings
 - Confirm pronunciations
-- Ask for permission to share with the appropriate community members
 - Keep the untrimmed originals archived so nothing is lost
 
 ## Quick troubleshooting
@@ -142,7 +142,6 @@ Before publishing recordings of an Indigenous language please remember to:
 | Hiss or roomy echo | Mic too far from the mouth, or a noisy room. Recheck the 15 to 20 cm placement and turn off fans and HVAC if possible. |
 | Recordings vary in volume letter to letter | Speaker distance or volume drifted. Re-set placement and ask for a consistent, relaxed speaking voice. |
 | Mimo shows no device page | Update the Mimo app and the Mic Mini firmware, then unplug and reconnect the receiver. |
-
 
 Congratulations on recording a full set of alphabet audio files! With a folder of named, trimmed letter files, you are ready to build or update a soundboard. Just mention the file extension you ended up with (.m4a or .mp3) in your prompt so the generated code matches your filenames.
 
