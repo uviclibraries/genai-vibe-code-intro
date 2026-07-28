@@ -81,7 +81,9 @@ Step 5
 Step 6
 {: .label .label-step}
 - Leave the receiver plugged in and open the **Voice Memos** app. 
-- Tap the **red record button**, have the speaker say two or three letters, then tap stop. Play it back through headphones plugged into or paired with the **phone**, and listen for clear speech, no crackle or distortion on loud letters, and low room echo. If anything sounds off, go back to Mimo and adjust the gain before recording for real.
+- Tap the **red record button**, have the speaker say two or three letters, then tap stop.
+- Play it back through headphones plugged into or paired with the **phone**, and listen for clear speech, no crackle or distortion on loud letters, and low room echo.
+- If anything sounds off, go back to **Mimo in Step 5** and adjust the gain before recording for real.
 - **Verify the right mic is in use:** gently scratch the transmitter capsule during your test. If you hear the scratch loudly on playback, the DJI mic is active. If tapping the phone itself is what comes through, the receiver is not connected properly, so unplug it and reseat it.
 {: .step}
 
