@@ -80,7 +80,6 @@ Step 5
 
 Step 6
 {: .label .label-step}
-
 - Leave the receiver plugged in and open the **Voice Memos** app. 
 - Tap the **red record button**, have the speaker say two or three letters, then tap stop. Play it back through headphones plugged into or paired with the **phone**, and listen for clear speech, no crackle or distortion on loud letters, and low room echo. If anything sounds off, go back to Mimo and adjust the gain before recording for real.
 - **Verify the right mic is in use:** gently scratch the transmitter capsule during your test. If you hear the scratch loudly on playback, the DJI mic is active. If tapping the phone itself is what comes through, the receiver is not connected properly, so unplug it and reseat it.
@@ -90,8 +89,10 @@ Step 6
 Step 7
 {: .label .label-step}
 - Record each letter as its **own memo** so you don't have to split one long file later. For each letter, follow the same rhythm: **start recording, wait about half a second, say the letter, wait another half second, then tap the square stop button**. The waveform should show **one clear burst** (the letter) with flat, quiet sections on either side. <img src="images/audio-07.jpg" style="float:right;width:300px;">
-- Work through the alphabet **in order** from your printed list, ticking off each letter as you go, so nothing gets missed and the memo list matches the alphabet. If a take is flubbed, don't agonize over it—just stop, delete or ignore it, and record the letter again.
-- Keep the speaker's **volume and distance identical** for every letter, and resist leaning in for quiet letters. For letters with glottal stops or other sounds that are easy to under-articulate, consider recording **two takes** so a language keeper can choose the better one later. The short, quiet sections before and after each letter also give you room to trim cleanly in Step 9.
+- Work through the alphabet **in order** from your printed list, ticking off each letter as you go, so nothing gets missed and the memo list matches the alphabet.
+- If a take is flubbed, don't agonize over it—just stop, delete or ignore it, and record the letter again.
+- Keep the speaker's **volume and distance identical** for every letter, and resist leaning in for quiet letters.
+- For letters with glottal stops or other sounds that are easy to under-articulate, consider recording **two takes** so a language keeper can choose the better one later. The short, quiet sections before and after each letter also give you room to trim cleanly in Step 9.
 {: .step}
 
 
