@@ -87,7 +87,6 @@ Step 6
 - **Verify the right mic is in use:** gently scratch the transmitter capsule during your test. If you hear the scratch loudly on playback, the DJI mic is active. If tapping the phone itself is what comes through, the receiver is not connected properly, so unplug it and reseat it.
 {: .step}
 
-![The Voice Memos main screen with callouts on: 1 the red record button, 2 the list of finished memos](images/audio-05-voice-memos.jpg)
 
 Step 7
 {: .label .label-step}
