@@ -24,7 +24,7 @@ By the end of this activity you will have one audio file per letter, named and t
 5. A quiet room
 6. A digital or printed list of the alphabet you are recording
 
-If you get stuck, please ask your instructor for assistance!
+**If you get stuck, please ask your instructor for assistance or look at the Quick troubleshooting section at the bottom of this page!**
 
 Step 1
 {: .label .label-step}
@@ -43,7 +43,7 @@ Step 2
 - Make sure both the DJI Mic Mini receiver and microphone are turned on **before** plugging in your iPhone.
 - Connect the DJI Mic Mini receiver to your phone by plugging the USB-C cable directly into the **charging port on the bottom of your iPhone**, and then to the receiver itself (NOTE: On an iPhone with a Lightning port, use a lighting to USB-C cable and attach the  receiver first). 
 - Once connected, your phone treats the receiver as an **external microphone**, so apps like Voice Memos use it automatically instead of the built-in mic.
-- The green LED confirms it is linked to the TX.
+- The green LED below the 1 or 2 on the receiver confirms it is linked to the microphone transmitter.
 {: .step}
 
 Step 3
