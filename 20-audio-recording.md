@@ -125,6 +125,13 @@ Step 10
 - Voice Memos exports **.m4a** files, so a memo named `a` arrives as `a.m4a`.
 - Modern browsers play m4a just fine, so the simplest path is to tell your soundboard prompt that the files are named wich `.m4a` extensions.
 
+## Working with community language keepers?** 
+Before publishing recordings of an Indigenous language please remember to:
+- Confirm spellings
+- Confirm pronunciations
+- Ask for permission to share with the appropriate community members
+- Keep the untrimmed originals archived so nothing is lost
+
 ## Quick troubleshooting
 
 | Problem | Likely cause and fix |
@@ -136,12 +143,6 @@ Step 10
 | Recordings vary in volume letter to letter | Speaker distance or volume drifted. Re-set placement and ask for a consistent, relaxed speaking voice. |
 | Mimo shows no device page | Update the Mimo app and the Mic Mini firmware, then unplug and reconnect the receiver. |
 
-## Working with community language keepers?** 
-Before publishing recordings of an Indigenous language please remember to:
-- Confirm spellings
-- Confirm pronunciations
-- Ask for permission to share with the appropriate community members
-- Keep the untrimmed originals archived so nothing is lost
 
 Congratulations on recording a full set of alphabet audio files! With a folder of named, trimmed letter files, you are ready to build or update a soundboard. Just mention the file extension you ended up with (.m4a or .mp3) in your prompt so the generated code matches your filenames.
 
