@@ -99,9 +99,10 @@ Step 7
 Step 8
 {: .label .label-step}
 
-- In the Voice Memos list, **tap a recording** to expand it, then **tap its title** ("New Recording 7") to make it editable. Type the letter as the new name, using **lowercase** to match the filenames your soundboard expects, for example `a`, `b`, `c`.
+- In the Voice Memos list, **tap a recording** to expand it, then **tap its title** ("New Recording 7") to make it editable.
+- Type the letter as the new name, using **lowercase** to match the filenames your soundboard expects, for example `a`, `b`, `c`.
 - For letters with diacritics or glottal stops, use a plain-text name that matches your app's file mapping, for example `c_glottal` rather than `c'`, since apostrophes cause trouble in filenames and URLs. This matches the glottal stop prompt in Step 7 of the [Alphabet Soundboard activity](https://uviclibraries.github.io/genai-vibe-code-intro/1-soundboard.html){:target="_blank"}.
-- Do this **immediately after each recording session**, while you can still match memos to letters by order and by ear.
+- Give each recording a descriptive name **immediately after each recording session**, while you can still match memos to letters by order and by ear.
 {: .step}
 
 ![Renaming a memo in Voice Memos](images/audio-10.gif)
