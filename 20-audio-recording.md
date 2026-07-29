@@ -1,12 +1,11 @@
 ---
 layout: default
-title: 20-Recording Alphabet Audio UNDER CONSTRUCTION
+title: 20-Recording Alphabet Audio
 nav_order: 21
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-# !!!UNDER CONSTRUCTION!!!
 # Recording High Quality Audio with an iPhone or iPad & DJI Mic Mini
 <img src="images/20-audio-record-logo.png" style="float:right;width:300px;" alt="decorative">
 
