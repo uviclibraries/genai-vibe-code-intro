@@ -11,10 +11,6 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 Sound boards can be very helpful for people learning a new laguages begin to learn the sounds of letters at their own pace with as much or as little repitition as needed. Here's an example of a soundboard app crated for Language Revitalization purposes: [LiK'wala Soundboard for language learners](https://richmccue.github.io/likwala/likwala-soundboard.html){:target="_blank"}.
 
-Feel free to create a soundboard for any language you want during this activity. That said, the audio files the activity are for a Portuguese alphabet soundboard, so if you choose to create a soundboard for a different languge, you can use the Portugues files as places holders until you are able record audio files for the language you choose.  
-
-If you get stuck, please ask your instructor for assistance, and don't forget to have fun!
-
 Step 1
 {: .label .label-step}
 - You can use any Generative AI tool for this activity, but for coding I'd recommend using Anthropic's [Claude](https://claude.ai/){:target="_blank"}, as the free version creates more visually attractive web applications by default. Alternatively, you can use [Google Gemini](https://gemini.google.com/){:target="_blank"} (which comes free with Gmail), [ChatGPT](https://chatgpt.com/){:target="_blank"}, [Microsoft Copilot](https://copilot.microsoft.com/){:target="_blank"}, or any other GenAI tool that you are familiar with.
@@ -53,26 +49,6 @@ Step 4
 {: .step}
 
 Step 5
-{: .label .label-step}
-- Now that you have the audio files folder in the same place as the HTML file you downloaded, you can open the mp3 audio files in your file manager by **double clicking** on the sound files, and the sounds for each of the letters should play back to you.
-{: .step}
-
-Step 6
-{: .label .label-step}
-- If you created your Soundboard in Claude, [it should look something like this](https://richmccue.github.io/brasil-letters/portuguese.html){:target="_blank"}.
-- Your soundboard should be playing the sounds for letters in the Portugues alphabet now. If you are having any problems, please let your instructor know and they help you get your soundboard up and running!
-{: .step}
-
-Step 7
-{: .label .label-step}
-- If you are creating a soundboard for a language like Hul'q'umi'num, that has letters in it's alphabet with non-English accents like glottal stops, you should follow up with a prompt like this (depending on the types of accents used in the language):
-{: .step}
-```text
-Change the letter mapping to the letter files with the letters that have a glottal stop so
-that for example the c' file name is: c_glottal.mp3
-```
-
-Step 8
 {: .label .label-step}
 
 - **Optional:** Share your soundboard with the world by publishing it for free on GitHub Pages. If you have a GitHub account:
