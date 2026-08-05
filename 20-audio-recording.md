@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-# Recording High Quality Audio with an iPhone or iPad & DJI Mic Mini
+### Recording High Quality Audio with an iPhone or iPad & DJI Mic Mini
 <img src="images/20-audio-record-logo.png" style="float:right;width:300px;" alt="decorative">
 
 Good source audio makes a huge difference in the quality and usability of language learning games. Recording with a microphone like the DJI Mic Mini, instead of your phone's built-in microphone, keeps the speaker's distance from the microphone constant for every letter, so all of your audio files come out at a similar volume with far less room echo. This matters most when you are recording with Elders and language keepers, where you may only get one session.
