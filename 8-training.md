@@ -35,9 +35,9 @@ different language: https://dom-aya.github.io/ayajuthem-soundboard/
 
 Step 3
 {: .label .label-step}
-- Next we need to wait a minute or two for the AI to read the web page and create the HTML file for you. While it works, you can watch it write the code.
-- If you are using Claude, it will display a preview of the webpage on the right side of the screen once it generates the file. Before downloading, you can review the preview and provide additional prompts if you would like to make any changes
-- Once it’s finished, click the Download button and make note of where you saved the file on your laptop (usually your Downloads folder).
+3. Next we need to wait a minute or two for the AI to read the web page and create the HTML file for you. While it works, you can watch it write the code.
+1. If you are using Claude, it will display a preview of the webpage on the right side of the screen once it generates the file. Before downloading, you can review the preview and provide additional prompts if you would like to make any changes
+10. Once it’s finished, click the Download button and make note of where you saved the file on your laptop (usually your Downloads folder).
 ![Screenshot of the download button](images/soundboard-01.png)
 {: .step}
 
