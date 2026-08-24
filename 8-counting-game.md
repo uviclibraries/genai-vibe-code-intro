@@ -6,7 +6,7 @@ parent: Workshop Activities
 ---
 
 # Make a Lik̓wala Counting Game in 15-Minutes!
-<img src="images/images/8-counting-game-logo.png" style="float:right;width:320px;" alt="decorative"> 
+<img src="images/8-counting-game-logo.png" style="float:right;width:320px;" alt="decorative"> 
 
 Counting games are a wonderful way for language learners to practise number words with as much repetition as they need, at their own pace, and with a bit of playful competition thrown in. Here's an example of a counting game created for Language Revitalization purposes: [husa ƛ̕ay̓i, a Lik̓wala Bear Counting Game](https://krystalhenkel.github.io/learninggames/husa-tlayi.html). In the game, learners count the bears on the screen, choose the correct number word in Lik̓wala, and hear the word spoken aloud.
 
