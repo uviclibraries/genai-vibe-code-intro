@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 8-Counting Game
+title: 8-Counting Game UNDER CONSTRUCTION
 nav_order: 9
 parent: Workshop Activities
 ---
-
+# !!! UNDER CONSTRUCTION !!!
 # Make a Lik̓wala Counting Game in 15-Minutes!
 <img src="images/8-counting-game-logo.png" style="float:right;width:350px;" alt="decorative"> 
 
