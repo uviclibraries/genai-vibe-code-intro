@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 6-Workout-Tracking
+title: 6-Workout Tracking
 nav_order: 8
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
