@@ -1,20 +1,20 @@
 ---
 layout: default
-title: 7b-Hospital Capacity Simulator 
+title: 7b-Hospital Capacity Simulator UNDER CONSTRUCTION
 nav_order: 10
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-# UNDER CONSTRUCTION Make a Hospital Capacity Simulator! 
+# UNDER CONSTRUCTION 
+## Turn your Hospital Simulator into a Tycoon Style Game! 
 <img src="images/hospital-simulator-logo.png" style="float:right;width:320px;" alt="decorative"> 
 
-Hospital simulations are commonly used to help healthcare professionals and students understand how decisions about staffing, patient volume, and available resources affect hospital operations. In this activity, you will use a Generative AI tool to "vibe code" your own Hospital Capacity Simulator. By adjusting factors such as incoming patients, healthcare workers, hospital beds, and emergency room capacity, you'll explore how different situations can impact a hospital's ability to provide care.
+Expanding on from the previous activity, let's make our simulator more engaging and interactive. 
 
-Here's an example of a Hospital Capacity Simulator created with this approach using Claude: [Hospital Capacity Simulator](https://mahumahmed.github.io/hospital-capacity-simulator/){:target="_blank"}. 
+Here's an example of a Hospital Capacity Tycoon game created with this approach using Claude: [Hospital Capacity Simulator](https://mahumahmed.github.io/hospital-capacity-simulator/){:target="_blank"}. 
 
 And here's another example using Google Gemini: [Hospital Capacity Simulator](https://mahumahmed.github.io/hospital-capacity-simulator2/){:target="_blank"}. 
-
 
 You can use any Generative AI tool for this activity, but for coding I'd recommend using Anthropic's [Claude](https://claude.ai/){:target="_blank"}, as the free version creates more visually attractive web applications by default. Alternatively, you can use [Google Gemini](https://gemini.google.com/){:target="_blank"} (which comes free with Gmail), [ChatGPT](https://chatgpt.com/){:target="_blank"}, [Microsoft Copilot](https://copilot.microsoft.com/){:target="_blank"}, or any other GenAI tool that you are familiar with.
 
