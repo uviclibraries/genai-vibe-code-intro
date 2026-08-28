@@ -10,7 +10,9 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ## Turn your Hospital Simulator into a Tycoon Style Game! 
 <img src="images/hospital-simulator-logo.png" style="float:right;width:320px;" alt="decorative"> 
 
-Expanding on from the previous activity, let's make our simulator more engaging and interactive. 
+Expanding on from the previous activity, let's make our simulator more engaging and interactive by turning it into a hospital management game inspired by games like RollerCoaster Tycoon.
+
+Instead of mainly adjusting sliders and looking at numbers, you'll be able to visually manage your hospital by placing and moving resources such as beds, staff, and equipment.
 
 Here's an example of a Hospital Capacity Tycoon game created with this approach using Claude: [Hospital Capacity Simulator](https://mahumahmed.github.io/hospital-capacity-simulator/){:target="_blank"}. 
 
@@ -20,92 +22,74 @@ You can use any Generative AI tool for this activity, but for coding I'd recomme
 
 If you get stuck, please ask your instructor for assistance, and don't forget to have fun!
 
-## Planning with some GenAI assistance
+## Turn your simulator into a Tycoon-style game
 
 Step 1
 {: .label .label-step}
-- Before prompting, take two minutes to plan your hospital simulation. Jot down quick answers to these questions on paper or in a text file::
-  
-  * **Hospital Type:** What kind of hospital are you managing?
-    (e.g. large city hospital, small rural clinic, children's hospital, emergency trauma centre)
-
-  * **Main Challenge:** What situation is your hospital trying to manage?
-    (e.g. flu season, staffing shortages, unexpected increase in patients, local emergency)
-    
-  * **Events:** What unexpected events could impact your hospital?
-    (e.g. seasonal illness, heat wave, holiday weekend, disease outbreak)
-    
-  * **Goal:** What does success look like in your simulation?
-    (e.g. keep wait times low, avoid overcrowding, maintain high patient satisfaction, use resources efficiently)
-    
-  * **Visual Style:** How would you like your simulator to look?
-    (e.g. cartoon hospital, realistic dashboard, game-like interface)
+- Open the Hospital Capacity Simulator HTML file you created in the previous activity.
+- Upload the HTML file to your GenAI tool.
+- We are going to ask the AI to keep the existing mechanics of your simulator while making the hospital more visual and interactive.
 {: .step}
 
 Step 2
 {: .label .label-step}
-- Copy and paste the following example prompt into your GenAI tool (feel free to make changes based on your plan) and then press **Enter** on your keyboard: <br>
+- Copy and paste the following prompt into your GenAI tool and then press **Enter** on your keyboard: <br>
 
-```
-I'd like to create an HTML file for a hospital capacity simulator.
+'''
+Prompt
+'''
 
-The simulator should allow users to adjust healthcare system factors and see how they affect a hospital.
-
-Include:
-- A colourful hospital-themed design with a simple hospital illustration
-- Sliders for:
-  - Number of incoming patients
-  - Number of available healthcare workers
-  - Number of hospital beds
-  - Emergency room capacity
-- A "Today's Conditions" selector with options such as Normal Day, Flu Season, Heat Wave, Holiday Weekend, and Local Outbreak
-- Each condition should affect the simulation differently
-- A small amount of randomness each time the simulation runs so the same settings don't always produce the same results
-- A "Run Simulation" button
-- An animated visual showing the hospital becoming calm, busy, or overwhelmed
-- A hospital stress meter
-- A hospital efficiency score
-- Educational information explaining how healthcare resources affect patient care
-
-The entire application should be contained in one HTML file that can be opened directly in a web browser.
-
-Make it interactive, beginner-friendly, and visually appealing.
-```
 {: .step}
 
 Step 3
 {: .label .label-step}
-- Next we need to wait a minute or two for the AI to read the web page and create the HTML file for you. While it works, you can watch it write the code.
-- If you are using Claude, it will display a preview of the webpage on the right side of the screen once it generates the file. Before downloading, you can review the preview and provide additional prompts if you would like to make any changes
-- Once it’s finished, click the Download button and make note of where you saved the file on your laptop (usually your Downloads folder).
-  
-![Annotated screenshot of the Artifact window with an arrow pointing to the Download button, and a second panel showing the downloaded HTML file opened in a browser](images/hospital-simulator-1.png)
+- Next we need to wait a minute or two for the AI to modify your HTML file.
+- If you are using Claude, it will display a preview of the updated webpage once it finishes. Before downloading, review the preview and make sure the changes are working as expected.
+- Once it’s finished, click the **Download** button and replace your previous HTML file with the updated version.
+- Open the file in your browser and **play the game!** Try dragging resources into the hospital and see whether your actions affect the simulation.
 {: .step}
+
+## Improve your game with follow-up prompts
 
 Step 4
 {: .label .label-step}
-- Now the fun part: iterating! Vibe coding works best when you make one change at a time, test it, and then ask for the next change. Here are some follow-up prompts to try, one at a time:
+- Your first version may not work exactly as expected. You may notice that something is confusing, doesn't work, or could be improved. This is normal!
+- This is where **iterating** becomes important. Test your simulator, identify a problem, and ask the AI to fix it.
+- It can sometimes be difficult to identify issues on your own, so if possible, have someone else test the game for you and get them to jot down notes 
+- For example here are some of the following follow-up prompts you could ask if you come across similar issues:
+  
 ```
-Please add estimated patient wait times that change based on the hospital's current capacity.
+Can you add a simple How to Play or Instructions page that explains what I should do and what the different resources do?
 ```
 ```
-Please add animated ambulances and patients arriving at the hospital whenever the simulation is run.
+Today's hospital condition should be randomly selected each day and shouldn't be changeable by the player.
 ```
 ```
-Add a statistics page that tracks the hospital's average efficiency score, wait times, and number of patients treated over multiple simulations.
+The number of patients seems much higher than the number of beds shown visually. Can you suggest a more realistic way to represent this?
 ```
+
 {: .step}
 
 Step 5
 {: .label .label-step}
-- If you created your simulator in Claude, [it should look something like this](https://mahumahmed.github.io/hospital-capacity-simulator/){:target="_blank"}.
-- Try moving the sliders, selecting different "Today's Conditions," and clicking Run Simulation. Watch how the hospital responds as patient demand and available resources change.
-- If something isn't working as expected, ask your instructor or your GenAI tool for help troubleshooting the HTML file.
+- Continue testing your game and asking the AI to make improvements.
+- You don't need to use all of the follow-up prompts above. Choose the ones that make sense for your simulator.
+- You can also ask the AI to make other changes based on problems you notice while playing.
+- Remember, **you don't have to get everything right in your first prompt!** Vibe coding involves creating something, testing it, finding problems, and asking AI to help you improve it.
+- Keep this process in mind whenever you use GenAI for coding:
+**Create → Test → Find a problem → Ask AI to fix it → Test again**
+
 {: .step}
 
-Step 6 (optional)
+Step 6
 {: .label .label-step}
-- If you'd like to share your simulator to the world, you can publish it for free with GitHub Pages:
+- If you created your game in Claude, [it should look something like this](https://mahumahmed.github.io/hospital-capacity-simulator/){:target="_blank"}.
+- 
+{: .step}
+
+Step 7 (optional)
+{: .label .label-step}
+- If you'd like to share your game to the world, you can publish it for free with GitHub Pages:
   * Create a free account at [github.com](https://github.com/) if you don't already have one.
   * Create a new **public** repository, for example one called "hospital-simulator".
   * Upload your HTML file to the repository and rename it **index.html**.
