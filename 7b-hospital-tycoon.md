@@ -6,9 +6,9 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-# UNDER CONSTRUCTION 
-## Turn your Hospital Simulator into a Tycoon Style Game! 
-<img src="images/7b-hospital-tycoon-1.png" style="width:350px;" alt="decorative"> 
+## UNDER CONSTRUCTION 
+# Turn your Hospital Simulator into a Tycoon Style Game! 
+<img src="images/7b-hospital-tycoon-1.png" style="width:450px;" alt="decorative"> 
 
 Expanding on from the previous activity, let's make our simulator more engaging and interactive by turning it into a hospital management game inspired by games like RollerCoaster Tycoon.
 
