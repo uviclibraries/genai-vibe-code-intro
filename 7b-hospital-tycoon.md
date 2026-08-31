@@ -29,23 +29,46 @@ Step 1
 - Open the Hospital Capacity Simulator HTML file you created in the previous activity.
 - Upload the HTML file to your GenAI tool.
 - We are going to ask the AI to keep the existing mechanics of your simulator while making the hospital more visual and interactive.
-{: .step}
 
-Step 2
-{: .label .label-step}
-- Copy and paste the following prompt into your GenAI tool and then press **Enter** on your keyboard: <br>
+## Choose Your Approach
 
-'''
-Prompt
-'''
+There are two ways you can approach this activity. Choose whichever works best for you!
 
+### Option 1: Let the AI Help You Plan
+
+If you're not sure exactly how you want your hospital game to work, you can start with a short prompt and let the AI ask you questions.
+
+- Copy and paste the following prompt into your GenAI tool:
+```
+Please create a plan to update and improve this Hospital Capacity Simulator using game mechanics similar to RollerCoaster Tycoon. Keep the variables and mechanics already in the game, but add a budget and a way for the game to progress over time.
+```
+
+- Answer the AI's questions and use the conversation to develop your game.
+- Once you are happy with the plan, ask the AI to make the changes to your HTML file.
+
+### Option 2: Give the AI a Detailed Prompt
+
+If you already have a good idea of what you want, you can give the AI more specific instructions from the start.
+
+- Copy and paste the following prompt into your GenAI tool:
+```
+I have attached my Hospital Capacity Simulator HTML file. Keep the existing game mechanics, variables, and resource-management systems, but make it more visual and interactive, like a RollerCoaster Tycoon-style management game.
+
+Make the hospital layout the main interface. Show hospital rooms, beds, staff, equipment, and storage, and allow the player to drag and drop resources into the hospital.
+
+Add a hospital budget that the player must manage. Placing or purchasing beds, staff, equipment, and other resources should cost money and the player's budget should update accordingly. For example, if there are unused beds available, let the player drag a bed from storage into a room. Placing the bed should update the existing hospital capacity and deduct the appropriate cost from the budget.
+
+Make the game progress one day at a time. The player should make their hospital management decisions during the current day, then click a "Run Simulation" or "End Day" button to simulate that day. Once the simulation finishes, advance to the next day and update the hospital's patients, finances, conditions, and performance based on the player's decisions.
+
+Make the visual hospital and the existing simulation work together, so that placing resources affects the existing hospital metrics and game outcomes. Clearly display the current day, budget, hospital resources, and important performance metrics. Make the game easy to understand and visually engaging, while keeping everything in a single HTML file.
+```
 {: .step}
 
 Step 3
 {: .label .label-step}
 - Next we need to wait a minute or two for the AI to modify your HTML file.
 - If you are using Claude, it will display a preview of the updated webpage once it finishes. Before downloading, review the preview and make sure the changes are working as expected.
-- Once it’s finished, click the **Download** button and replace your previous HTML file with the updated version.
+- Once it’s finished, click the **Download** button.
 - Open the file in your browser and **play the game!** Try dragging resources into the hospital and see whether your actions affect the simulation.
 {: .step}
 
