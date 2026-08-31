@@ -53,13 +53,9 @@ If you already have a good idea of what you want, you can give the AI more speci
 - Copy and paste the following prompt into your GenAI tool:
 ```
 I have attached my Hospital Capacity Simulator HTML file. Keep the existing game mechanics, variables, and resource-management systems, but make it more visual and interactive, like a RollerCoaster Tycoon-style management game.
-
 Make the hospital layout the main interface. Show hospital rooms, beds, staff, equipment, and storage, and allow the player to drag and drop resources into the hospital.
-
 Add a hospital budget that the player must manage. Placing or purchasing beds, staff, equipment, and other resources should cost money and the player's budget should update accordingly. For example, if there are unused beds available, let the player drag a bed from storage into a room. Placing the bed should update the existing hospital capacity and deduct the appropriate cost from the budget.
-
 Make the game progress one day at a time. The player should make their hospital management decisions during the current day, then click a "Run Simulation" or "End Day" button to simulate that day. Once the simulation finishes, advance to the next day and update the hospital's patients, finances, conditions, and performance based on the player's decisions.
-
 Make the visual hospital and the existing simulation work together, so that placing resources affects the existing hospital metrics and game outcomes. Clearly display the current day, budget, hospital resources, and important performance metrics. Make the game easy to understand and visually engaging, while keeping everything in a single HTML file.
 ```
 {: .step}
@@ -84,9 +80,11 @@ Step 4
 ```
 Can you add a simple How to Play or Instructions page that explains what I should do and what the different resources do?
 ```
+
 ```
 Today's hospital condition should be randomly selected each day and shouldn't be changeable by the player.
 ```
+
 ```
 The number of patients seems much higher than the number of beds shown visually. Can you suggest a more realistic way to represent this?
 ```
