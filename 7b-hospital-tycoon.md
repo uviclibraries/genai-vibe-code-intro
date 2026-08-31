@@ -25,14 +25,16 @@ If you get stuck, please ask your instructor for assistance, and don't forget to
 Step 1
 {: .label .label-step}
 - Open the Hospital Capacity Simulator HTML file you created in the previous activity.
-- Upload the HTML file to your GenAI tool.
+- Upload the HTML file to your GenAI tool. 
 - We are going to ask the AI to keep the existing mechanics of your simulator while making the hospital more visual and interactive.
+
+![Screenshot of the Claude.ai home screen with the HTML file uploaded](images/7b-hospital-tycoon-3.png)
 
 ## Choose Your Approach
 
 There are two ways you can approach this activity. Choose whichever works best for you!
 
-### Option 1: Let the AI Help You Plan
+### Option 1: Create a Plan
 
 If you're not sure exactly how you want your hospital game to work, you can start with a short prompt and let the AI ask you questions.
 
@@ -42,14 +44,14 @@ Please create a plan to update and improve this Hospital Capacity Simulator usin
 and mechanics already in the game, but add a budget and a way for the game to progress over time.
 ```
 
-- Answer the AI's questions and use the conversation to develop your game.
+- Answer any questions that your GenAI tool asks and use the conversation to develop your game.
 - Once you are happy with the plan, ask the AI to make the changes to your HTML file.
 
-### Option 2: Give the AI a Detailed Prompt
+### Option 2: Use a Detailed Prompt
 
 If you already have a good idea of what you want, you can give the AI more specific instructions from the start.
 
-- Copy and paste the following prompt into your GenAI tool:
+- For example, here is a more detailed prompt you could copy and paste into your GenAI tool:
   
 ```
 I have attached my Hospital Capacity Simulator HTML file. Keep the existing game mechanics,
