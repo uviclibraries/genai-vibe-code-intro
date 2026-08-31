@@ -8,15 +8,13 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 ## UNDER CONSTRUCTION 
 # Turn your Hospital Simulator into a Tycoon Style Game! 
-<img src="images/7b-hospital-tycoon-1.png" style="width:450px;" alt="decorative"> 
+<img src="images/7b-hospital-tycoon-1.png" style="float:right;width:500px;" alt="decorative"> 
 
 Expanding on from the previous activity, let's make our simulator more engaging and interactive by turning it into a hospital management game inspired by games like RollerCoaster Tycoon.
 
 Instead of mainly adjusting sliders and looking at numbers, you'll be able to visually manage your hospital by placing and moving resources such as beds, staff, and equipment.
 
-Here's an example of a Hospital Capacity Tycoon game created with this approach using Claude: [Hospital Capacity Simulator](https://mahumahmed.github.io/hospital-capacity-simulator/){:target="_blank"}. 
-
-And here's another example using Google Gemini: [Hospital Capacity Simulator](https://mahumahmed.github.io/hospital-capacity-simulator2/){:target="_blank"}. 
+Here's an example of a Hospital Capacity Tycoon game created with this approach using Claude: [Hospital Capacity Simulator](https://mahumahmed.github.io/hospital-capacity-simulator/hospital-tycoon/){:target="_blank"}. 
 
 You can use any Generative AI tool for this activity, but for coding I'd recommend using Anthropic's [Claude](https://claude.ai/){:target="_blank"}, as the free version creates more visually attractive web applications by default. Alternatively, you can use [Google Gemini](https://gemini.google.com/){:target="_blank"} (which comes free with Gmail), [ChatGPT](https://chatgpt.com/){:target="_blank"}, [Microsoft Copilot](https://copilot.microsoft.com/){:target="_blank"}, or any other GenAI tool that you are familiar with.
 
