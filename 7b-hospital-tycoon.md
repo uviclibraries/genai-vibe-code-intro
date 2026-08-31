@@ -38,7 +38,8 @@ If you're not sure exactly how you want your hospital game to work, you can star
 
 - Copy and paste the following prompt into your GenAI tool:
 ```
-Please create a plan to update and improve this Hospital Capacity Simulator using game mechanics similar to RollerCoaster Tycoon. Keep the variables and mechanics already in the game, but add a budget and a way for the game to progress over time.
+Please create a plan to update and improve this Hospital Capacity Simulator using game mechanics similar to RollerCoaster Tycoon. Keep the variables
+and mechanics already in the game, but add a budget and a way for the game to progress over time.
 ```
 
 - Answer the AI's questions and use the conversation to develop your game.
@@ -51,21 +52,26 @@ If you already have a good idea of what you want, you can give the AI more speci
 - Copy and paste the following prompt into your GenAI tool:
   
 ```
-I have attached my Hospital Capacity Simulator HTML file. Keep the existing game mechanics, variables, and resource-management systems,
-but make it more visual and interactive, like a RollerCoaster Tycoon-style management game.
+I have attached my Hospital Capacity Simulator HTML file. Keep the existing game mechanics,
+variables, and resource-management systems, but make it more
+visual and interactive, like a RollerCoaster Tycoon-style management game.
 
-Make the hospital layout the main interface, with rooms, beds, staff, equipment, and storage.
-Allow players to drag and drop resources into the hospital, with their actions updating the existing hospital metrics.
+Make the hospital layout the main interface. Show hospital rooms, beds,
+staff, equipment, and storage, and allow the player to drag and drop resources into the hospital.
 
-Add a budget that players must manage, with resources costing money.
-For example, placing a bed from storage into a room should increase hospital capacity and deduct its cost from the budget.
+Add a hospital budget that the player must manage. Placing or purchasing beds,
+staff, equipment, and other resources should cost money and update the budget.
 
-Make the game progress one day at a time.
-Players make decisions during the current day, then press a button to run the day's simulation and advance to the next day.
-Update patients, finances, conditions, and performance based on their decisions.
+Make the game progress one day at a time. The player should make management
+decisions during the current day, then click a "Run Simulation" or "End Day" button
+to simulate that day. Once the simulation finishes, advance to the next day and
+update the hospital's patients, finances, conditions, and performance based on the player's decisions.
 
-Clearly display the current day, budget, resources, and key performance metrics.
-Keep the hospital visuals connected to the existing simulation mechanics and keep everything in a single HTML file.
+Make the visual hospital and the existing simulation work together, so that placing resources
+affects the existing hospital metrics and game outcomes. Clearly display the current day,
+budget, hospital resources, and important performance metrics.
+
+Make the game easy to understand and visually engaging, while keeping everything in a single HTML file.
 ```
 {: .step}
 
