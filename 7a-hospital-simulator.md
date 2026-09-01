@@ -117,4 +117,4 @@ Step 6 (optional)
 
 Congratulations on completing this vibe code project!
 
-[NEXT STEP: ??????](3-????.html){: .btn .btn-blue }
+[NEXT STEP: Hospital Tycoon](7b-hospital-tycoon.html){: .btn .btn-blue }
