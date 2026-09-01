@@ -204,4 +204,4 @@ Copyright © 2026 [UVic Libraries Digital Scholarship Commons](https://uvic.ca/l
 View other [DSC workshops](https://lib.uvic.ca/curric)
 Distributed by a [Creative Commons Attribution 4.0 International License.](http://creativecommons.org/licenses/by/4.0/)
 
-[NEXT STEP: ??????](3-????.html){: .btn .btn-blue }
+[NEXT STEP: Hospital Capacity Simulator](7a-hospital-simulator.html){: .btn .btn-blue }
