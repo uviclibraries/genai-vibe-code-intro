@@ -37,7 +37,7 @@ different language: https://dom-aya.github.io/ayajuthem-soundboard/
 ```
 <button onclick="toggle('gif2')">Show/Hide Animation</button>
 <div id="gif2">
-  ![Screenshot of the prompt in input box](images/1-soundboard-prompt.gif)
+  <img src="images/1-soundboard-prompt.gif" style="width:800px;">
 </div>
 {: .step}
 
