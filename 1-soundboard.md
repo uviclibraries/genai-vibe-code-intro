@@ -23,6 +23,8 @@ Step 1
 
 Step 2
 {: .label .label-step}
+- Select the **+** button on the left side of the chat box, and then select **Canvas**.
+- Select the drop down menu on the right side of the chat box that says **Flash**, and and then select **Thinking**.
 - Copy and paste the following prompt into your GenAI tool (feel free to change the language of course) and then press **Enter** on your keyboard: <br>
 ```text
 I’d like to create a HTML web application, to help people learn to say the letter of the
