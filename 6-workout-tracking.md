@@ -29,16 +29,12 @@ I'd like to create a self-contained, single-file HTML web application to help me
 for a bicycle race. The app should run entirely in the web browser and save my data in
 the browser's localStorage so my rides are not lost when I close the page.
 
-The race I am training for is the Tour de Victoria, a 140 km ride on August 10, 2026.
+The race I am training for is the Tour de Victoria, a 140 km ride that is scheduled 4 months from now.
 Please include:
-- A dashboard with a chart comparing kilometres ridden per week against a suggested
-  weekly training plan
-- A training plan tab that gradually builds up my weekly distance between now and
-  race day
-- A "Log a ride" form with fields for date, distance (km), elevation gain (m),
-  perceived effort (1 to 5), and route/notes
-- A "My rides" tab that lists all of my logged rides, with the ability to edit or
-  delete each one
+- A dashboard with a chart comparing kilometres ridden per week against a suggested weekly training plan
+- A training plan tab that gradually builds up my weekly distance between now and race day
+- A "Log a ride" form with fields for date, distance (km), elevation gain (m), perceived effort (1 to 5), and route/notes
+- A "My rides" tab that lists all of my logged rides, with the ability to edit or delete each one
 - A clean, mobile-friendly design that works well on a phone
 
 Before you write any code, please ask me any clarifying questions that would help you
