@@ -13,7 +13,7 @@ nav_order: 1
 
 ## Why Should I Learn to Create Apps with GenAI? 
 
-Imagine bringing your ideas for custom apps and learning games to life without ever writing a single line of code. This hands-on workshop introduces you to the world of "vibe coding, "a modern software development technique where your natural language descriptions are transformed into fully functional web applications using generative AI tools. Vibe coding allows you can shift your focus entirely to creative design and rapid prototyping. Whether you are an educator aiming to build custom learning resources or a student looking to develop a personal project, this workshop lowers the barriers software creation, giving you the digital agency to build tailor-made web tools from scratch in a matter of minutes.
+Imagine bringing your ideas for custom apps and learning games to life without ever writing a single line of code. This hands-on workshop introduces you to the world of "vibe coding", a modern software development technique where your natural language descriptions are transformed into fully functional web applications using generative AI tools. Vibe coding allows you can shift your focus entirely to creative design and rapid prototyping. Whether you are looking to create a personal productive app, or want to build custom learning resources or game, this workshop lowers the barriers software creation, giving you the ability to build tailor-made web apps or games from scratch in a matter of minutes.
 
 Join us in moving from a consumer of digital technology to an active creator, and walk away with the practical skills and confidence to turn your ideas into reality.
 
