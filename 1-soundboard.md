@@ -35,7 +35,10 @@ filenames will be all lowercase. Put a phonetic pronunciation for English langua
 speakers under each letter. Here is an example of what I would like for the alphabet of a
 different language: https://dom-aya.github.io/ayajuthem-soundboard/
 ```
-![Screenshot of the prompt in input box](images/1-soundboard-prompt.gif)
+<button onclick="toggle('gif2')">Show/Hide Animation</button>
+<div id="gif2">
+  ![Screenshot of the prompt in input box](images/1-soundboard-prompt.gif)
+</div>
 {: .step}
 
 Step 3
