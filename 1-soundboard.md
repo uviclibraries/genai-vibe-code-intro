@@ -75,12 +75,14 @@ Change the letter mapping to the letter files with the letters that have a glott
 that for example the c' file name is: c_glottal.mp3
 ```
 
-Step 8
+Step 8 - OPTIONAL
 {: .label .label-step}
 
-- **Optional:** Share your soundboard with the world by publishing it for free on GitHub Pages. If you have a GitHub account:
+- **Optional:** Another way to share your soundboard with the world by publishing it for free on GitHub Pages.
+  * If you have a GitHub account, go to Github and [create an account](https://github.com/signup){:target="_blank"}. 
   * Create a new public repository and upload your HTML file (you will have to rename the file to index.html)
-  * In the repository, go to **Settings**, then **Pages**, and under **Branch** select **main**, then click **Save**
+  * In the repository, go to **Settings**, then **Pages**, and under **Branch** select **main**, then click **Save**. Here's a [video](https://www.youtube.com/watch?v=DqjPr7auwdY){:target="_blank"} that walks you through this process.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DqjPr7auwdY" title="Enabling GitHub Pages" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   * After a minute or two your game will be live at `https://your-username.github.io/your-repository/your-game.html`
 - If you'd like a walkthrough of this process, ask your instructor or your GenAI tool for step-by-step GitHub Pages publishing instructions.
 - Here is an example on how to publish your file:
