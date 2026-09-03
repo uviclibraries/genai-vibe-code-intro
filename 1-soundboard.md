@@ -19,8 +19,6 @@ Step 1
 {: .label .label-step}
 - You can use any Generative AI tool for this activity, but we recommend for this activity to use [Google Gemini](https://gemini.google.com/){:target="_blank"} which comes free with Gmail.
 - Alternatively, you can use other GenAI tools like Anthropic's [Claude](https://claude.ai/){:target="_blank"}, [ChatGPT](https://chatgpt.com/){:target="_blank"}, or [Microsoft Copilot](https://copilot.microsoft.com/){:target="_blank"}.
-  
-![Screenshot of the Claude.ai home screen with the prompt box highlighted](images/7-jeopardy-1.png)
 {: .step}
 
 Step 2
@@ -35,7 +33,7 @@ filenames will be all lowercase. Put a phonetic pronunciation for English langua
 speakers under each letter. Here is an example of what I would like for the alphabet of a
 different language: https://dom-aya.github.io/ayajuthem-soundboard/
 ```
-![Screenshot of the prompt in input box](images/soundboard-02.png)
+![Screenshot of the prompt in input box](images/1-soundboard-prompt.gif)
 {: .step}
 
 Step 3
