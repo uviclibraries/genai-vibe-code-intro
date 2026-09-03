@@ -62,11 +62,11 @@ Step 5
 
 Step 6
 {: .label .label-step}
-- If you created your Soundboard in Claude, [it should look something like this](https://richmccue.github.io/brasil-letters/portuguese.html){:target="_blank"}.
-- Your soundboard should be playing the sounds for letters in the Portugues alphabet now. If you are having any problems, please let your instructor know and they help you get your soundboard up and running!
+- If you created your Soundboard, [it should look something like this](https://richmccue.github.io/brasil-letters/portuguese.html){:target="_blank"}.
+- Your soundboard should be playing the sounds for letters in the Portuguese alphabet now. If you are having any problems, it's probably related to where you unzipped the assets.zip file, which should be in the same directory as you soundboard file. Please let your instructor know and they help you get your soundboard fully up and running!
 {: .step}
 
-Step 7
+Step 7 - OPTIONAL
 {: .label .label-step}
 - If you are creating a soundboard for a language like Hul'q'umi'num, that has letters in it's alphabet with non-English accents like glottal stops, you should follow up with a prompt like this (depending on the types of accents used in the language):
 {: .step}
