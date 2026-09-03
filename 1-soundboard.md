@@ -11,14 +11,14 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 Sound boards can be very helpful for people learning a new languages begin to learn the sounds of letters at their own pace with as much or as little repitition as needed. Here's an example of a soundboard app crated for Language Revitalization purposes: [LiK'wala Soundboard for language learners](https://richmccue.github.io/likwala/likwala-soundboard.html){:target="_blank"}.
 
-Feel free to create a soundboard for any language you want during this activity. That said, the audio files the activity are for a Portuguese alphabet soundboard, so if you choose to create a soundboard for a different languge, you can use the Portugues files as places holders until you are able record audio files for the language you choose.  
+Feel free to create a soundboard for any language you want during this activity. That said, the audio files the activity are for a Portuguese alphabet soundboard, so if you choose to create a soundboard for a different languge, you can use the Portuguese files as places holders until you are able record audio files for the language you choose.  
 
 If you get stuck, please ask your instructor for assistance, and don't forget to have fun!
 
 Step 1
 {: .label .label-step}
 - You can use any Generative AI tool for this activity, but because of the prompt limits the big GenAI companies put on their free accounts, we recommend for this activity to use [Google Gemini](https://gemini.google.com/){:target="_blank"} which comes free with Gmail.
-- Gemini isn't currently the most capable tool, but will do a good job for this activity, then for the more challenging vibe coding activities, we'll recommend using Anthropic's [Claude](https://claude.ai/){:target="_blank"}, as currently the free version more reliabily creates web games and apps by default. Alternatively, [ChatGPT](https://chatgpt.com/){:target="_blank"}, [Microsoft Copilot](https://copilot.microsoft.com/){:target="_blank"}.
+- Alternatively, you can use other GenAI tools like Gemini isn't currently the most capable tool, but will do a good job for this activity, then for the more challenging vibe coding activities, we'll recommend using Anthropic's [Claude](https://claude.ai/){:target="_blank"}, [ChatGPT](https://chatgpt.com/){:target="_blank"}, or [Microsoft Copilot](https://copilot.microsoft.com/){:target="_blank"}.
   
 ![Screenshot of the Claude.ai home screen with the prompt box highlighted](images/7-jeopardy-1.png)
 {: .step}
