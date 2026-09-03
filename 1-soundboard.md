@@ -23,7 +23,7 @@ Step 1
 
 Step 2
 {: .label .label-step}
-- Select the **+** button on the left side of the chat box, and then select **Canvas**.
+- Select the **+** button on the left side of the chat box, and then select **Canvas** (look at the animation below if you're unsure where the buttons are located).
 - Select the drop down menu on the right side of the chat box that says **Flash**, and and then select **Thinking**.
 - Copy and paste the following prompt into your GenAI tool (feel free to change the language of course) and then press **Enter** on your keyboard: <br>
 ```text
@@ -41,9 +41,11 @@ different language: https://dom-aya.github.io/ayajuthem-soundboard/
 Step 3
 {: .label .label-step}
 - Next we need to wait a minute or two for the AI to read the web page and create the HTML file for you. While it works, you can watch it write the code.
-- If you are using Claude, it will display a preview of the webpage on the right side of the screen once it generates the file. Before downloading, you can review the preview and provide additional prompts if you would like to make any changes
-- Once it’s finished, click the Download button and make note of where you saved the file on your laptop (usually your Downloads folder).
-![Screenshot of the download button](images/soundboard-01.png)
+- If you are using Gemini, it will display a preview of the webpage on the right side of the screen once it generates the file. Before downloading, you can review the preview and provide additional prompts if you would like to make any changes
+- Once it’s finished, you have two options:
+  1. Click the **Download** button and make note of where you saved the file on your laptop (usually your Downloads folder).
+  2. Click on the **Share** button and then share your new web app via Google Drive either to specific people or you can make you app viewable by anyone in the world.
+![Screenshot of the download button](images/1-share-app.png)
 {: .step}
 
 Step 4
