@@ -17,8 +17,8 @@ If you get stuck, please ask your instructor for assistance, and don't forget to
 
 Step 1
 {: .label .label-step}
-- You can use any Generative AI tool for this activity, but because of the prompt limits the big GenAI companies put on their free accounts, we recommend for this activity to use [Google Gemini](https://gemini.google.com/){:target="_blank"} which comes free with Gmail.
-- Alternatively, you can use other GenAI tools like Gemini isn't currently the most capable tool, but will do a good job for this activity, then for the more challenging vibe coding activities, we'll recommend using Anthropic's [Claude](https://claude.ai/){:target="_blank"}, [ChatGPT](https://chatgpt.com/){:target="_blank"}, or [Microsoft Copilot](https://copilot.microsoft.com/){:target="_blank"}.
+- You can use any Generative AI tool for this activity, but we recommend for this activity to use [Google Gemini](https://gemini.google.com/){:target="_blank"} which comes free with Gmail.
+- Alternatively, you can use other GenAI tools like Anthropic's [Claude](https://claude.ai/){:target="_blank"}, [ChatGPT](https://chatgpt.com/){:target="_blank"}, or [Microsoft Copilot](https://copilot.microsoft.com/){:target="_blank"}.
   
 ![Screenshot of the Claude.ai home screen with the prompt box highlighted](images/7-jeopardy-1.png)
 {: .step}
