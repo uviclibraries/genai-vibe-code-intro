@@ -24,7 +24,7 @@ Step 1
 
 ![Annotated screenshot showing the Claude and Gemini home pages side by side, with an arrow pointing to the prompt box where you will type](images/7-jeopardy-1.png)
 
-![Just testing](images/2-sharing.png)
+
 
 Step 2
 {: .label .label-step}
