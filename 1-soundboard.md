@@ -30,9 +30,23 @@ Step 2
 - Select the drop-down menu on the right side of the chat box that says **Flash**, and then select **Extended Thinking**.
 - Copy and paste the following prompt into your GenAI tool (feel free to change the language, of course) and then press **Enter** on your keyboard: <br>
 
-```text
+<div style="position:relative;">
+  <button onclick="copyPrompt(this)" style="position:absolute; top:8px; right:8px; padding:4px 10px; font-size:0.8em; cursor:pointer; border-radius:4px; border:1px solid #ccc; background:#fff;">Copy</button>
+  <pre id="promptText" style="background:#f5f5f5; border:1px solid #ddd; border-radius:6px; padding:1em; padding-top:2.5em; white-space:pre-wrap; font-family:monospace; font-size:0.9em;">
 I'd like to create an HTML web application to help people learn to say the letters of the Brazilian Portuguese alphabet properly. When a user clicks on a letter, the web app will use the computer speaker to correctly pronounce the letter. I will provide the sound files for each Portuguese letter and put them in a directory called "assets," and the filenames will be all lowercase. Put a phonetic pronunciation for English-language speakers under each letter. Here is an example of what I would like for the alphabet of a different language: https://dom-aya.github.io/ayajuthem-soundboard/
-```
+  </pre>
+</div>
+
+<script>
+function copyPrompt(btn) {
+  var text = document.getElementById('promptText').innerText;
+  navigator.clipboard.writeText(text.trim()).then(function() {
+    var original = btn.innerText;
+    btn.innerText = "Copied!";
+    setTimeout(function(){ btn.innerText = original; }, 1500);
+  });
+}
+</script>
 
 <button onclick="toggle('gif2')">Show/Hide Animation</button>
 
@@ -79,9 +93,23 @@ Step 7 - OPTIONAL
 - If you are creating a soundboard for a language like Hul'q'umi'num that has letters in its alphabet with non-English accents like glottal stops, you should follow up with a prompt like this (depending on the types of accents used in the language):
   {: .step}
 
-```text
+<div style="position:relative;">
+  <button onclick="copyPrompt(this)" style="position:absolute; top:8px; right:8px; padding:4px 10px; font-size:0.8em; cursor:pointer; border-radius:4px; border:1px solid #ccc; background:#fff;">Copy</button>
+  <pre id="promptText" style="background:#f5f5f5; border:1px solid #ddd; border-radius:6px; padding:1em; padding-top:2.5em; white-space:pre-wrap; font-family:monospace; font-size:0.9em;">
 Change the letter mapping to the letter files with the letters that have a glottal stop, so that, for example, the c' file name is: c_glottal.mp3
-```
+  </pre>
+</div>
+
+<script>
+function copyPrompt(btn) {
+  var text = document.getElementById('promptText').innerText;
+  navigator.clipboard.writeText(text.trim()).then(function() {
+    var original = btn.innerText;
+    btn.innerText = "Copied!";
+    setTimeout(function(){ btn.innerText = original; }, 1500);
+  });
+}
+</script>
 
 Step 8 - OPTIONAL
 {: .label .label-step}
