@@ -80,8 +80,7 @@ Step 7 - OPTIONAL
   {: .step}
 
 ```text
-Change the letter mapping to the letter files with the letters that have a glottal stop, so
-that, for example, the c' file name is: c_glottal.mp3
+Change the letter mapping to the letter files with the letters that have a glottal stop, so that, for example, the c' file name is: c_glottal.mp3
 ```
 
 Step 8 - OPTIONAL
