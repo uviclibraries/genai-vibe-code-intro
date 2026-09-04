@@ -8,7 +8,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # Make an Alphabet Soundboard in 5-Minutes!
 
-<img src="images/1-sound-board-logo-cleaned.jpg" style="float:right;width:250px;" alt="decorative">
+<img src="images/1-sound-board-logo-cleaned.png" style="float:right;width:250px;" alt="decorative">
 
 Soundboards can be very helpful for people learning a new language to begin learning the sounds of letters at their own pace, with as much or as little repetition as needed. Here's an example of a soundboard app created for language revitalization purposes: [LiK'wala Soundboard for language learners](https://richmccue.github.io/likwala/likwala-soundboard.html){:target="\_blank"}.
 
