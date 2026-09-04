@@ -24,7 +24,7 @@ Step 1
 {: .step}
 {: .step}
 
-![Annotated screenshot showing the Claude and Gemini home pages side by side, with an arrow pointing to the prompt box where you will type](images/7-jeopardy-1.png)
+![Annotated screenshot showing the Claude and Gemini home pages side by side, with an arrow pointing to the prompt box where you will type](images/eco-runner-step-1.png)
 
 
 
