@@ -8,7 +8,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # Make an Alphabet Soundboard in 5-Minutes!
 
-<img src="images/sound-board-logo.jpg" style="float:right;width:250px;" alt="decorative">
+<img src="images/sound-board-logo-cleaned.jpg" style="float:right;width:250px;" alt="decorative">
 
 Soundboards can be very helpful for people learning a new language to begin learning the sounds of letters at their own pace, with as much or as little repetition as needed. Here's an example of a soundboard app created for language revitalization purposes: [LiK'wala Soundboard for language learners](https://richmccue.github.io/likwala/likwala-soundboard.html){:target="\_blank"}.
 
@@ -37,7 +37,7 @@ I'd like to create an HTML web application to help people learn to say the lette
 <button onclick="toggle('gif2')">Show/Hide Animation</button>
 
 <div id="gif2">
-  <img src="images/1-soundboard-prompt.gif" style="width:800px;">
+  <img src="images/1-soundboard-prompt-cleaned.gif" style="width:800px;">
 </div>
 {: .step}
 
@@ -47,16 +47,16 @@ Step 3
 - Next, we need to wait a minute or two for the AI to read the web page and create the HTML file for you. While it works, you can watch it write the code.
 - If you are using Gemini, it will display a preview of the webpage on the right side of the screen once it generates the file. Before downloading, you can review the preview and provide additional prompts if you would like to make any changes.
 - Once it's finished, you have two options:
-  1. Click the **Download** button and make note of where you saved the file on your laptop (usually your Downloads folder).
-  2. Click on the **Share** button and then share your new web app via Google Drive, either with specific people or by making your app viewable by anyone in the world.
-     ![Screenshot of the download button](images/1-share-app.png)
+  1. Download: Click the **Download** button and make note of where you saved the file on your laptop (usually your Downloads folder).
+  2. Share: Click the **Share button** to create a shareable public link for your web app. Anyone with the link can view or reshare your app, and you can delete the link at any time to revoke access.
+     ![Screenshot of the download button](images/1-share-app-cleaned.png)
      {: .step}
 
 Step 4
 {: .label .label-step}
 
 - Download the zip file that contains all the MP3 audio files for each Portuguese letter to the same folder where you downloaded the HTML file **[your GenAI tool]** created for you:
-  - Download the Portuguese audio for each letter in the zip file called: [assets.zip](assets/assets.zip)
+  - Download the Portuguese audio for each letter in the zip file called: [assets.zip](assets/assets.zip).
   - Find the **assets.zip** file on your laptop and unzip it. On a **Mac**, you simply **double-click** on the file, and it will unzip. On **Windows**, you **right-click** on the file and select **Extract All…**
     {: .step}
 
@@ -86,7 +86,7 @@ Change the letter mapping to the letter files with the letters that have a glott
 Step 8 - OPTIONAL
 {: .label .label-step}
 
-- **Optional:** Another way to share your soundboard with the world is by publishing it for free on GitHub Pages.
+- Another way to share your soundboard with the world is by publishing it for free on GitHub Pages.
   - If you don't have a GitHub account, go to Github and [create an account](https://github.com/signup){:target="\_blank"}.
   - Create a new public repository and upload your HTML file (you will have to rename the file to index.html).
     - In the repository, go to **Settings**, then **Pages**, and under **Branch**, select **Main**, then click **Save**. Here's a [video](https://www.youtube.com/watch?v=DqjPr7auwdY){:target="\_blank"} that walks you through this process.
