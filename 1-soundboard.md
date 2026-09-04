@@ -89,7 +89,7 @@ Step 8 - OPTIONAL
 - **Optional:** Another way to share your soundboard with the world is by publishing it for free on GitHub Pages.
   - If you don't have a GitHub account, go to Github and [create an account](https://github.com/signup){:target="\_blank"}.
   - Create a new public repository and upload your HTML file (you will have to rename the file to index.html).
-    - In the repository, go to **Settings**, then **Pages**, and under **Branch**， select **Main**, then click **Save**. Here's a [video](https://www.youtube.com/watch?v=DqjPr7auwdY){:target="\_blank"} that walks you through this process.
+    - In the repository, go to **Settings**, then **Pages**, and under **Branch**, select **Main**, then click **Save**. Here's a [video](https://www.youtube.com/watch?v=DqjPr7auwdY){:target="\_blank"} that walks you through this process.
     <iframe width="650" height="420" src="https://www.youtube.com/embed/DqjPr7auwdY" title="Enabling GitHub Pages" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - After a minute or two, your soundboard will be live at `https://your-username.github.io/your-repository/your-game.html`
 - If you'd like a walkthrough of this process, ask your instructor or your GenAI tool for step-by-step GitHub Pages publishing instructions.
