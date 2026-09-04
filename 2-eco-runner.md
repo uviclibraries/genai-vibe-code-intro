@@ -22,11 +22,8 @@ Step 1
 - You can use any Generative AI tool for this activity, but we recommend for this activity to use [Google Gemini](https://gemini.google.com/){:target="_blank"} which comes free with Gmail.
 - Alternatively, you can use other GenAI tools like Anthropic's [Claude](https://claude.ai/){:target="_blank"}, [ChatGPT](https://chatgpt.com/){:target="_blank"}, or [Microsoft Copilot](https://copilot.microsoft.com/){:target="_blank"}.
 {: .step}
-{: .step}
 
 ![Annotated screenshot showing the Claude and Gemini home pages side by side, with an arrow pointing to the prompt box where you will type](images/eco-runner-step-1.png)
-
-
 
 Step 2
 {: .label .label-step}
