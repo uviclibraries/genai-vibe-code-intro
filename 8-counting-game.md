@@ -36,7 +36,6 @@ If you get stuck, please ask your instructor for assistance, and don't forget to
 - If you are working with a language that uses special characters (like the ƛ̕ and y̓ in Lik̓wala), make sure they display correctly in your document. If they look right here, they will look right in your game.
   
 
-![Screenshot of a Google Doc with a three-column table of numbers, number words, and audio filenames](step-3-countingbears.png) <img src="images/8-counting-game-logo.png" style="float:right;width:350px;" alt="decorative"> 
 > **Screenshot prompt for images/counting-02.png:** Capture a Google Doc showing a table with columns labelled "Number," "Lik̓wala word," and "Audio file," filled in for 1 to 10. Highlight the special characters in one row with a yellow oval and add a callout that reads "Check that special characters display correctly." Blur or crop any personal account details in the top right corner.
 
 ## Step 3
