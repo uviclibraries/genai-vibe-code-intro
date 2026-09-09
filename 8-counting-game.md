@@ -83,8 +83,7 @@ Here are the number words to use:
 - If you have audio recordings of the number words, create a folder called **assets** in the same place you saved the HTML file, and copy the MP3 files into it. Make sure the filenames match what you told the AI (for example `1.mp3`, `2.mp3`, and so on).
 - If you don't have recordings yet, that's fine. Skip this step for now and come back to it after the [Recording Audio activity](20-audio-recording.html). The game will work without sound.
 
-![Screenshot of a file manager showing the HTML file and the assets folder side by side](images/countingbears-step05.png)
-
+![Screenshot of the Claude preview pane showing the counting game, with the download button highlighted](images/countingbears-step5.png) 
 > **Screenshot prompt for images/counting-05.png:** Capture a Finder or File Explorer window showing the downloaded HTML file next to a folder named "assets," with the assets folder open in a second pane showing files 1.mp3 through 10.mp3. Draw a red rectangle around the assets folder and add a callout reading "Folder name and filenames must match your prompt exactly."
 
 ## Step 6
