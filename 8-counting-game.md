@@ -37,7 +37,7 @@ If you get stuck, please ask your instructor for assistance, and don't forget to
   
 
 > **Screenshot prompt for images/counting-02.png:** Capture a Google Doc showing a table with columns labelled "Number," "Lik̓wala word," and "Audio file," filled in for 1 to 10. Highlight the special characters in one row with a yellow oval and add a callout that reads "Check that special characters display correctly." Blur or crop any personal account details in the top right corner.
-
+![Screenshot of mechanics](images/step-3-countingbears.png)
 ## Step 3
 
 - Copy and paste the following prompt into your GenAI tool, then paste your table of number words underneath it, and press **Enter** on your keyboard. Feel free to change the animal, the language, or the number of levels!
