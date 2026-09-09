@@ -84,6 +84,8 @@ Here are the number words to use:
 - If you don't have recordings yet, that's fine. Skip this step for now and come back to it after the [Recording Audio activity](20-audio-recording.html). The game will work without sound.
 
 ![Screenshot of the Claude preview pane showing the counting game, with the download button highlighted](images/countingbears-step5.png) 
+
+![Screenshot of the Claude.ai home screen with the prompt box highlighted](images/countingbears-step5.5.png)
 > **Screenshot prompt for images/counting-05.png:** Capture a Finder or File Explorer window showing the downloaded HTML file next to a folder named "assets," with the assets folder open in a second pane showing files 1.mp3 through 10.mp3. Draw a red rectangle around the assets folder and add a callout reading "Folder name and filenames must match your prompt exactly."
 
 ## Step 6
