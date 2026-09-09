@@ -65,8 +65,7 @@ Here are the number words to use:
 
 - Here is an example of the kind of game we are aiming for: [husa ƛ̕ay̓i Bear Counting Game](https://krystalhenkel.github.io/learninggames/husa-tlayi.html).
 
-![Screenshot of the prompt pasted into the input box with the number word table below it](images/counting-03.png)
-
+![Screenshot of the Claude.ai home screen with the prompt box highlighted](images/countingbears-step3.png)
 > **Screenshot prompt for images/counting-03.png:** Capture the Claude chat window with the full prompt pasted in and the number word table visible just below it. Draw a red rectangle around the pasted table and add a callout that reads "Paste your table here." Add a second callout with an arrow pointing to the send button.
 
 ## Step 4
