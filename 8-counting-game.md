@@ -91,7 +91,7 @@ Here are the number words to use:
 ## Step 6
 
 - **Double-click** the HTML file to open it in your web browser and play a few rounds of your game.
-- If you created your game in Claude, [it should look something like this](https://krystalhenkel.github.io/learninggames/husa-tlayi.html).
+- If you created your game in Claude, [it should look something like this]([https://krystalhenkel.github.io/learninggames/husatlayi.html])
 - If the sounds are not playing, the most likely causes are a filename that doesn't match (check for capital letters or spaces) or the assets folder being in the wrong place. If you are having any problems, please let your instructor know and they will help you get your game up and running!
 
 ![Screenshot of the finished game running in a browser during a round, with score and streak visible](images/counting-06.png)
