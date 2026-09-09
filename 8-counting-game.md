@@ -34,9 +34,9 @@ If you get stuck, please ask your instructor for assistance, and don't forget to
 - Before we ask the AI to build anything, we need the number words. GenAI tools are not reliable sources for endangered language vocabulary, so please get the words from a fluent speaker, a community language site such as [likwalamas.com](https://www.likwalamas.com/), or a dictionary you trust.
 - Open a word processor (Google Docs or Word both work well) and make a simple two-column table with the numbers 1 to 10 in the first column and the number word in the second column. If you have audio files, add a third column with the filename for each word (all lowercase, no spaces, for example `1.mp3`).
 - If you are working with a language that uses special characters (like the ƛ̕ and y̓ in Lik̓wala), make sure they display correctly in your document. If they look right here, they will look right in your game.
+  
 
-![Screenshot of a Google Doc with a three-column table of numbers, number words, and audio filenames](images/counting-02.png)
-
+![Screenshot of a Google Doc with a three-column table of numbers, number words, and audio filenames](step-3-countingbears.png) <img src="images/8-counting-game-logo.png" style="float:right;width:350px;" alt="decorative"> 
 > **Screenshot prompt for images/counting-02.png:** Capture a Google Doc showing a table with columns labelled "Number," "Lik̓wala word," and "Audio file," filled in for 1 to 10. Highlight the special characters in one row with a yellow oval and add a callout that reads "Check that special characters display correctly." Blur or crop any personal account details in the top right corner.
 
 ## Step 3
