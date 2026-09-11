@@ -77,6 +77,7 @@ Audio: I may upload 10 short audio recordings (one per number) afterward. When I
 
 - If you have audio recordings of the number words, create a folder called **assets** in the same place you saved the HTML file, and copy the MP3 files into it. Make sure the filenames match what you told the AI (for example `1.mp3`, `2.mp3`, and so on).
 - If you don't have recordings yet, that's fine. Skip this step for now and come back to it after the [Recording Audio activity](20-audio-recording.html). The game will work without sound.
+```
 
 ![Screenshot of the Claude preview pane showing the counting game, with the download button highlighted](images/countingbears-step5.png) 
 
