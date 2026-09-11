@@ -63,6 +63,7 @@ Audio: I may upload 10 short audio recordings (one per number) afterward. When I
 ![Screenshot of the Claude.ai home screen with the prompt box highlighted](images/countingbears-step3.png)
 > **Screenshot prompt for images/counting-03.png:** Capture the Claude chat window with the full prompt pasted in and the number word table visible just below it. Draw a red rectangle around the pasted table and add a callout that reads "Paste your table here." Add a second callout with an arrow pointing to the send button.
 ```
+![Screenshot of the Claude preview pane showing the counting game, with the download button highlighted](images/countingbearstips.png) 
 ## Step 4
 
 - Now we wait a minute or two for the AI to create the HTML file for you. While it works, you can watch it write the code.
