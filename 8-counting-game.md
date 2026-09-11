@@ -62,7 +62,7 @@ Audio: I may upload 10 short audio recordings (one per number) afterward. When I
 - Here is an example of the kind of game we are aiming for: [husa ƛ̕ay̓i Bear Counting Game][(https://krystalhenkel.github.io/learninggames/husatlayi.html)]
 ![Screenshot of the Claude.ai home screen with the prompt box highlighted](images/countingbears-step3.png)
 > **Screenshot prompt for images/counting-03.png:** Capture the Claude chat window with the full prompt pasted in and the number word table visible just below it. Draw a red rectangle around the pasted table and add a callout that reads "Paste your table here." Add a second callout with an arrow pointing to the send button.
-
+```
 ## Step 4
 
 - Now we wait a minute or two for the AI to create the HTML file for you. While it works, you can watch it write the code.
@@ -77,7 +77,7 @@ Audio: I may upload 10 short audio recordings (one per number) afterward. When I
 
 - If you have audio recordings of the number words, create a folder called **assets** in the same place you saved the HTML file, and copy the MP3 files into it. Make sure the filenames match what you told the AI (for example `1.mp3`, `2.mp3`, and so on).
 - If you don't have recordings yet, that's fine. Skip this step for now and come back to it after the [Recording Audio activity](20-audio-recording.html). The game will work without sound.
-```
+
 
 ![Screenshot of the Claude preview pane showing the counting game, with the download button highlighted](images/countingbears-step5.png) 
 
