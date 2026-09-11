@@ -76,11 +76,11 @@ Audio: I may upload 10 short audio recordings (one per number) afterward. When I
 
 ## Step 5
 
--You uploaded ten mp3 clips, one per number. I embedded them directly inside the HTML file (as base64 data) so the whole game stays one single, portable file with no separate audio files to lose track of, and wired each clip to its matching number.
+-Now you can upload ten mp3 clips, one per number. Claude will then put them directly inside the HTML file (as base64 data) so the whole game stays one single, portable file with no separate audio files to lose track of, and will wire each clip to its matching number.
 - If you don't have recordings yet, that's fine. Skip this step for now and come back to it after the [Recording Audio activity](20-audio-recording.html). The game will work without sound.
 
 
-![Screenshot of the Claude preview pane showing the counting game, with the download button highlighted](images/countingbears-step5.png) 
+![Screenshot of the Claude preview pane showing the counting game, with the download button highlighted](images/countingbears5.png) 
 
 ![Screenshot of the Claude.ai home screen with the prompt box highlighted](images/countingbears-step5.5.png)
 > **Screenshot prompt for images/counting-05.png:** Capture a Finder or File Explorer window showing the downloaded HTML file next to a folder named "assets," with the assets folder open in a second pane showing files 1.mp3 through 10.mp3. Draw a red rectangle around the assets folder and add a callout reading "Folder name and filenames must match your prompt exactly."
