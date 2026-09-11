@@ -76,7 +76,7 @@ Audio: I may upload 10 short audio recordings (one per number) afterward. When I
 
 ## Step 5
 
-- If you have audio recordings of the number words, create a folder called **assets** in the same place you saved the HTML file, and copy the MP3 files into it. Make sure the filenames match what you told the AI (for example `1.mp3`, `2.mp3`, and so on).
+-You uploaded ten mp3 clips, one per number. I embedded them directly inside the HTML file (as base64 data) so the whole game stays one single, portable file with no separate audio files to lose track of, and wired each clip to its matching number.
 - If you don't have recordings yet, that's fine. Skip this step for now and come back to it after the [Recording Audio activity](20-audio-recording.html). The game will work without sound.
 
 
