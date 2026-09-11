@@ -34,7 +34,7 @@ If you get stuck, please ask your instructor for assistance, and don't forget to
 - Open a word processor (Google Docs or Word both work well) and make a simple two-column table with the numbers 1 to 10 in the first column and the number word in the second column. If you have audio files, add a third column with the filename for each word (all lowercase, no spaces, for example `1.mp3`).
 - If you are working with a language that uses special characters (like the ƛ̕ and y̓ in Lik̓wala), make sure they display correctly in your document. If they look right here, they will look right in your game.
   
-![Screenshot of mechanics](images/step-3-countingbears.png)
+![Screenshot of mechanics](images/countingbearsnumbers.png)
 ## Step 3
 
 - Copy and paste the following prompt into your GenAI tool, then paste your table of number words underneath it, and press **Enter** on your keyboard. Feel free to change the animal, the language, or the number of levels!
@@ -61,8 +61,10 @@ Audio: I may upload 10 short audio recordings (one per number) afterward. When I
 ```
 ![Screenshot of the Claude.ai home screen with the prompt box highlighted](images/countingbears3.png)
 - Here is an example I wrote for Claude to understand the language I wanted to use. This will help with the audio upload later.
-  ![Screenshot of the Claude.ai home screen with the prompt box highlighted](images/countingbearstips2.png)
-  -  Here is an example of the kind of game we are aiming for: [husa ƛ̕ay̓i Bear Counting Game][(https://krystalhenkel.github.io/learninggames/husatlayi.html)]
+![Screenshot of the Claude.ai home screen with the prompt box highlighted](images/countingbearstips2.png)
+
+   -  Here is an example of the kind of game we are aiming for: [husa ƛ̕ay̓i Bear Counting Game][(https://krystalhenkel.github.io/learninggames/husatlayi.html)]
+
 > **Screenshot prompt for images/counting-03.png:** Capture the Claude chat window with the full prompt pasted in and the number word table visible just below it. Draw a red rectangle around the pasted table and add a callout that reads "Paste your table here." Add a second callout with an arrow pointing to the send button.
 > 
 ![Screenshot of the Claude preview pane showing the counting game, with the download button highlighted](images/countingbearstips.png) 
