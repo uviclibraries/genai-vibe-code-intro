@@ -25,9 +25,8 @@ If you get stuck, please ask your instructor for assistance, and don't forget to
 
 - You can use any Generative AI tool for this activity, but for coding I'd recommend using Anthropic's [Claude](https://claude.ai/), as the free version creates more visually attractive web applications by default. Alternatively, you can use [Google Gemini](https://gemini.google.com/) (which comes free with Gmail), [ChatGPT](https://chatgpt.com/), [Microsoft Copilot](https://copilot.microsoft.com/), or any other GenAI tool that you are familiar with.
 
-![Screenshot of the Claude.ai home screen with the prompt box highlighted](images/countingbearsstep1.png)
+![Screenshot of the Claude.ai home screen with the prompt box highlighted](images/countingbears1.png)
 
-> **Screenshot prompt for images/counting-01.png:** Capture the Claude.ai home screen in a fresh chat. Draw a red rectangle around the prompt input box and add a numbered callout "1" beside it with the label "Type your prompt here." Crop out the browser bookmarks bar.
 
 ## Step 2
 
