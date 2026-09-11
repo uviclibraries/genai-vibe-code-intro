@@ -70,7 +70,7 @@ Audio: I may upload 10 short audio recordings (one per number) afterward. When I
 - If you are using Claude, it will display a preview of the game on the right side of the screen once it has generated the file. Try playing a few rounds in the preview! Check that the number words are spelled exactly as they appear in your table, since this is the most common thing that needs fixing.
 - Once you are happy with it, click the **Download** button and make note of where you saved the file on your laptop (usually your Downloads folder).
 
-![Screenshot of the Claude preview pane showing the counting game, with the download button highlighted](images/countingbears-step4.png) 
+![Screenshot of the Claude preview pane showing the counting game, with the download button highlighted](images/countingbears4.png) 
 
 > **Screenshot prompt for images/counting-04.png:** Capture the Claude interface with the game preview open on the right showing the level selection screen. Draw a red rectangle around the Download button in the top right of the preview pane and add a callout labelled "Download your game." Add a second, smaller callout pointing at one of the number words in the preview that reads "Check spelling against your table."
 
