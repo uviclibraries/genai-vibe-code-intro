@@ -40,27 +40,24 @@ If you get stuck, please ask your instructor for assistance, and don't forget to
 - Copy and paste the following prompt into your GenAI tool, then paste your table of number words underneath it, and press **Enter** on your keyboard. Feel free to change the animal, the language, or the number of levels!
 
 ```
-I'd like to create a single-file HTML web application that helps people learn to count
-in the Lik̓wala language. The game shows a random number of bear emoji on the screen and
-asks "How many bears do you see?" The player chooses from four answer buttons that show
-the number words in Lik̓wala (not the digits). When the player chooses the correct
-answer, the game plays the audio file for that number word, shows a short encouraging
-message, and increases the score and streak. When the player chooses the wrong answer,
-the streak resets to zero and the correct answer is highlighted so they can learn from
-it. Include a "Hear it again" button that replays the audio, and a "Next Round" button.
+Please create a single-file HTML web game called "[GAME NAME]" inspired by Mario Party 2's "Roll Call" minigame, to help people learn the [LANGUAGE NAME] numbers 1–10.
 
-Please include two levels the player picks from at the start: "Cub" with 1 to 5 bears,
-and "Black Bear" with 1 to 10 bears. Show the score and streak at the top of the screen.
-The audio files will be in a folder called "assets" and the filenames will be the digit
-followed by .mp3, for example assets/1.mp3. If an audio file is missing the game should
-still work and simply skip the sound.
+How it should work:
 
-Make the design friendly and colourful, with large buttons that work well on a phone or
-tablet. Use UTF-8 so the special characters display properly. Add a short note at the
-bottom that says Lik̓wala is an endangered Kwak̓wala dialect of the Laichkwiltach people.
+Display a random number of [ITEM, e.g. bears/apples/stars] (1–10), scattered on screen with slight overlap allowed, like Mario Party's Roll Call bears rolling in.
+Ask: "How many [ITEM] do you see?"
+Show 4 multiple-choice answers using the [LANGUAGE NAME] number words (one correct, three distractors).
+On selection: show ✅ Correct! or ❌ Try Again.
+After a correct answer, play a sound for that number.
 
-Here are the number words to use:
-```
+Difficulty levels:
+
+[Level 1 name] — 1 to [N] [ITEM]
+[Level 2 name] — 1 to [N] [ITEM] (add more levels if you want a wider range than 1–10)
+
+Number words: Please do NOT guess or invent the words — leave them as clearly labeled placeholders in the code for me to fill in myself, since I want to supply verified words from a fluent speaker or trusted source. I will provide: 1 is [WORD FOR 1] 2 is [WORD FOR 2] 3 is [WORD FOR 3] 4 is [WORD FOR 4] 5 is [WORD FOR 5] 6 is [WORD FOR 6] 7 is [WORD FOR 7] 8 is [WORD FOR 8] 9 is [WORD FOR 9] 10 is [WORD FOR 10]
+
+Audio: I may upload 10 short audio recordings (one per number) afterward. When I do, please embed them directly in the HTML file (so it stays one portable file), and use them instead of any placeholder sound. Please use Blob URLs rather than playing long data: URIs directly through the Audio object, since that's unreliable on some browsers (notably Safari/iOS).
 
 - Here is an example of the kind of game we are aiming for: [husa ƛ̕ay̓i Bear Counting Game][(https://krystalhenkel.github.io/learninggames/husatlayi.html)]
 ![Screenshot of the Claude.ai home screen with the prompt box highlighted](images/countingbears-step3.png)
