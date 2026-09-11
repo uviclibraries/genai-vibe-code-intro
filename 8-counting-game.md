@@ -76,7 +76,7 @@ Audio: I may upload 10 short audio recordings (one per number) afterward. When I
 
 ## Step 5
 
--Now you can upload ten mp3 clips, one per number. Claude will then put them directly inside the HTML file (as base64 data) so the whole game stays one single, portable file with no separate audio files to lose track of, and will wire each clip to its matching number.
+-Now you can upload ten mp3 clips, one per number. Claude will then put them directly inside the HTML file (as base64 data) so the whole game stays one single, portable file with no separate audio files to lose track of, and will wire each clip to its matching number. Example: for the #1 
 - If you don't have recordings yet, that's fine. Skip this step for now and come back to it after the [Recording Audio activity](20-audio-recording.html). The game will work without sound.
 
 
