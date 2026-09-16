@@ -95,7 +95,7 @@ Audio: I may upload 10 short audio recordings (one per number) afterward. When I
 - If you created your game in Claude, [it should look something like this]([https://krystalhenkel.github.io/learninggames/husatlayi.html])
 - If the sounds are not playing, the most likely causes are a filename that doesn't match (check for capital letters or spaces) or the assets folder being in the wrong place. If you are having any problems, please let your instructor know and they will help you get your game up and running!
 
-![Screenshot of the finished game running in a browser during a round, with score and streak visible](images/counting-06.png)
+![Screenshot of the finished game running in a browser during a round, with score and streak visible](images/countingbears6.png)
 
 > **Screenshot prompt for images/counting-06.png:** Capture the game in a browser mid-round, with several bear emoji visible and the four answer buttons showing number words. Add three numbered callouts: "1" pointing to the score and streak display, "2" pointing to the answer buttons, and "3" pointing to the "Hear it again" button.
 
