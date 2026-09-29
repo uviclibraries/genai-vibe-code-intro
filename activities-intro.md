@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Activities Introduction
+title: Self-Directed Introduction
 nav_order: 3
 ---
-# Hands-On Activities Introduction
+# Introduction for Self-Directed Learners
 
-- Please review the following **[Introductory Slides](https://docs.google.com/presentation/d/1luAEKx7xsU5OAvMHrsUs2I9TU8JytW03LvOqplhACks){:target="_blank"}**
+- Review the following **[Introductory Slides](https://docs.google.com/presentation/d/1luAEKx7xsU5OAvMHrsUs2I9TU8JytW03LvOqplhACks){:target="_blank"}**, and please make sure to look at the text in the speaker notes section of the slide deck.
 
 - Resize Your Laptop Screen for Workshop Handouts (2 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
